@@ -2,13 +2,13 @@
 Dados do Cartola FC
 
 Dataset com o dados analisados e corrigidos dos jogadores participantes do CartolaFC. O arquivo do tipo .csv está dividido por temporada e possui os seguintes campos:
-*Campos de identificação* (inteiro  ou texto)
+*Campos de identificação* (inteiro  ou texto)\n
 *temporada_id:* identificador da temporada, formada pelo ano formado por 4 digitos
 *rodada_id:* identificador da rodada, formado por identificador de até 2 dígitos
 *clube_id:* identificador do clube do atleta, formado por indentificador de 3 dígitos
-*atleta_id:* identificador do atleta, formado por cinco a seis dígitos
-
-*Campos de pontuação* (flutuante ou inteiro)
+*atleta_id:* identificador do atleta, formado por cinco a seis dígitos\n
+\n
+*Campos de pontuação* (flutuante ou inteiro)\n
 *atleta_pontos:* pontuação ponderada dos atletas, formada pelo somatório da multiplicação por atleta em cada rodada dos scouts multiplicados pelos respectivos pesos na rodada
 *atleta_media:* pontuação média dos atletas nas rodadas anteriores
 *atleta_preco:* valor em cartoletas (moeda do fantasy game) para escalação do atleta
@@ -31,9 +31,9 @@ Dataset com o dados analisados e corrigidos dos jogadores participantes do Carto
 *PP:* frequência do scout de pênalti perdido para o atleta na rodada
 *PS:* frequência do scout de pênalti sofrido para o atleta na rodada
 *DE:* frequência do scout de defesa para o atleta na rodada
-*V:* frequência do scout de vitória para o atleta na rodada
+*V:* frequência do scout de vitória para o atleta na rodada\n
 
-*Dados do clube* (inteiro e booleano)
+*Dados do clube* (inteiro e booleano)\n
 *clube_gol_pro:* gol(s) marcado(s) pelo time do atleta na rodada
 *clube_col_con:* gol(s) sofrido(s) pelo time do atleta na rodada
 *clube_part_res:* total de pontos conseguidos pelo time do atleta na rodada (vitória = 3; empate = 1; derrota = 0)

@@ -1,0 +1,381 @@
+rodada_id,clube_mand,clube_vis,clube_mand_gol,clube_vis_gol,clube_mand_ca,clube_vis_ca,clube_mand_cv,clube_vis_cv
+"{'home': 'Fortaleza', 'away': 'Athletico-PR'}",Fortaleza,Athletico-PR,0,2,3,2,1,0
+"{'home': 'Coritiba', 'away': 'Internacional'}",Coritiba,Internacional,0,1,3,4,0,0
+"{'home': 'Sport Recife', 'away': 'Ceará SC'}",Sport Recife,Ceará SC,3,2,3,3,0,0
+"{'home': 'Santos', 'away': 'Bragantino'}",Santos,Bragantino,1,1,0,1,0,0
+"{'home': 'Flamengo', 'away': 'Atlético-MG'}",Flamengo,Atlético-MG,0,1,3,2,0,0
+"{'home': 'Grêmio', 'away': 'Fluminense'}",Grêmio,Fluminense,1,0,2,3,0,0
+"{'home': 'Corinthians', 'away': 'Atlético-GO'}",Corinthians,Atlético-GO,0,0,2,0,0,0
+"{'home': 'Botafogo', 'away': 'Bahia'}",Botafogo,Bahia,1,2,2,3,1,0
+"{'home': 'Goiás', 'away': 'São Paulo'}",Goiás,São Paulo,0,3,3,0,0,0
+"{'home': 'Palmeiras', 'away': 'Vasco da Gama'}",Palmeiras,Vasco da Gama,1,1,1,1,0,0
+"{'home': 'Athletico-PR', 'away': 'Goiás'}",Athletico-PR,Goiás,2,1,3,3,0,0
+"{'home': 'Atlético-MG', 'away': 'Corinthians'}",Atlético-MG,Corinthians,3,2,0,1,0,0
+"{'home': 'Bragantino', 'away': 'Botafogo'}",Bragantino,Botafogo,1,1,3,1,0,0
+"{'home': 'Bahia', 'away': 'Coritiba'}",Bahia,Coritiba,1,0,0,5,0,0
+"{'home': 'Atlético-GO', 'away': 'Flamengo'}",Atlético-GO,Flamengo,3,0,1,1,0,1
+"{'home': 'Ceará SC', 'away': 'Grêmio'}",Ceará SC,Grêmio,1,1,3,1,0,0
+"{'home': 'Fluminense', 'away': 'Palmeiras'}",Fluminense,Palmeiras,1,1,3,3,0,0
+"{'home': 'São Paulo', 'away': 'Fortaleza'}",São Paulo,Fortaleza,1,0,1,2,0,0
+"{'home': 'Internacional', 'away': 'Santos'}",Internacional,Santos,2,0,2,3,0,0
+"{'home': 'Vasco da Gama', 'away': 'Sport Recife'}",Vasco da Gama,Sport Recife,2,0,2,3,0,1
+"{'home': 'Grêmio', 'away': 'Corinthians'}",Grêmio,Corinthians,0,0,2,3,0,0
+"{'home': 'Coritiba', 'away': 'Flamengo'}",Coritiba,Flamengo,0,1,5,3,1,0
+"{'home': 'Palmeiras', 'away': 'Goiás'}",Palmeiras,Goiás,1,1,1,3,0,0
+"{'home': 'Atlético-MG', 'away': 'Ceará SC'}",Atlético-MG,Ceará SC,2,0,2,4,0,0
+"{'home': 'Bahia', 'away': 'Bragantino'}",Bahia,Bragantino,2,1,1,1,0,0
+"{'home': 'Vasco da Gama', 'away': 'São Paulo'}",Vasco da Gama,São Paulo,2,1,2,5,0,0
+"{'home': 'Fluminense', 'away': 'Internacional'}",Fluminense,Internacional,2,1,2,2,0,0
+"{'home': 'Atlético-GO', 'away': 'Sport Recife'}",Atlético-GO,Sport Recife,1,1,1,2,1,0
+"{'home': 'Fortaleza', 'away': 'Botafogo'}",Fortaleza,Botafogo,0,0,2,1,0,0
+"{'home': 'Santos', 'away': 'Athletico-PR'}",Santos,Athletico-PR,3,1,1,1,0,0
+"{'home': 'Flamengo', 'away': 'Grêmio'}",Flamengo,Grêmio,1,1,3,3,0,0
+"{'home': 'Bragantino', 'away': 'Fluminense'}",Bragantino,Fluminense,2,1,5,5,0,0
+"{'home': 'Athletico-PR', 'away': 'Palmeiras'}",Athletico-PR,Palmeiras,0,1,5,0,0,0
+"{'home': 'Goiás', 'away': 'Fortaleza'}",Goiás,Fortaleza,1,3,4,2,0,0
+"{'home': 'Internacional', 'away': 'Atlético-GO'}",Internacional,Atlético-GO,3,0,3,3,1,0
+"{'home': 'Corinthians', 'away': 'Coritiba'}",Corinthians,Coritiba,3,1,2,1,0,1
+"{'home': 'Botafogo', 'away': 'Atlético-MG'}",Botafogo,Atlético-MG,2,1,2,0,0,0
+"{'home': 'Sport Recife', 'away': 'Santos'}",Sport Recife,Santos,0,1,5,2,0,0
+"{'home': 'Ceará SC', 'away': 'Vasco da Gama'}",Ceará SC,Vasco da Gama,0,3,3,3,0,0
+"{'home': 'São Paulo', 'away': 'Bahia'}",São Paulo,Bahia,1,1,2,2,0,0
+"{'home': 'Athletico-PR', 'away': 'Fluminense'}",Athletico-PR,Fluminense,0,1,4,3,0,0
+"{'home': 'Internacional', 'away': 'Atlético-MG'}",Internacional,Atlético-MG,1,0,1,2,0,0
+"{'home': 'Goiás', 'away': 'Atlético-GO'}",Goiás,Atlético-GO,2,0,5,2,0,0
+"{'home': 'Flamengo', 'away': 'Botafogo'}",Flamengo,Botafogo,1,1,3,3,0,0
+"{'home': 'Vasco da Gama', 'away': 'Grêmio'}",Vasco da Gama,Grêmio,0,0,5,2,0,0
+"{'home': 'Palmeiras', 'away': 'Santos'}",Palmeiras,Santos,2,1,5,3,0,1
+"{'home': 'Bragantino', 'away': 'Coritiba'}",Bragantino,Coritiba,1,2,2,0,1,0
+"{'home': 'Sport Recife', 'away': 'São Paulo'}",Sport Recife,São Paulo,0,1,2,3,0,0
+"{'home': 'Ceará SC', 'away': 'Bahia'}",Ceará SC,Bahia,2,0,1,2,0,0
+"{'home': 'Corinthians', 'away': 'Fortaleza'}",Corinthians,Fortaleza,1,1,0,2,0,0
+"{'home': 'São Paulo', 'away': 'Athletico-PR'}",São Paulo,Athletico-PR,1,0,2,1,0,0
+"{'home': 'Corinthians', 'away': 'Bahia'}",Corinthians,Bahia,3,2,3,2,0,0
+"{'home': 'Fortaleza', 'away': 'Internacional'}",Fortaleza,Internacional,1,0,1,3,0,0
+"{'home': 'Bragantino', 'away': 'Ceará SC'}",Bragantino,Ceará SC,4,2,4,3,0,0
+"{'home': 'Atlético-GO', 'away': 'Atlético-MG'}",Atlético-GO,Atlético-MG,3,4,2,0,0,0
+"{'home': 'Grêmio', 'away': 'Palmeiras'}",Grêmio,Palmeiras,1,1,2,3,0,0
+"{'home': 'Coritiba', 'away': 'Vasco da Gama'}",Coritiba,Vasco da Gama,1,0,1,2,0,0
+"{'home': 'Botafogo', 'away': 'Santos'}",Botafogo,Santos,0,0,4,2,0,0
+"{'home': 'Sport Recife', 'away': 'Fluminense'}",Sport Recife,Fluminense,1,0,0,1,0,0
+"{'home': 'Flamengo', 'away': 'Goiás'}",Flamengo,Goiás,2,1,1,4,0,0
+"{'home': 'Botafogo', 'away': 'Internacional'}",Botafogo,Internacional,0,2,3,1,0,0
+"{'home': 'Fluminense', 'away': 'Vasco da Gama'}",Fluminense,Vasco da Gama,2,1,4,1,0,1
+"{'home': 'Bahia', 'away': 'Palmeiras'}",Bahia,Palmeiras,1,1,2,2,0,0
+"{'home': 'Fortaleza', 'away': 'Bragantino'}",Fortaleza,Bragantino,3,0,2,2,0,1
+"{'home': 'São Paulo', 'away': 'Corinthians'}",São Paulo,Corinthians,2,1,3,0,0,0
+"{'home': 'Coritiba', 'away': 'Sport Recife'}",Coritiba,Sport Recife,1,0,1,4,0,0
+"{'home': 'Santos', 'away': 'Flamengo'}",Santos,Flamengo,0,1,6,7,0,0
+"{'home': 'Atlético-GO', 'away': 'Ceará SC'}",Atlético-GO,Ceará SC,0,2,1,2,1,0
+"{'home': 'Atlético-MG', 'away': 'Athletico-PR'}",Atlético-MG,Athletico-PR,0,2,1,2,0,0
+"{'home': 'Grêmio', 'away': 'Goiás'}",Grêmio,Goiás,2,1,2,2,0,0
+"{'home': 'Ceará SC', 'away': 'Fortaleza'}",Ceará SC,Fortaleza,1,0,2,2,0,0
+"{'home': 'Fluminense', 'away': 'Atlético-GO'}",Fluminense,Atlético-GO,1,1,3,1,1,0
+"{'home': 'Goiás', 'away': 'Corinthians'}",Goiás,Corinthians,1,2,1,3,0,0
+"{'home': 'Botafogo', 'away': 'Coritiba'}",Botafogo,Coritiba,0,0,1,1,0,0
+"{'home': 'Athletico-PR', 'away': 'Bragantino'}",Athletico-PR,Bragantino,1,1,2,2,0,0
+"{'home': 'Bahia', 'away': 'Flamengo'}",Bahia,Flamengo,3,5,1,2,0,0
+"{'home': 'Palmeiras', 'away': 'Internacional'}",Palmeiras,Internacional,1,1,3,5,0,0
+"{'home': 'Santos', 'away': 'Vasco da Gama'}",Santos,Vasco da Gama,2,2,2,3,0,0
+"{'home': 'Grêmio', 'away': 'Sport Recife'}",Grêmio,Sport Recife,1,2,1,5,0,0
+"{'home': 'Atlético-MG', 'away': 'São Paulo'}",Atlético-MG,São Paulo,3,0,0,0,0,0
+"{'home': 'Flamengo', 'away': 'Fortaleza'}",Flamengo,Fortaleza,2,1,1,1,0,0
+"{'home': 'Corinthians', 'away': 'Botafogo'}",Corinthians,Botafogo,2,2,3,1,0,0
+"{'home': 'Ceará SC', 'away': 'Santos'}",Ceará SC,Santos,0,1,3,4,2,2
+"{'home': 'Bragantino', 'away': 'Palmeiras'}",Bragantino,Palmeiras,1,2,1,3,1,0
+"{'home': 'Internacional', 'away': 'Bahia'}",Internacional,Bahia,2,2,2,3,0,0
+"{'home': 'São Paulo', 'away': 'Fluminense'}",São Paulo,Fluminense,3,1,3,0,0,0
+"{'home': 'Vasco da Gama', 'away': 'Athletico-PR'}",Vasco da Gama,Athletico-PR,1,0,1,1,0,0
+"{'home': 'Atlético-GO', 'away': 'Grêmio'}",Atlético-GO,Grêmio,1,1,1,3,0,1
+"{'home': 'Sport Recife', 'away': 'Goiás'}",Sport Recife,Goiás,2,1,1,0,0,0
+"{'home': 'Coritiba', 'away': 'Atlético-MG'}",Coritiba,Atlético-MG,0,1,1,3,0,0
+"{'home': 'Athletico-PR', 'away': 'Botafogo'}",Athletico-PR,Botafogo,1,1,1,0,0,0
+"{'home': 'Fortaleza', 'away': 'Sport Recife'}",Fortaleza,Sport Recife,1,0,5,1,0,0
+"{'home': 'Goiás', 'away': 'Coritiba'}",Goiás,Coritiba,3,3,5,2,1,1
+"{'home': 'São Paulo', 'away': 'Bragantino'}",São Paulo,Bragantino,1,1,4,2,0,0
+"{'home': 'Fluminense', 'away': 'Flamengo'}",Fluminense,Flamengo,1,2,1,1,0,0
+"{'home': 'Santos', 'away': 'Atlético-MG'}",Santos,Atlético-MG,3,1,1,2,0,1
+"{'home': 'Internacional', 'away': 'Ceará SC'}",Internacional,Ceará SC,2,0,0,2,0,0
+"{'home': 'Corinthians', 'away': 'Palmeiras'}",Corinthians,Palmeiras,0,2,3,2,2,0
+"{'home': 'Bahia', 'away': 'Grêmio'}",Bahia,Grêmio,0,2,1,3,1,1
+"{'home': 'Vasco da Gama', 'away': 'Atlético-GO'}",Vasco da Gama,Atlético-GO,1,2,2,1,1,0
+"{'home': 'Athletico-PR', 'away': 'Coritiba'}",Athletico-PR,Coritiba,1,0,4,1,0,1
+"{'home': 'Santos', 'away': 'São Paulo'}",Santos,São Paulo,2,2,3,2,0,0
+"{'home': 'Fluminense', 'away': 'Corinthians'}",Fluminense,Corinthians,2,1,2,4,1,0
+"{'home': 'Grêmio', 'away': 'Fortaleza'}",Grêmio,Fortaleza,1,1,1,2,1,1
+"{'home': 'Atlético-MG', 'away': 'Bragantino'}",Atlético-MG,Bragantino,2,1,1,1,0,0
+"{'home': 'Bahia', 'away': 'Atlético-GO'}",Bahia,Atlético-GO,0,1,2,2,1,0
+"{'home': 'Ceará SC', 'away': 'Flamengo'}",Ceará SC,Flamengo,2,0,1,0,0,0
+"{'home': 'Goiás', 'away': 'Internacional'}",Goiás,Internacional,1,0,4,3,1,0
+"{'home': 'Palmeiras', 'away': 'Sport Recife'}",Palmeiras,Sport Recife,2,2,2,3,1,1
+"{'home': 'Botafogo', 'away': 'Vasco da Gama'}",Botafogo,Vasco da Gama,2,3,2,2,0,0
+"{'home': 'Sport Recife', 'away': 'Corinthians'}",Sport Recife,Corinthians,1,0,3,4,0,0
+"{'home': 'Athletico-PR', 'away': 'Bahia'}",Athletico-PR,Bahia,1,0,4,1,0,0
+"{'home': 'Internacional', 'away': 'São Paulo'}",Internacional,São Paulo,1,1,2,0,1,0
+"{'home': 'Atlético-MG', 'away': 'Grêmio'}",Atlético-MG,Grêmio,3,1,1,1,0,0
+"{'home': 'Vasco da Gama', 'away': 'Bragantino'}",Vasco da Gama,Bragantino,1,1,2,1,0,0
+"{'home': 'Palmeiras', 'away': 'Flamengo'}",Palmeiras,Flamengo,1,1,4,2,0,0
+"{'home': 'Ceará SC', 'away': 'Goiás'}",Ceará SC,Goiás,2,2,3,4,0,0
+"{'home': 'Atlético-GO', 'away': 'Botafogo'}",Atlético-GO,Botafogo,1,1,2,3,0,0
+"{'home': 'Santos', 'away': 'Fortaleza'}",Santos,Fortaleza,1,1,1,1,0,0
+"{'home': 'Fluminense', 'away': 'Coritiba'}",Fluminense,Coritiba,4,0,1,1,0,1
+"{'home': 'Grêmio', 'away': 'Internacional'}",Grêmio,Internacional,1,1,1,1,1,1
+"{'home': 'Palmeiras', 'away': 'Ceará SC'}",Palmeiras,Ceará SC,2,1,1,4,0,0
+"{'home': 'Bragantino', 'away': 'Corinthians'}",Bragantino,Corinthians,0,0,1,2,0,0
+"{'home': 'Botafogo', 'away': 'Fluminense'}",Botafogo,Fluminense,1,1,0,1,0,0
+"{'home': 'Coritiba', 'away': 'São Paulo'}",Coritiba,São Paulo,1,1,2,3,0,0
+"{'home': 'Flamengo', 'away': 'Athletico-PR'}",Flamengo,Athletico-PR,3,1,3,4,0,0
+"{'home': 'Fortaleza', 'away': 'Atlético-GO'}",Fortaleza,Atlético-GO,0,0,5,5,0,0
+"{'home': 'Goiás', 'away': 'Santos'}",Goiás,Santos,2,3,4,3,1,1
+"{'home': 'Bahia', 'away': 'Sport Recife'}",Bahia,Sport Recife,1,2,2,3,0,0
+"{'home': 'Atlético-MG', 'away': 'Vasco da Gama'}",Atlético-MG,Vasco da Gama,4,1,3,3,0,1
+"{'home': 'Corinthians', 'away': 'Santos'}",Corinthians,Santos,1,1,2,2,0,0
+"{'home': 'Flamengo', 'away': 'Sport Recife'}",Flamengo,Sport Recife,3,0,0,3,0,0
+"{'home': 'Bahia', 'away': 'Vasco da Gama'}",Bahia,Vasco da Gama,3,0,4,3,0,1
+"{'home': 'Grêmio', 'away': 'Coritiba'}",Grêmio,Coritiba,2,1,2,2,0,0
+"{'home': 'São Paulo', 'away': 'Atlético-GO'}",São Paulo,Atlético-GO,3,0,3,2,0,0
+"{'home': 'Goiás', 'away': 'Fluminense'}",Goiás,Fluminense,2,4,3,2,0,0
+"{'home': 'Botafogo', 'away': 'Palmeiras'}",Botafogo,Palmeiras,2,1,4,4,0,0
+"{'home': 'Fortaleza', 'away': 'Atlético-MG'}",Fortaleza,Atlético-MG,2,1,3,3,1,0
+"{'home': 'Athletico-PR', 'away': 'Ceará SC'}",Athletico-PR,Ceará SC,0,0,3,2,0,0
+"{'home': 'Bragantino', 'away': 'Internacional'}",Bragantino,Internacional,0,2,3,3,1,0
+"{'home': 'Vasco da Gama', 'away': 'Flamengo'}",Vasco da Gama,Flamengo,1,2,2,5,0,0
+"{'home': 'Coritiba', 'away': 'Fortaleza'}",Coritiba,Fortaleza,0,0,1,0,0,0
+"{'home': 'Palmeiras', 'away': 'São Paulo'}",Palmeiras,São Paulo,0,2,2,1,0,0
+"{'home': 'Atlético-MG', 'away': 'Goiás'}",Atlético-MG,Goiás,3,0,0,1,0,0
+"{'home': 'Fluminense', 'away': 'Bahia'}",Fluminense,Bahia,1,0,2,3,0,0
+"{'home': 'Santos', 'away': 'Grêmio'}",Santos,Grêmio,2,1,2,3,0,1
+"{'home': 'Sport Recife', 'away': 'Botafogo'}",Sport Recife,Botafogo,1,2,3,2,0,1
+"{'home': 'Atlético-GO', 'away': 'Bragantino'}",Atlético-GO,Bragantino,2,1,1,1,0,0
+"{'home': 'Ceará SC', 'away': 'Corinthians'}",Ceará SC,Corinthians,2,1,4,1,1,1
+"{'home': 'Internacional', 'away': 'Athletico-PR'}",Internacional,Athletico-PR,2,1,2,0,0,0
+"{'home': 'Palmeiras', 'away': 'Coritiba'}",Palmeiras,Coritiba,1,3,3,2,0,0
+"{'home': 'Grêmio', 'away': 'Botafogo'}",Grêmio,Botafogo,3,1,3,2,1,0
+"{'home': 'Santos', 'away': 'Atlético-GO'}",Santos,Atlético-GO,0,1,3,3,0,0
+"{'home': 'Athletico-PR', 'away': 'Corinthians'}",Athletico-PR,Corinthians,0,1,3,3,0,1
+"{'home': 'Atlético-MG', 'away': 'Fluminense'}",Atlético-MG,Fluminense,1,1,3,1,0,0
+"{'home': 'Sport Recife', 'away': 'Internacional'}",Sport Recife,Internacional,3,5,3,2,0,0
+"{'home': 'Flamengo', 'away': 'Bragantino'}",Flamengo,Bragantino,1,1,2,1,0,0
+"{'home': 'Goiás', 'away': 'Bahia'}",Goiás,Bahia,1,1,5,4,0,2
+"{'home': 'Vasco da Gama', 'away': 'Fortaleza'}",Vasco da Gama,Fortaleza,0,0,2,0,0,0
+"{'home': 'Ceará SC', 'away': 'São Paulo'}",Ceará SC,São Paulo,1,1,5,3,0,0
+"{'home': 'Atlético-GO', 'away': 'Athletico-PR'}",Atlético-GO,Athletico-PR,1,1,3,5,2,0
+"{'home': 'Coritiba', 'away': 'Santos'}",Coritiba,Santos,1,2,5,2,0,0
+"{'home': 'Fluminense', 'away': 'Ceará SC'}",Fluminense,Ceará SC,2,2,3,3,0,0
+"{'home': 'São Paulo', 'away': 'Grêmio'}",São Paulo,Grêmio,0,0,4,2,0,0
+"{'home': 'Corinthians', 'away': 'Flamengo'}",Corinthians,Flamengo,1,5,4,5,0,0
+"{'home': 'Internacional', 'away': 'Vasco da Gama'}",Internacional,Vasco da Gama,2,0,1,1,0,0
+"{'home': 'Bragantino', 'away': 'Sport Recife'}",Bragantino,Sport Recife,2,0,2,2,0,0
+"{'home': 'Fortaleza', 'away': 'Palmeiras'}",Fortaleza,Palmeiras,2,0,2,3,0,1
+"{'home': 'Bahia', 'away': 'Atlético-MG'}",Bahia,Atlético-MG,3,1,4,1,0,0
+"{'home': 'Botafogo', 'away': 'Goiás'}",Botafogo,Goiás,0,0,2,1,0,0
+"{'home': 'Vasco da Gama', 'away': 'Corinthians'}",Vasco da Gama,Corinthians,1,2,1,2,0,0
+"{'home': 'Bragantino', 'away': 'Goiás'}",Bragantino,Goiás,2,0,0,3,0,0
+"{'home': 'Ceará SC', 'away': 'Coritiba'}",Ceará SC,Coritiba,2,1,3,1,0,0
+"{'home': 'Atlético-MG', 'away': 'Sport Recife'}",Atlético-MG,Sport Recife,0,0,1,0,0,0
+"{'home': 'Atlético-GO', 'away': 'Palmeiras'}",Atlético-GO,Palmeiras,0,3,1,4,0,0
+"{'home': 'Fluminense', 'away': 'Santos'}",Fluminense,Santos,3,1,5,4,0,0
+"{'home': 'Athletico-PR', 'away': 'Grêmio'}",Athletico-PR,Grêmio,1,2,3,1,0,0
+"{'home': 'Internacional', 'away': 'Flamengo'}",Internacional,Flamengo,2,2,6,5,0,0
+"{'home': 'Bahia', 'away': 'Fortaleza'}",Bahia,Fortaleza,2,1,3,3,0,0
+"{'home': 'São Paulo', 'away': 'Botafogo'}",São Paulo,Botafogo,4,0,0,2,0,1
+"{'home': 'Botafogo', 'away': 'Ceará SC'}",Botafogo,Ceará SC,2,2,4,5,1,1
+"{'home': 'Coritiba', 'away': 'Atlético-GO'}",Coritiba,Atlético-GO,1,0,2,5,0,0
+"{'home': 'Corinthians', 'away': 'Internacional'}",Corinthians,Internacional,1,0,4,3,0,1
+"{'home': 'Fortaleza', 'away': 'Fluminense'}",Fortaleza,Fluminense,0,1,2,1,1,0
+"{'home': 'Flamengo', 'away': 'São Paulo'}",Flamengo,São Paulo,1,4,4,3,0,0
+"{'home': 'Sport Recife', 'away': 'Athletico-PR'}",Sport Recife,Athletico-PR,1,0,2,1,1,0
+"{'home': 'Santos', 'away': 'Bahia'}",Santos,Bahia,3,1,4,2,0,0
+"{'home': 'Goiás', 'away': 'Vasco da Gama'}",Goiás,Vasco da Gama,1,1,5,7,0,0
+"{'home': 'Palmeiras', 'away': 'Atlético-MG'}",Palmeiras,Atlético-MG,3,0,2,1,0,0
+"{'home': 'Grêmio', 'away': 'Bragantino'}",Grêmio,Bragantino,2,1,1,1,0,0
+"{'home': 'Athletico-PR', 'away': 'Fortaleza'}",Athletico-PR,Fortaleza,2,1,3,2,0,0
+"{'home': 'São Paulo', 'away': 'Goiás'}",São Paulo,Goiás,2,1,2,1,0,1
+"{'home': 'Atlético-GO', 'away': 'Corinthians'}",Atlético-GO,Corinthians,1,1,3,4,0,0
+"{'home': 'Vasco da Gama', 'away': 'Palmeiras'}",Vasco da Gama,Palmeiras,0,1,1,3,0,0
+"{'home': 'Internacional', 'away': 'Coritiba'}",Internacional,Coritiba,2,2,2,3,1,0
+"{'home': 'Bragantino', 'away': 'Santos'}",Bragantino,Santos,1,1,1,4,0,0
+"{'home': 'Atlético-MG', 'away': 'Flamengo'}",Atlético-MG,Flamengo,4,0,5,4,0,0
+"{'home': 'Bahia', 'away': 'Botafogo'}",Bahia,Botafogo,1,0,2,3,0,0
+"{'home': 'Fluminense', 'away': 'Grêmio'}",Fluminense,Grêmio,0,1,0,1,0,0
+"{'home': 'Ceará SC', 'away': 'Sport Recife'}",Ceará SC,Sport Recife,0,0,0,3,0,0
+"{'home': 'Sport Recife', 'away': 'Vasco da Gama'}",Sport Recife,Vasco da Gama,0,2,0,2,0,0
+"{'home': 'Santos', 'away': 'Internacional'}",Santos,Internacional,2,0,1,2,0,0
+"{'home': 'Goiás', 'away': 'Athletico-PR'}",Goiás,Athletico-PR,0,1,5,1,0,0
+"{'home': 'Corinthians', 'away': 'Atlético-MG'}",Corinthians,Atlético-MG,1,2,3,5,0,0
+"{'home': 'Fortaleza', 'away': 'São Paulo'}",Fortaleza,São Paulo,2,3,2,4,0,0
+"{'home': 'Grêmio', 'away': 'Ceará SC'}",Grêmio,Ceará SC,4,2,1,2,0,0
+"{'home': 'Palmeiras', 'away': 'Fluminense'}",Palmeiras,Fluminense,2,0,2,2,0,0
+"{'home': 'Flamengo', 'away': 'Atlético-GO'}",Flamengo,Atlético-GO,1,1,2,1,0,0
+"{'home': 'Coritiba', 'away': 'Bahia'}",Coritiba,Bahia,1,2,3,4,0,0
+"{'home': 'Botafogo', 'away': 'Bragantino'}",Botafogo,Bragantino,1,2,0,3,0,0
+"{'home': 'Bragantino', 'away': 'Bahia'}",Bragantino,Bahia,4,0,2,4,0,0
+"{'home': 'Athletico-PR', 'away': 'Santos'}",Athletico-PR,Santos,1,0,0,2,0,0
+"{'home': 'Flamengo', 'away': 'Coritiba'}",Flamengo,Coritiba,3,1,1,3,0,0
+"{'home': 'Goiás', 'away': 'Palmeiras'}",Goiás,Palmeiras,1,0,2,2,0,1
+"{'home': 'São Paulo', 'away': 'Vasco da Gama'}",São Paulo,Vasco da Gama,1,1,2,4,0,0
+"{'home': 'Ceará SC', 'away': 'Atlético-MG'}",Ceará SC,Atlético-MG,2,2,4,1,0,1
+"{'home': 'Internacional', 'away': 'Fluminense'}",Internacional,Fluminense,1,2,2,4,0,0
+"{'home': 'Botafogo', 'away': 'Fortaleza'}",Botafogo,Fortaleza,1,2,1,1,0,0
+"{'home': 'Corinthians', 'away': 'Grêmio'}",Corinthians,Grêmio,0,0,2,1,2,0
+"{'home': 'Sport Recife', 'away': 'Atlético-GO'}",Sport Recife,Atlético-GO,0,1,1,3,0,0
+"{'home': 'Atlético-MG', 'away': 'Botafogo'}",Atlético-MG,Botafogo,2,1,2,4,0,0
+"{'home': 'Coritiba', 'away': 'Corinthians'}",Coritiba,Corinthians,0,1,2,2,0,0
+"{'home': 'Fortaleza', 'away': 'Goiás'}",Fortaleza,Goiás,1,1,2,0,0,0
+"{'home': 'Palmeiras', 'away': 'Athletico-PR'}",Palmeiras,Athletico-PR,3,0,2,1,0,0
+"{'home': 'Santos', 'away': 'Sport Recife'}",Santos,Sport Recife,4,2,3,3,0,0
+"{'home': 'Bahia', 'away': 'São Paulo'}",Bahia,São Paulo,1,3,0,2,0,0
+"{'home': 'Atlético-GO', 'away': 'Internacional'}",Atlético-GO,Internacional,0,0,1,3,0,1
+"{'home': 'Vasco da Gama', 'away': 'Ceará SC'}",Vasco da Gama,Ceará SC,1,4,3,2,0,0
+"{'home': 'Fluminense', 'away': 'Bragantino'}",Fluminense,Bragantino,0,0,2,3,0,0
+"{'home': 'Grêmio', 'away': 'Flamengo'}",Grêmio,Flamengo,2,4,5,3,0,0
+"{'home': 'Fortaleza', 'away': 'Corinthians'}",Fortaleza,Corinthians,0,0,2,2,1,1
+"{'home': 'Santos', 'away': 'Palmeiras'}",Santos,Palmeiras,2,2,3,3,0,1
+"{'home': 'Botafogo', 'away': 'Flamengo'}",Botafogo,Flamengo,0,1,1,1,1,1
+"{'home': 'Fluminense', 'away': 'Athletico-PR'}",Fluminense,Athletico-PR,3,1,4,3,0,1
+"{'home': 'Bahia', 'away': 'Ceará SC'}",Bahia,Ceará SC,0,2,2,2,0,0
+"{'home': 'Coritiba', 'away': 'Bragantino'}",Coritiba,Bragantino,0,0,4,3,0,0
+"{'home': 'São Paulo', 'away': 'Sport Recife'}",São Paulo,Sport Recife,1,0,4,4,0,0
+"{'home': 'Grêmio', 'away': 'Vasco da Gama'}",Grêmio,Vasco da Gama,4,0,2,1,0,0
+"{'home': 'Atlético-MG', 'away': 'Internacional'}",Atlético-MG,Internacional,2,2,2,6,0,0
+"{'home': 'Atlético-GO', 'away': 'Goiás'}",Atlético-GO,Goiás,0,1,3,3,0,0
+"{'home': 'Athletico-PR', 'away': 'Atlético-MG'}",Athletico-PR,Atlético-MG,0,1,2,2,0,0
+"{'home': 'Bragantino', 'away': 'Fortaleza'}",Bragantino,Fortaleza,2,1,3,2,0,0
+"{'home': 'Internacional', 'away': 'Botafogo'}",Internacional,Botafogo,2,1,4,5,0,0
+"{'home': 'Palmeiras', 'away': 'Bahia'}",Palmeiras,Bahia,3,0,2,3,0,0
+"{'home': 'Goiás', 'away': 'Grêmio'}",Goiás,Grêmio,0,0,4,1,0,0
+"{'home': 'Ceará SC', 'away': 'Atlético-GO'}",Ceará SC,Atlético-GO,1,2,0,3,0,0
+"{'home': 'Flamengo', 'away': 'Santos'}",Flamengo,Santos,4,1,2,1,0,0
+"{'home': 'Corinthians', 'away': 'São Paulo'}",Corinthians,São Paulo,1,0,0,1,0,0
+"{'home': 'Sport Recife', 'away': 'Coritiba'}",Sport Recife,Coritiba,1,0,0,1,0,0
+"{'home': 'Vasco da Gama', 'away': 'Fluminense'}",Vasco da Gama,Fluminense,1,1,6,2,0,0
+"{'home': 'São Paulo', 'away': 'Atlético-MG'}",São Paulo,Atlético-MG,3,0,2,3,0,1
+"{'home': 'Atlético-GO', 'away': 'Fluminense'}",Atlético-GO,Fluminense,2,1,3,4,0,0
+"{'home': 'Sport Recife', 'away': 'Grêmio'}",Sport Recife,Grêmio,1,1,2,2,0,1
+"{'home': 'Internacional', 'away': 'Palmeiras'}",Internacional,Palmeiras,2,0,4,2,0,0
+"{'home': 'Coritiba', 'away': 'Botafogo'}",Coritiba,Botafogo,1,2,3,1,0,0
+"{'home': 'Bragantino', 'away': 'Athletico-PR'}",Bragantino,Athletico-PR,0,1,2,5,0,0
+"{'home': 'Vasco da Gama', 'away': 'Santos'}",Vasco da Gama,Santos,1,0,2,0,0,0
+"{'home': 'Flamengo', 'away': 'Bahia'}",Flamengo,Bahia,4,3,1,3,1,1
+"{'home': 'Fortaleza', 'away': 'Ceará SC'}",Fortaleza,Ceará SC,0,2,1,1,1,0
+"{'home': 'Corinthians', 'away': 'Goiás'}",Corinthians,Goiás,2,1,1,0,0,0
+"{'home': 'Atlético-MG', 'away': 'Coritiba'}",Atlético-MG,Coritiba,2,0,0,0,0,0
+"{'home': 'Goiás', 'away': 'Sport Recife'}",Goiás,Sport Recife,1,0,4,1,0,0
+"{'home': 'Fortaleza', 'away': 'Flamengo'}",Fortaleza,Flamengo,0,0,3,3,0,0
+"{'home': 'Fluminense', 'away': 'São Paulo'}",Fluminense,São Paulo,1,2,3,1,0,0
+"{'home': 'Botafogo', 'away': 'Corinthians'}",Botafogo,Corinthians,0,2,1,1,0,0
+"{'home': 'Bahia', 'away': 'Internacional'}",Bahia,Internacional,1,2,3,1,0,0
+"{'home': 'Athletico-PR', 'away': 'Vasco da Gama'}",Athletico-PR,Vasco da Gama,3,0,0,1,0,0
+"{'home': 'Palmeiras', 'away': 'Bragantino'}",Palmeiras,Bragantino,1,0,3,0,0,0
+"{'home': 'Santos', 'away': 'Ceará SC'}",Santos,Ceará SC,1,1,2,3,0,0
+"{'home': 'Grêmio', 'away': 'Atlético-GO'}",Grêmio,Atlético-GO,2,1,2,3,0,0
+"{'home': 'Grêmio', 'away': 'Bahia'}",Grêmio,Bahia,2,1,2,4,0,0
+"{'home': 'Botafogo', 'away': 'Athletico-PR'}",Botafogo,Athletico-PR,0,2,3,2,0,0
+"{'home': 'Coritiba', 'away': 'Goiás'}",Coritiba,Goiás,1,2,4,3,0,0
+"{'home': 'Sport Recife', 'away': 'Fortaleza'}",Sport Recife,Fortaleza,1,0,3,1,0,0
+"{'home': 'Flamengo', 'away': 'Fluminense'}",Flamengo,Fluminense,1,2,1,4,0,0
+"{'home': 'Bragantino', 'away': 'São Paulo'}",Bragantino,São Paulo,4,2,2,2,0,1
+"{'home': 'Ceará SC', 'away': 'Internacional'}",Ceará SC,Internacional,0,2,6,4,0,0
+"{'home': 'Atlético-GO', 'away': 'Vasco da Gama'}",Atlético-GO,Vasco da Gama,0,0,3,2,0,0
+"{'home': 'Palmeiras', 'away': 'Corinthians'}",Palmeiras,Corinthians,4,0,2,3,0,1
+"{'home': 'Atlético-MG', 'away': 'Santos'}",Atlético-MG,Santos,2,0,1,1,0,0
+"{'home': 'Sport Recife', 'away': 'Palmeiras'}",Sport Recife,Palmeiras,0,1,5,3,0,0
+"{'home': 'Coritiba', 'away': 'Athletico-PR'}",Coritiba,Athletico-PR,0,0,2,1,0,0
+"{'home': 'Fortaleza', 'away': 'Grêmio'}",Fortaleza,Grêmio,0,0,4,2,0,0
+"{'home': 'São Paulo', 'away': 'Santos'}",São Paulo,Santos,0,1,2,4,0,0
+"{'home': 'Flamengo', 'away': 'Ceará SC'}",Flamengo,Ceará SC,0,2,3,1,0,0
+"{'home': 'Atlético-GO', 'away': 'Bahia'}",Atlético-GO,Bahia,1,1,2,0,0,0
+"{'home': 'Internacional', 'away': 'Goiás'}",Internacional,Goiás,1,0,0,2,0,0
+"{'home': 'Vasco da Gama', 'away': 'Botafogo'}",Vasco da Gama,Botafogo,3,0,1,0,0,0
+"{'home': 'Bragantino', 'away': 'Atlético-MG'}",Bragantino,Atlético-MG,2,2,4,0,0,0
+"{'home': 'Corinthians', 'away': 'Fluminense'}",Corinthians,Fluminense,5,0,1,2,0,0
+"{'home': 'Palmeiras', 'away': 'Grêmio'}",Palmeiras,Grêmio,1,1,3,1,0,0
+"{'home': 'Fluminense', 'away': 'Sport Recife'}",Fluminense,Sport Recife,1,0,1,1,0,1
+"{'home': 'Vasco da Gama', 'away': 'Coritiba'}",Vasco da Gama,Coritiba,0,1,2,2,1,0
+"{'home': 'Athletico-PR', 'away': 'São Paulo'}",Athletico-PR,São Paulo,1,1,2,1,0,0
+"{'home': 'Santos', 'away': 'Botafogo'}",Santos,Botafogo,2,1,2,1,0,0
+"{'home': 'Atlético-MG', 'away': 'Atlético-GO'}",Atlético-MG,Atlético-GO,3,1,2,3,0,0
+"{'home': 'Ceará SC', 'away': 'Bragantino'}",Ceará SC,Bragantino,1,2,1,2,0,0
+"{'home': 'Internacional', 'away': 'Fortaleza'}",Internacional,Fortaleza,4,2,0,3,0,0
+"{'home': 'Goiás', 'away': 'Flamengo'}",Goiás,Flamengo,0,3,5,1,0,0
+"{'home': 'Bahia', 'away': 'Corinthians'}",Bahia,Corinthians,2,1,3,1,0,0
+"{'home': 'Botafogo', 'away': 'Atlético-GO'}",Botafogo,Atlético-GO,1,3,2,3,0,0
+"{'home': 'Bahia', 'away': 'Athletico-PR'}",Bahia,Athletico-PR,1,0,2,0,0,0
+"{'home': 'Grêmio', 'away': 'Atlético-MG'}",Grêmio,Atlético-MG,1,1,1,1,0,0
+"{'home': 'Coritiba', 'away': 'Fluminense'}",Coritiba,Fluminense,3,3,1,4,1,1
+"{'home': 'São Paulo', 'away': 'Internacional'}",São Paulo,Internacional,1,5,2,1,0,0
+"{'home': 'Bragantino', 'away': 'Vasco da Gama'}",Bragantino,Vasco da Gama,4,1,0,0,0,0
+"{'home': 'Flamengo', 'away': 'Palmeiras'}",Flamengo,Palmeiras,2,0,2,2,0,0
+"{'home': 'Fortaleza', 'away': 'Santos'}",Fortaleza,Santos,2,0,3,0,0,0
+"{'home': 'Goiás', 'away': 'Ceará SC'}",Goiás,Ceará SC,0,4,1,0,0,0
+"{'home': 'Corinthians', 'away': 'Sport Recife'}",Corinthians,Sport Recife,3,0,1,0,0,0
+"{'home': 'São Paulo', 'away': 'Coritiba'}",São Paulo,Coritiba,1,1,1,2,0,0
+"{'home': 'Vasco da Gama', 'away': 'Atlético-MG'}",Vasco da Gama,Atlético-MG,3,2,4,1,0,0
+"{'home': 'Internacional', 'away': 'Grêmio'}",Internacional,Grêmio,2,1,2,2,0,0
+"{'home': 'Athletico-PR', 'away': 'Flamengo'}",Athletico-PR,Flamengo,2,1,2,0,0,0
+"{'home': 'Ceará SC', 'away': 'Palmeiras'}",Ceará SC,Palmeiras,2,1,3,5,1,0
+"{'home': 'Atlético-GO', 'away': 'Fortaleza'}",Atlético-GO,Fortaleza,2,0,2,2,0,1
+"{'home': 'Sport Recife', 'away': 'Bahia'}",Sport Recife,Bahia,2,0,3,0,0,0
+"{'home': 'Santos', 'away': 'Goiás'}",Santos,Goiás,3,4,4,4,0,0
+"{'home': 'Fluminense', 'away': 'Botafogo'}",Fluminense,Botafogo,2,0,2,1,0,0
+"{'home': 'Corinthians', 'away': 'Bragantino'}",Corinthians,Bragantino,0,2,5,4,0,0
+"{'home': 'Vasco da Gama', 'away': 'Bahia'}",Vasco da Gama,Bahia,0,0,1,3,1,0
+"{'home': 'Ceará SC', 'away': 'Athletico-PR'}",Ceará SC,Athletico-PR,0,2,0,2,0,0
+"{'home': 'Atlético-GO', 'away': 'São Paulo'}",Atlético-GO,São Paulo,2,1,3,1,0,0
+"{'home': 'Coritiba', 'away': 'Grêmio'}",Coritiba,Grêmio,1,1,3,3,0,0
+"{'home': 'Atlético-MG', 'away': 'Fortaleza'}",Atlético-MG,Fortaleza,2,0,0,1,0,0
+"{'home': 'Internacional', 'away': 'Bragantino'}",Internacional,Bragantino,2,1,3,0,0,0
+"{'home': 'Fluminense', 'away': 'Goiás'}",Fluminense,Goiás,3,0,1,2,0,0
+"{'home': 'Sport Recife', 'away': 'Flamengo'}",Sport Recife,Flamengo,0,3,2,2,0,0
+"{'home': 'Palmeiras', 'away': 'Botafogo'}",Palmeiras,Botafogo,1,1,2,1,0,0
+"{'home': 'Santos', 'away': 'Corinthians'}",Santos,Corinthians,1,0,0,0,0,0
+"{'home': 'Grêmio', 'away': 'Santos'}",Grêmio,Santos,3,3,5,2,0,1
+"{'home': 'Bragantino', 'away': 'Atlético-GO'}",Bragantino,Atlético-GO,2,0,3,3,0,0
+"{'home': 'Corinthians', 'away': 'Ceará SC'}",Corinthians,Ceará SC,2,1,0,0,0,0
+"{'home': 'Goiás', 'away': 'Atlético-MG'}",Goiás,Atlético-MG,1,0,3,3,0,0
+"{'home': 'Bahia', 'away': 'Fluminense'}",Bahia,Fluminense,0,1,1,1,0,0
+"{'home': 'Fortaleza', 'away': 'Coritiba'}",Fortaleza,Coritiba,3,1,2,5,0,2
+"{'home': 'Flamengo', 'away': 'Vasco da Gama'}",Flamengo,Vasco da Gama,2,0,1,3,0,0
+"{'home': 'Athletico-PR', 'away': 'Internacional'}",Athletico-PR,Internacional,0,0,3,2,0,0
+"{'home': 'Botafogo', 'away': 'Sport Recife'}",Botafogo,Sport Recife,0,1,1,3,0,0
+"{'home': 'São Paulo', 'away': 'Palmeiras'}",São Paulo,Palmeiras,1,1,2,1,0,0
+"{'home': 'Bahia', 'away': 'Goiás'}",Bahia,Goiás,3,3,3,4,1,0
+"{'home': 'Atlético-GO', 'away': 'Santos'}",Atlético-GO,Santos,1,1,2,2,1,0
+"{'home': 'Bragantino', 'away': 'Flamengo'}",Bragantino,Flamengo,1,1,4,2,0,0
+"{'home': 'Botafogo', 'away': 'Grêmio'}",Botafogo,Grêmio,2,5,0,0,0,0
+"{'home': 'Internacional', 'away': 'Sport Recife'}",Internacional,Sport Recife,1,2,2,3,2,0
+"{'home': 'Fortaleza', 'away': 'Vasco da Gama'}",Fortaleza,Vasco da Gama,3,0,2,3,0,0
+"{'home': 'São Paulo', 'away': 'Ceará SC'}",São Paulo,Ceará SC,1,1,4,4,0,0
+"{'home': 'Fluminense', 'away': 'Atlético-MG'}",Fluminense,Atlético-MG,0,0,0,1,0,0
+"{'home': 'Corinthians', 'away': 'Athletico-PR'}",Corinthians,Athletico-PR,3,3,3,0,0,0
+"{'home': 'Coritiba', 'away': 'Palmeiras'}",Coritiba,Palmeiras,1,0,2,3,0,1
+"{'home': 'Goiás', 'away': 'Botafogo'}",Goiás,Botafogo,2,0,4,3,0,1
+"{'home': 'Atlético-MG', 'away': 'Bahia'}",Atlético-MG,Bahia,1,1,1,1,0,0
+"{'home': 'Santos', 'away': 'Coritiba'}",Santos,Coritiba,2,0,0,4,0,0
+"{'home': 'Flamengo', 'away': 'Corinthians'}",Flamengo,Corinthians,2,1,1,5,0,0
+"{'home': 'Vasco da Gama', 'away': 'Internacional'}",Vasco da Gama,Internacional,0,2,1,6,0,0
+"{'home': 'Athletico-PR', 'away': 'Atlético-GO'}",Athletico-PR,Atlético-GO,2,1,3,1,0,0
+"{'home': 'Palmeiras', 'away': 'Fortaleza'}",Palmeiras,Fortaleza,3,0,0,3,0,0
+"{'home': 'Grêmio', 'away': 'São Paulo'}",Grêmio,São Paulo,1,2,5,4,1,0
+"{'home': 'Ceará SC', 'away': 'Fluminense'}",Ceará SC,Fluminense,1,3,1,1,0,0
+"{'home': 'Sport Recife', 'away': 'Bragantino'}",Sport Recife,Bragantino,0,0,3,0,0,0
+"{'home': 'Coritiba', 'away': 'Ceará SC'}",Coritiba,Ceará SC,0,2,1,0,0,0
+"{'home': 'Fortaleza', 'away': 'Bahia'}",Fortaleza,Bahia,0,4,4,3,1,0
+"{'home': 'Sport Recife', 'away': 'Atlético-MG'}",Sport Recife,Atlético-MG,2,3,4,4,0,0
+"{'home': 'Corinthians', 'away': 'Vasco da Gama'}",Corinthians,Vasco da Gama,0,0,1,2,0,0
+"{'home': 'Flamengo', 'away': 'Internacional'}",Flamengo,Internacional,2,1,4,0,0,1
+"{'home': 'Santos', 'away': 'Fluminense'}",Santos,Fluminense,1,1,3,4,0,1
+"{'home': 'Grêmio', 'away': 'Athletico-PR'}",Grêmio,Athletico-PR,1,0,3,1,0,2
+"{'home': 'Goiás', 'away': 'Bragantino'}",Goiás,Bragantino,0,0,2,0,0,0
+"{'home': 'Palmeiras', 'away': 'Atlético-GO'}",Palmeiras,Atlético-GO,1,1,2,1,0,0
+"{'home': 'Botafogo', 'away': 'São Paulo'}",Botafogo,São Paulo,1,0,3,5,0,1
+"{'home': 'Bragantino', 'away': 'Grêmio'}",Bragantino,Grêmio,1,0,4,0,0,0
+"{'home': 'Bahia', 'away': 'Santos'}",Bahia,Santos,2,0,0,0,0,0
+"{'home': 'Athletico-PR', 'away': 'Sport Recife'}",Athletico-PR,Sport Recife,2,0,0,1,0,0
+"{'home': 'Atlético-GO', 'away': 'Coritiba'}",Atlético-GO,Coritiba,3,1,0,1,0,0
+"{'home': 'Internacional', 'away': 'Corinthians'}",Internacional,Corinthians,0,0,0,2,0,0
+"{'home': 'Ceará SC', 'away': 'Botafogo'}",Ceará SC,Botafogo,2,1,3,0,1,0
+"{'home': 'São Paulo', 'away': 'Flamengo'}",São Paulo,Flamengo,2,1,6,3,0,0
+"{'home': 'Atlético-MG', 'away': 'Palmeiras'}",Atlético-MG,Palmeiras,2,0,3,0,0,0
+"{'home': 'Vasco da Gama', 'away': 'Goiás'}",Vasco da Gama,Goiás,3,2,1,2,0,0
+"{'home': 'Fluminense', 'away': 'Fortaleza'}",Fluminense,Fortaleza,2,0,0,0,0,0

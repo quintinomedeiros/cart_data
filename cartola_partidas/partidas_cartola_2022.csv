@@ -1,381 +1,381 @@
 rodada_id,clube_mand,clube_vis,clube_mand_gol,clube_vis_gol,clube_mand_ca,clube_vis_ca,clube_mand_cv,clube_vis_cv
-"{'home': 'Fluminense', 'away': 'Santos'}",Fluminense,Santos,0,0,1,0,0,0
-"{'home': 'Atlético-GO', 'away': 'Flamengo'}",Atlético-GO,Flamengo,1,1,3,2,0,0
-"{'home': 'Palmeiras', 'away': 'Ceará SC'}",Palmeiras,Ceará SC,2,3,4,9,0,1
-"{'home': 'Coritiba', 'away': 'Goiás'}",Coritiba,Goiás,3,0,2,4,0,0
-"{'home': 'Botafogo', 'away': 'Corinthians'}",Botafogo,Corinthians,1,3,1,4,0,0
-"{'home': 'Atlético-MG', 'away': 'Internacional'}",Atlético-MG,Internacional,2,0,2,4,0,0
-"{'home': 'Fortaleza', 'away': 'Cuiabá'}",Fortaleza,Cuiabá,0,1,2,3,0,0
-"{'home': 'Avaí', 'away': 'América-MG'}",Avaí,América-MG,1,0,3,3,0,2
-"{'home': 'São Paulo', 'away': 'Athletico-PR'}",São Paulo,Athletico-PR,4,0,1,3,0,0
-"{'home': 'Juventude', 'away': 'Bragantino'}",Juventude,Bragantino,2,2,4,5,0,0
-"{'home': 'Goiás', 'away': 'Palmeiras'}",Goiás,Palmeiras,1,1,4,0,0,0
-"{'home': 'América-MG', 'away': 'Juventude'}",América-MG,Juventude,4,1,3,0,0,1
-"{'home': 'Corinthians', 'away': 'Avaí'}",Corinthians,Avaí,3,0,1,1,0,0
-"{'home': 'Cuiabá', 'away': 'Fluminense'}",Cuiabá,Fluminense,0,1,2,1,0,0
-"{'home': 'Santos', 'away': 'Coritiba'}",Santos,Coritiba,2,1,2,4,0,0
-"{'home': 'Flamengo', 'away': 'São Paulo'}",Flamengo,São Paulo,3,1,2,6,0,0
-"{'home': 'Athletico-PR', 'away': 'Atlético-MG'}",Athletico-PR,Atlético-MG,0,1,2,3,0,0
-"{'home': 'Internacional', 'away': 'Fortaleza'}",Internacional,Fortaleza,2,1,5,5,0,0
-"{'home': 'Bragantino', 'away': 'Atlético-GO'}",Bragantino,Atlético-GO,4,0,1,4,0,0
-"{'home': 'Ceará SC', 'away': 'Botafogo'}",Ceará SC,Botafogo,1,3,1,4,1,0
-"{'home': 'Flamengo', 'away': 'Palmeiras'}",Flamengo,Palmeiras,0,0,3,4,0,0
-"{'home': 'Ceará SC', 'away': 'Bragantino'}",Ceará SC,Bragantino,0,1,1,5,0,1
-"{'home': 'América-MG', 'away': 'Athletico-PR'}",América-MG,Athletico-PR,1,0,1,0,0,0
-"{'home': 'Goiás', 'away': 'Atlético-MG'}",Goiás,Atlético-MG,2,2,5,4,0,0
-"{'home': 'Cuiabá', 'away': 'Atlético-GO'}",Cuiabá,Atlético-GO,1,1,2,0,0,0
-"{'home': 'Botafogo', 'away': 'Juventude'}",Botafogo,Juventude,1,1,2,5,0,0
-"{'home': 'Corinthians', 'away': 'Fortaleza'}",Corinthians,Fortaleza,1,0,1,3,0,0
-"{'home': 'Coritiba', 'away': 'Fluminense'}",Coritiba,Fluminense,3,2,0,3,0,1
-"{'home': 'Internacional', 'away': 'Avaí'}",Internacional,Avaí,0,0,2,4,0,0
-"{'home': 'São Paulo', 'away': 'Santos'}",São Paulo,Santos,2,1,2,4,0,0
-"{'home': 'Bragantino', 'away': 'São Paulo'}",Bragantino,São Paulo,1,1,5,2,0,0
-"{'home': 'Athletico-PR', 'away': 'Flamengo'}",Athletico-PR,Flamengo,1,0,4,2,0,0
-"{'home': 'Palmeiras', 'away': 'Corinthians'}",Palmeiras,Corinthians,3,0,1,2,0,0
-"{'home': 'Fluminense', 'away': 'Internacional'}",Fluminense,Internacional,0,1,5,3,0,0
-"{'home': 'Atlético-MG', 'away': 'Coritiba'}",Atlético-MG,Coritiba,2,2,2,1,0,0
-"{'home': 'Santos', 'away': 'América-MG'}",Santos,América-MG,3,0,2,0,0,0
-"{'home': 'Juventude', 'away': 'Cuiabá'}",Juventude,Cuiabá,0,1,2,4,1,0
-"{'home': 'Atlético-GO', 'away': 'Botafogo'}",Atlético-GO,Botafogo,1,1,2,1,0,0
-"{'home': 'Avaí', 'away': 'Goiás'}",Avaí,Goiás,3,2,5,5,1,0
-"{'home': 'Fortaleza', 'away': 'Ceará SC'}",Fortaleza,Ceará SC,0,1,5,4,1,0
-"{'home': 'Atlético-MG', 'away': 'América-MG'}",Atlético-MG,América-MG,1,2,4,4,0,1
-"{'home': 'Athletico-PR', 'away': 'Ceará SC'}",Athletico-PR,Ceará SC,1,0,5,4,0,0
-"{'home': 'Flamengo', 'away': 'Botafogo'}",Flamengo,Botafogo,0,1,1,3,0,0
-"{'home': 'Palmeiras', 'away': 'Fluminense'}",Palmeiras,Fluminense,1,1,1,2,0,0
-"{'home': 'Atlético-GO', 'away': 'Goiás'}",Atlético-GO,Goiás,0,1,4,3,0,1
-"{'home': 'Bragantino', 'away': 'Corinthians'}",Bragantino,Corinthians,0,1,1,2,0,0
-"{'home': 'Santos', 'away': 'Cuiabá'}",Santos,Cuiabá,4,1,1,2,0,0
-"{'home': 'Juventude', 'away': 'Internacional'}",Juventude,Internacional,1,1,5,5,0,0
-"{'home': 'Fortaleza', 'away': 'São Paulo'}",Fortaleza,São Paulo,1,1,2,3,0,0
-"{'home': 'Avaí', 'away': 'Coritiba'}",Avaí,Coritiba,2,1,3,3,0,0
-"{'home': 'Bragantino', 'away': 'Atlético-MG'}",Bragantino,Atlético-MG,1,1,3,2,1,0
-"{'home': 'Atlético-GO', 'away': 'Coritiba'}",Atlético-GO,Coritiba,2,0,4,1,0,2
-"{'home': 'Flamengo', 'away': 'Goiás'}",Flamengo,Goiás,1,0,1,3,0,0
-"{'home': 'Santos', 'away': 'Ceará SC'}",Santos,Ceará SC,0,0,1,5,0,1
-"{'home': 'Juventude', 'away': 'Palmeiras'}",Juventude,Palmeiras,0,3,3,0,0,0
-"{'home': 'Cuiabá', 'away': 'Internacional'}",Cuiabá,Internacional,1,1,2,7,2,0
-"{'home': 'América-MG', 'away': 'Botafogo'}",América-MG,Botafogo,1,1,2,1,0,0
-"{'home': 'Corinthians', 'away': 'São Paulo'}",Corinthians,São Paulo,1,1,2,3,0,0
-"{'home': 'Fortaleza', 'away': 'Fluminense'}",Fortaleza,Fluminense,0,1,1,1,0,0
-"{'home': 'Athletico-PR', 'away': 'Avaí'}",Athletico-PR,Avaí,2,1,2,6,0,0
-"{'home': 'Palmeiras', 'away': 'Bragantino'}",Palmeiras,Bragantino,2,0,2,2,0,0
-"{'home': 'Ceará SC', 'away': 'Flamengo'}",Ceará SC,Flamengo,2,2,5,5,0,0
-"{'home': 'Internacional', 'away': 'Corinthians'}",Internacional,Corinthians,2,2,2,2,0,0
-"{'home': 'Atlético-MG', 'away': 'Atlético-GO'}",Atlético-MG,Atlético-GO,2,0,1,2,0,0
-"{'home': 'Fluminense', 'away': 'Athletico-PR'}",Fluminense,Athletico-PR,2,1,3,2,0,0
-"{'home': 'São Paulo', 'away': 'Cuiabá'}",São Paulo,Cuiabá,2,1,2,1,0,1
-"{'home': 'Coritiba', 'away': 'América-MG'}",Coritiba,América-MG,1,0,1,5,0,1
-"{'home': 'Botafogo', 'away': 'Fortaleza'}",Botafogo,Fortaleza,3,1,3,1,0,1
-"{'home': 'Avaí', 'away': 'Juventude'}",Avaí,Juventude,1,2,2,5,0,2
-"{'home': 'Goiás', 'away': 'Santos'}",Goiás,Santos,1,0,0,0,0,0
-"{'home': 'Goiás', 'away': 'Bragantino'}",Goiás,Bragantino,1,1,2,3,0,1
-"{'home': 'São Paulo', 'away': 'Ceará SC'}",São Paulo,Ceará SC,2,2,3,5,1,0
-"{'home': 'Fortaleza', 'away': 'Juventude'}",Fortaleza,Juventude,1,1,2,3,0,0
-"{'home': 'Coritiba', 'away': 'Botafogo'}",Coritiba,Botafogo,1,0,5,3,0,0
-"{'home': 'Santos', 'away': 'Palmeiras'}",Santos,Palmeiras,0,1,5,1,0,0
-"{'home': 'Cuiabá', 'away': 'Athletico-PR'}",Cuiabá,Athletico-PR,0,1,5,0,0,0
-"{'home': 'Corinthians', 'away': 'América-MG'}",Corinthians,América-MG,1,1,2,1,0,0
-"{'home': 'Fluminense', 'away': 'Flamengo'}",Fluminense,Flamengo,1,2,3,5,1,1
-"{'home': 'Atlético-MG', 'away': 'Avaí'}",Atlético-MG,Avaí,2,1,3,2,0,1
-"{'home': 'Internacional', 'away': 'Atlético-GO'}",Internacional,Atlético-GO,1,1,1,2,0,0
-"{'home': 'América-MG', 'away': 'Cuiabá'}",América-MG,Cuiabá,2,1,0,1,0,0
-"{'home': 'Athletico-PR', 'away': 'Santos'}",Athletico-PR,Santos,2,2,5,3,0,0
-"{'home': 'Ceará SC', 'away': 'Coritiba'}",Ceará SC,Coritiba,1,1,1,4,0,0
-"{'home': 'Avaí', 'away': 'São Paulo'}",Avaí,São Paulo,1,1,2,2,0,0
-"{'home': 'Atlético-GO', 'away': 'Corinthians'}",Atlético-GO,Corinthians,0,1,3,3,0,0
-"{'home': 'Juventude', 'away': 'Fluminense'}",Juventude,Fluminense,1,0,3,4,0,1
-"{'home': 'Flamengo', 'away': 'Fortaleza'}",Flamengo,Fortaleza,1,2,3,4,0,0
-"{'home': 'Palmeiras', 'away': 'Atlético-MG'}",Palmeiras,Atlético-MG,0,0,1,3,0,0
-"{'home': 'Bragantino', 'away': 'Internacional'}",Bragantino,Internacional,0,2,3,3,0,0
-"{'home': 'Botafogo', 'away': 'Goiás'}",Botafogo,Goiás,1,2,2,2,0,0
-"{'home': 'Cuiabá', 'away': 'Corinthians'}",Cuiabá,Corinthians,1,0,1,2,1,0
-"{'home': 'América-MG', 'away': 'Ceará SC'}",América-MG,Ceará SC,0,2,2,3,0,0
-"{'home': 'Juventude', 'away': 'Athletico-PR'}",Juventude,Athletico-PR,1,3,2,4,0,0
-"{'home': 'Atlético-GO', 'away': 'Avaí'}",Atlético-GO,Avaí,2,1,1,4,0,1
-"{'home': 'Bragantino', 'away': 'Flamengo'}",Bragantino,Flamengo,1,0,1,4,1,0
-"{'home': 'Fluminense', 'away': 'Atlético-MG'}",Fluminense,Atlético-MG,5,3,3,3,0,0
-"{'home': 'Santos', 'away': 'Internacional'}",Santos,Internacional,1,1,2,1,0,0
-"{'home': 'Palmeiras', 'away': 'Botafogo'}",Palmeiras,Botafogo,4,0,1,1,0,0
-"{'home': 'Coritiba', 'away': 'São Paulo'}",Coritiba,São Paulo,1,1,3,3,0,0
-"{'home': 'Fortaleza', 'away': 'Goiás'}",Fortaleza,Goiás,1,1,1,2,0,0
-"{'home': 'Corinthians', 'away': 'Juventude'}",Corinthians,Juventude,2,0,1,4,0,0
-"{'home': 'Atlético-MG', 'away': 'Santos'}",Atlético-MG,Santos,1,1,4,4,0,1
-"{'home': 'Fluminense', 'away': 'Atlético-GO'}",Fluminense,Atlético-GO,0,2,3,2,1,0
-"{'home': 'Cuiabá', 'away': 'Bragantino'}",Cuiabá,Bragantino,1,1,1,3,0,0
-"{'home': 'Internacional', 'away': 'Flamengo'}",Internacional,Flamengo,3,1,3,3,0,0
-"{'home': 'Goiás', 'away': 'Ceará SC'}",Goiás,Ceará SC,1,1,6,2,0,1
-"{'home': 'São Paulo', 'away': 'América-MG'}",São Paulo,América-MG,1,0,2,2,0,0
-"{'home': 'Coritiba', 'away': 'Palmeiras'}",Coritiba,Palmeiras,0,2,1,2,1,0
-"{'home': 'Fortaleza', 'away': 'Athletico-PR'}",Fortaleza,Athletico-PR,0,0,1,3,0,0
-"{'home': 'Botafogo', 'away': 'Avaí'}",Botafogo,Avaí,0,1,4,5,0,1
-"{'home': 'Juventude', 'away': 'Santos'}",Juventude,Santos,1,2,1,2,1,0
-"{'home': 'Ceará SC', 'away': 'Atlético-MG'}",Ceará SC,Atlético-MG,0,0,2,3,0,0
-"{'home': 'Bragantino', 'away': 'Coritiba'}",Bragantino,Coritiba,4,2,2,1,0,0
-"{'home': 'Goiás', 'away': 'Internacional'}",Goiás,Internacional,1,2,4,3,0,0
-"{'home': 'Flamengo', 'away': 'Cuiabá'}",Flamengo,Cuiabá,2,0,1,2,0,0
-"{'home': 'Athletico-PR', 'away': 'Corinthians'}",Athletico-PR,Corinthians,1,1,2,2,1,1
-"{'home': 'América-MG', 'away': 'Fluminense'}",América-MG,Fluminense,0,0,3,1,1,0
-"{'home': 'Botafogo', 'away': 'São Paulo'}",Botafogo,São Paulo,1,0,6,3,0,0
-"{'home': 'Palmeiras', 'away': 'Atlético-GO'}",Palmeiras,Atlético-GO,4,2,2,1,0,1
-"{'home': 'Avaí', 'away': 'Fortaleza'}",Avaí,Fortaleza,3,2,1,3,0,0
-"{'home': 'Cuiabá', 'away': 'Ceará SC'}",Cuiabá,Ceará SC,0,0,0,2,0,0
-"{'home': 'Santos', 'away': 'Bragantino'}",Santos,Bragantino,2,2,4,3,0,0
-"{'home': 'Atlético-MG', 'away': 'Flamengo'}",Atlético-MG,Flamengo,2,0,4,1,0,0
-"{'home': 'Coritiba', 'away': 'Athletico-PR'}",Coritiba,Athletico-PR,0,1,5,6,2,0
-"{'home': 'Corinthians', 'away': 'Goiás'}",Corinthians,Goiás,1,0,1,4,0,0
-"{'home': 'Internacional', 'away': 'Botafogo'}",Internacional,Botafogo,2,3,5,6,2,2
-"{'home': 'Fortaleza', 'away': 'América-MG'}",Fortaleza,América-MG,1,0,1,0,0,0
-"{'home': 'Atlético-GO', 'away': 'Juventude'}",Atlético-GO,Juventude,3,1,3,4,0,1
-"{'home': 'Fluminense', 'away': 'Avaí'}",Fluminense,Avaí,2,0,0,3,0,0
-"{'home': 'São Paulo', 'away': 'Palmeiras'}",São Paulo,Palmeiras,1,2,3,1,0,0
-"{'home': 'Internacional', 'away': 'Coritiba'}",Internacional,Coritiba,3,0,2,4,0,0
-"{'home': 'Athletico-PR', 'away': 'Bragantino'}",Athletico-PR,Bragantino,4,2,4,1,0,0
-"{'home': 'Flamengo', 'away': 'América-MG'}",Flamengo,América-MG,3,0,1,2,0,0
-"{'home': 'Corinthians', 'away': 'Santos'}",Corinthians,Santos,0,0,3,3,0,0
-"{'home': 'Atlético-MG', 'away': 'Fortaleza'}",Atlético-MG,Fortaleza,3,2,0,5,0,0
-"{'home': 'Avaí', 'away': 'Palmeiras'}",Avaí,Palmeiras,2,2,4,1,0,0
-"{'home': 'Botafogo', 'away': 'Fluminense'}",Botafogo,Fluminense,0,1,3,2,0,0
-"{'home': 'Goiás', 'away': 'Cuiabá'}",Goiás,Cuiabá,1,0,3,4,0,1
-"{'home': 'Ceará SC', 'away': 'Atlético-GO'}",Ceará SC,Atlético-GO,1,1,2,2,0,0
-"{'home': 'São Paulo', 'away': 'Juventude'}",São Paulo,Juventude,0,0,3,4,0,0
-"{'home': 'Juventude', 'away': 'Atlético-MG'}",Juventude,Atlético-MG,1,2,2,1,0,0
-"{'home': 'Fluminense', 'away': 'Corinthians'}",Fluminense,Corinthians,4,0,0,3,0,0
-"{'home': 'Santos', 'away': 'Flamengo'}",Santos,Flamengo,1,2,4,2,0,0
-"{'home': 'Ceará SC', 'away': 'Internacional'}",Ceará SC,Internacional,1,1,4,3,0,1
-"{'home': 'Palmeiras', 'away': 'Athletico-PR'}",Palmeiras,Athletico-PR,0,2,1,2,1,0
-"{'home': 'Avaí', 'away': 'Cuiabá'}",Avaí,Cuiabá,1,2,0,0,0,0
-"{'home': 'Atlético-GO', 'away': 'São Paulo'}",Atlético-GO,São Paulo,1,2,5,7,0,0
-"{'home': 'América-MG', 'away': 'Goiás'}",América-MG,Goiás,1,0,2,2,0,0
-"{'home': 'Coritiba', 'away': 'Fortaleza'}",Coritiba,Fortaleza,2,1,2,3,1,0
-"{'home': 'Bragantino', 'away': 'Botafogo'}",Bragantino,Botafogo,0,1,1,4,1,0
-"{'home': 'Bragantino', 'away': 'Avaí'}",Bragantino,Avaí,4,0,1,3,0,0
-"{'home': 'Fluminense', 'away': 'Ceará SC'}",Fluminense,Ceará SC,2,1,2,3,0,0
-"{'home': 'Goiás', 'away': 'Athletico-PR'}",Goiás,Athletico-PR,2,1,2,1,0,0
-"{'home': 'Coritiba', 'away': 'Juventude'}",Coritiba,Juventude,2,2,1,2,0,0
-"{'home': 'Corinthians', 'away': 'Flamengo'}",Corinthians,Flamengo,1,0,2,4,0,0
-"{'home': 'Santos', 'away': 'Atlético-GO'}",Santos,Atlético-GO,1,0,5,4,0,0
-"{'home': 'Fortaleza', 'away': 'Palmeiras'}",Fortaleza,Palmeiras,0,0,0,1,0,0
-"{'home': 'Atlético-MG', 'away': 'São Paulo'}",Atlético-MG,São Paulo,0,0,1,1,0,0
-"{'home': 'Cuiabá', 'away': 'Botafogo'}",Cuiabá,Botafogo,2,0,1,2,0,2
-"{'home': 'Internacional', 'away': 'América-MG'}",Internacional,América-MG,1,0,0,5,0,0
-"{'home': 'Athletico-PR', 'away': 'Internacional'}",Athletico-PR,Internacional,0,0,1,2,0,0
-"{'home': 'Flamengo', 'away': 'Coritiba'}",Flamengo,Coritiba,2,0,0,1,0,0
-"{'home': 'Avaí', 'away': 'Santos'}",Avaí,Santos,1,0,5,3,0,0
-"{'home': 'Ceará SC', 'away': 'Corinthians'}",Ceará SC,Corinthians,3,1,1,1,0,0
-"{'home': 'Juventude', 'away': 'Goiás'}",Juventude,Goiás,0,0,2,3,0,0
-"{'home': 'São Paulo', 'away': 'Fluminense'}",São Paulo,Fluminense,2,2,4,2,0,0
-"{'home': 'Botafogo', 'away': 'Atlético-MG'}",Botafogo,Atlético-MG,0,1,4,3,0,0
-"{'home': 'Atlético-GO', 'away': 'Fortaleza'}",Atlético-GO,Fortaleza,0,1,1,0,0,0
-"{'home': 'América-MG', 'away': 'Bragantino'}",América-MG,Bragantino,0,3,3,1,0,0
-"{'home': 'Palmeiras', 'away': 'Cuiabá'}",Palmeiras,Cuiabá,1,0,3,1,0,0
-"{'home': 'Ceará SC', 'away': 'Avaí'}",Ceará SC,Avaí,1,0,0,2,0,0
-"{'home': 'Bragantino', 'away': 'Fortaleza'}",Bragantino,Fortaleza,2,1,4,3,0,0
-"{'home': 'Goiás', 'away': 'Fluminense'}",Goiás,Fluminense,2,3,2,0,0,0
-"{'home': 'Athletico-PR', 'away': 'Atlético-GO'}",Athletico-PR,Atlético-GO,4,1,3,0,0,0
-"{'home': 'Flamengo', 'away': 'Juventude'}",Flamengo,Juventude,4,0,3,3,0,1
-"{'home': 'Internacional', 'away': 'São Paulo'}",Internacional,São Paulo,3,3,4,5,0,0
-"{'home': 'Santos', 'away': 'Botafogo'}",Santos,Botafogo,2,0,2,2,0,0
-"{'home': 'Corinthians', 'away': 'Coritiba'}",Corinthians,Coritiba,3,1,1,3,0,0
-"{'home': 'Cuiabá', 'away': 'Atlético-MG'}",Cuiabá,Atlético-MG,1,1,1,1,0,0
-"{'home': 'América-MG', 'away': 'Palmeiras'}",América-MG,Palmeiras,0,1,5,3,0,0
-"{'home': 'São Paulo', 'away': 'Goiás'}",São Paulo,Goiás,3,3,2,5,0,0
-"{'home': 'Botafogo', 'away': 'Athletico-PR'}",Botafogo,Athletico-PR,2,0,0,2,0,0
-"{'home': 'Avaí', 'away': 'Flamengo'}",Avaí,Flamengo,1,2,1,1,0,0
-"{'home': 'Fluminense', 'away': 'Bragantino'}",Fluminense,Bragantino,2,1,5,2,1,0
-"{'home': 'Palmeiras', 'away': 'Internacional'}",Palmeiras,Internacional,2,1,0,1,0,0
-"{'home': 'Juventude', 'away': 'Ceará SC'}",Juventude,Ceará SC,1,0,1,3,0,0
-"{'home': 'Atlético-MG', 'away': 'Corinthians'}",Atlético-MG,Corinthians,1,2,2,1,0,0
-"{'home': 'Atlético-GO', 'away': 'América-MG'}",Atlético-GO,América-MG,0,1,0,1,0,0
-"{'home': 'Fortaleza', 'away': 'Santos'}",Fortaleza,Santos,0,0,4,4,0,0
-"{'home': 'Coritiba', 'away': 'Cuiabá'}",Coritiba,Cuiabá,1,0,5,3,1,0
-"{'home': 'Goiás', 'away': 'Coritiba'}",Goiás,Coritiba,1,0,1,2,0,1
-"{'home': 'Ceará SC', 'away': 'Palmeiras'}",Ceará SC,Palmeiras,1,2,3,3,1,0
-"{'home': 'Corinthians', 'away': 'Botafogo'}",Corinthians,Botafogo,1,0,0,0,0,0
-"{'home': 'Flamengo', 'away': 'Atlético-GO'}",Flamengo,Atlético-GO,4,1,0,7,0,1
-"{'home': 'Athletico-PR', 'away': 'São Paulo'}",Athletico-PR,São Paulo,1,0,3,4,0,0
-"{'home': 'Internacional', 'away': 'Atlético-MG'}",Internacional,Atlético-MG,3,0,1,1,0,0
-"{'home': 'Cuiabá', 'away': 'Fortaleza'}",Cuiabá,Fortaleza,0,1,2,4,0,0
-"{'home': 'América-MG', 'away': 'Avaí'}",América-MG,Avaí,3,1,1,0,0,0
-"{'home': 'Bragantino', 'away': 'Juventude'}",Bragantino,Juventude,1,0,1,1,0,0
-"{'home': 'Santos', 'away': 'Fluminense'}",Santos,Fluminense,2,2,2,5,0,0
-"{'home': 'Juventude', 'away': 'América-MG'}",Juventude,América-MG,0,1,1,2,0,0
-"{'home': 'Botafogo', 'away': 'Ceará SC'}",Botafogo,Ceará SC,1,1,3,4,0,0
-"{'home': 'Avaí', 'away': 'Corinthians'}",Avaí,Corinthians,1,1,2,1,0,0
-"{'home': 'Atlético-GO', 'away': 'Bragantino'}",Atlético-GO,Bragantino,2,1,2,1,0,0
-"{'home': 'São Paulo', 'away': 'Flamengo'}",São Paulo,Flamengo,0,2,2,2,0,0
-"{'home': 'Fluminense', 'away': 'Cuiabá'}",Fluminense,Cuiabá,1,0,2,1,0,0
-"{'home': 'Palmeiras', 'away': 'Goiás'}",Palmeiras,Goiás,3,0,2,3,0,0
-"{'home': 'Fortaleza', 'away': 'Internacional'}",Fortaleza,Internacional,3,0,1,5,1,0
-"{'home': 'Atlético-MG', 'away': 'Athletico-PR'}",Atlético-MG,Athletico-PR,2,3,1,2,0,0
-"{'home': 'Coritiba', 'away': 'Santos'}",Coritiba,Santos,1,2,3,3,0,0
-"{'home': 'Goiás', 'away': 'Avaí'}",Goiás,Avaí,1,1,1,2,1,0
-"{'home': 'Corinthians', 'away': 'Palmeiras'}",Corinthians,Palmeiras,0,1,2,2,0,0
-"{'home': 'Cuiabá', 'away': 'Juventude'}",Cuiabá,Juventude,1,0,4,5,0,1
-"{'home': 'Botafogo', 'away': 'Atlético-GO'}",Botafogo,Atlético-GO,0,0,1,3,1,0
-"{'home': 'Coritiba', 'away': 'Atlético-MG'}",Coritiba,Atlético-MG,0,1,3,0,0,0
-"{'home': 'Ceará SC', 'away': 'Fortaleza'}",Ceará SC,Fortaleza,0,1,3,4,0,0
-"{'home': 'Flamengo', 'away': 'Athletico-PR'}",Flamengo,Athletico-PR,5,0,3,2,0,0
-"{'home': 'São Paulo', 'away': 'Bragantino'}",São Paulo,Bragantino,3,0,1,0,0,0
-"{'home': 'América-MG', 'away': 'Santos'}",América-MG,Santos,1,0,1,0,0,0
-"{'home': 'Internacional', 'away': 'Fluminense'}",Internacional,Fluminense,3,0,1,1,0,0
-"{'home': 'Atlético-MG', 'away': 'Goiás'}",Atlético-MG,Goiás,0,1,0,0,0,0
-"{'home': 'Fluminense', 'away': 'Coritiba'}",Fluminense,Coritiba,5,2,1,2,0,0
-"{'home': 'Juventude', 'away': 'Botafogo'}",Juventude,Botafogo,2,2,2,2,0,0
-"{'home': 'Palmeiras', 'away': 'Flamengo'}",Palmeiras,Flamengo,1,1,0,2,0,0
-"{'home': 'Athletico-PR', 'away': 'América-MG'}",Athletico-PR,América-MG,1,1,0,0,0,0
-"{'home': 'Atlético-GO', 'away': 'Cuiabá'}",Atlético-GO,Cuiabá,1,1,2,2,1,0
-"{'home': 'Fortaleza', 'away': 'Corinthians'}",Fortaleza,Corinthians,1,0,1,2,0,0
-"{'home': 'Bragantino', 'away': 'Ceará SC'}",Bragantino,Ceará SC,1,1,3,4,0,0
-"{'home': 'Santos', 'away': 'São Paulo'}",Santos,São Paulo,1,0,4,2,0,0
-"{'home': 'Avaí', 'away': 'Internacional'}",Avaí,Internacional,0,1,5,1,0,0
-"{'home': 'Goiás', 'away': 'Atlético-GO'}",Goiás,Atlético-GO,2,1,2,2,1,1
-"{'home': 'Coritiba', 'away': 'Avaí'}",Coritiba,Avaí,1,0,4,3,0,0
-"{'home': 'Fluminense', 'away': 'Palmeiras'}",Fluminense,Palmeiras,1,1,3,3,0,0
-"{'home': 'Ceará SC', 'away': 'Athletico-PR'}",Ceará SC,Athletico-PR,0,0,0,1,0,0
-"{'home': 'São Paulo', 'away': 'Fortaleza'}",São Paulo,Fortaleza,0,1,2,2,0,0
-"{'home': 'América-MG', 'away': 'Atlético-MG'}",América-MG,Atlético-MG,1,1,4,4,0,0
-"{'home': 'Botafogo', 'away': 'Flamengo'}",Botafogo,Flamengo,0,1,3,2,0,0
-"{'home': 'Cuiabá', 'away': 'Santos'}",Cuiabá,Santos,0,0,0,0,0,0
-"{'home': 'Internacional', 'away': 'Juventude'}",Internacional,Juventude,4,0,0,3,0,0
-"{'home': 'Corinthians', 'away': 'Bragantino'}",Corinthians,Bragantino,1,0,1,1,0,0
-"{'home': 'Juventude', 'away': 'Avaí'}",Juventude,Avaí,1,1,6,6,0,0
-"{'home': 'Bragantino', 'away': 'Palmeiras'}",Bragantino,Palmeiras,2,2,4,4,0,0
-"{'home': 'Athletico-PR', 'away': 'Fluminense'}",Athletico-PR,Fluminense,1,0,2,0,0,0
-"{'home': 'América-MG', 'away': 'Coritiba'}",América-MG,Coritiba,2,0,2,3,0,0
-"{'home': 'Flamengo', 'away': 'Ceará SC'}",Flamengo,Ceará SC,1,1,4,6,1,1
-"{'home': 'Corinthians', 'away': 'Internacional'}",Corinthians,Internacional,2,2,2,2,0,0
-"{'home': 'Fortaleza', 'away': 'Botafogo'}",Fortaleza,Botafogo,1,3,1,2,0,0
-"{'home': 'Atlético-GO', 'away': 'Atlético-MG'}",Atlético-GO,Atlético-MG,0,2,1,2,0,0
-"{'home': 'Cuiabá', 'away': 'São Paulo'}",Cuiabá,São Paulo,1,1,3,2,0,1
-"{'home': 'Santos', 'away': 'Goiás'}",Santos,Goiás,1,2,1,2,0,0
-"{'home': 'Atlético-MG', 'away': 'Bragantino'}",Atlético-MG,Bragantino,1,1,1,2,0,0
-"{'home': 'Internacional', 'away': 'Cuiabá'}",Internacional,Cuiabá,1,0,1,3,0,0
-"{'home': 'Ceará SC', 'away': 'Santos'}",Ceará SC,Santos,2,1,4,3,0,0
-"{'home': 'Fluminense', 'away': 'Fortaleza'}",Fluminense,Fortaleza,2,1,1,2,0,0
-"{'home': 'Palmeiras', 'away': 'Juventude'}",Palmeiras,Juventude,2,1,0,3,0,0
-"{'home': 'Avaí', 'away': 'Athletico-PR'}",Avaí,Athletico-PR,1,1,3,4,0,1
-"{'home': 'Botafogo', 'away': 'América-MG'}",Botafogo,América-MG,0,0,1,5,0,0
-"{'home': 'São Paulo', 'away': 'Corinthians'}",São Paulo,Corinthians,1,1,3,1,0,0
-"{'home': 'Coritiba', 'away': 'Atlético-GO'}",Coritiba,Atlético-GO,2,0,6,3,0,1
-"{'home': 'Goiás', 'away': 'Flamengo'}",Goiás,Flamengo,1,1,3,1,0,0
-"{'home': 'Avaí', 'away': 'Atlético-MG'}",Avaí,Atlético-MG,1,0,4,3,0,0
-"{'home': 'Botafogo', 'away': 'Coritiba'}",Botafogo,Coritiba,2,0,2,4,0,0
-"{'home': 'Bragantino', 'away': 'Goiás'}",Bragantino,Goiás,1,1,0,5,0,0
-"{'home': 'Flamengo', 'away': 'Fluminense'}",Flamengo,Fluminense,1,2,1,5,2,3
-"{'home': 'Ceará SC', 'away': 'São Paulo'}",Ceará SC,São Paulo,0,2,5,2,2,0
-"{'home': 'América-MG', 'away': 'Corinthians'}",América-MG,Corinthians,1,0,1,3,0,0
-"{'home': 'Juventude', 'away': 'Fortaleza'}",Juventude,Fortaleza,1,1,2,3,0,0
-"{'home': 'Palmeiras', 'away': 'Santos'}",Palmeiras,Santos,1,0,3,4,1,0
-"{'home': 'Athletico-PR', 'away': 'Cuiabá'}",Athletico-PR,Cuiabá,2,2,3,2,0,1
-"{'home': 'Atlético-GO', 'away': 'Internacional'}",Atlético-GO,Internacional,1,2,3,2,0,0
-"{'home': 'São Paulo', 'away': 'Avaí'}",São Paulo,Avaí,4,0,2,4,0,0
-"{'home': 'Santos', 'away': 'Athletico-PR'}",Santos,Athletico-PR,2,0,3,3,0,0
-"{'home': 'Coritiba', 'away': 'Ceará SC'}",Coritiba,Ceará SC,1,0,2,4,0,0
-"{'home': 'Corinthians', 'away': 'Atlético-GO'}",Corinthians,Atlético-GO,2,1,0,3,0,0
-"{'home': 'Fluminense', 'away': 'Juventude'}",Fluminense,Juventude,4,0,1,1,0,0
-"{'home': 'Fortaleza', 'away': 'Flamengo'}",Fortaleza,Flamengo,3,2,2,5,0,0
-"{'home': 'Cuiabá', 'away': 'América-MG'}",Cuiabá,América-MG,2,1,1,6,0,0
-"{'home': 'Internacional', 'away': 'Bragantino'}",Internacional,Bragantino,0,0,1,2,0,0
-"{'home': 'Atlético-MG', 'away': 'Palmeiras'}",Atlético-MG,Palmeiras,0,1,3,3,0,0
-"{'home': 'Goiás', 'away': 'Botafogo'}",Goiás,Botafogo,0,1,4,4,0,0
-"{'home': 'Atlético-MG', 'away': 'Fluminense'}",Atlético-MG,Fluminense,2,0,2,3,0,1
-"{'home': 'Internacional', 'away': 'Santos'}",Internacional,Santos,1,0,1,4,0,0
-"{'home': 'Ceará SC', 'away': 'América-MG'}",Ceará SC,América-MG,1,2,3,4,0,0
-"{'home': 'Avaí', 'away': 'Atlético-GO'}",Avaí,Atlético-GO,1,2,2,4,0,0
-"{'home': 'Athletico-PR', 'away': 'Juventude'}",Athletico-PR,Juventude,2,0,3,5,0,0
-"{'home': 'Flamengo', 'away': 'Bragantino'}",Flamengo,Bragantino,4,1,1,0,0,1
-"{'home': 'Goiás', 'away': 'Fortaleza'}",Goiás,Fortaleza,0,1,3,2,0,0
-"{'home': 'Corinthians', 'away': 'Cuiabá'}",Corinthians,Cuiabá,2,0,1,0,0,0
-"{'home': 'Botafogo', 'away': 'Palmeiras'}",Botafogo,Palmeiras,1,3,4,2,0,1
-"{'home': 'São Paulo', 'away': 'Coritiba'}",São Paulo,Coritiba,3,1,2,6,0,0
-"{'home': 'Juventude', 'away': 'Corinthians'}",Juventude,Corinthians,2,2,1,2,0,0
-"{'home': 'Atlético-GO', 'away': 'Fluminense'}",Atlético-GO,Fluminense,3,2,4,0,0,0
-"{'home': 'Ceará SC', 'away': 'Goiás'}",Ceará SC,Goiás,1,1,4,4,1,0
-"{'home': 'Bragantino', 'away': 'Cuiabá'}",Bragantino,Cuiabá,2,1,2,3,0,0
-"{'home': 'Athletico-PR', 'away': 'Fortaleza'}",Athletico-PR,Fortaleza,1,1,2,1,0,0
-"{'home': 'Flamengo', 'away': 'Internacional'}",Flamengo,Internacional,0,0,3,2,0,0
-"{'home': 'Santos', 'away': 'Atlético-MG'}",Santos,Atlético-MG,1,2,2,4,1,0
-"{'home': 'Palmeiras', 'away': 'Coritiba'}",Palmeiras,Coritiba,4,0,1,2,0,0
-"{'home': 'América-MG', 'away': 'São Paulo'}",América-MG,São Paulo,1,2,2,4,0,0
-"{'home': 'Avaí', 'away': 'Botafogo'}",Avaí,Botafogo,1,2,2,4,0,0
-"{'home': 'Cuiabá', 'away': 'Flamengo'}",Cuiabá,Flamengo,1,2,2,2,0,0
-"{'home': 'Corinthians', 'away': 'Athletico-PR'}",Corinthians,Athletico-PR,2,1,1,0,0,0
-"{'home': 'Internacional', 'away': 'Goiás'}",Internacional,Goiás,4,2,1,7,0,0
-"{'home': 'São Paulo', 'away': 'Botafogo'}",São Paulo,Botafogo,0,1,3,2,1,0
-"{'home': 'Fortaleza', 'away': 'Avaí'}",Fortaleza,Avaí,2,0,1,1,0,0
-"{'home': 'Coritiba', 'away': 'Bragantino'}",Coritiba,Bragantino,2,1,0,3,1,0
-"{'home': 'Atlético-MG', 'away': 'Ceará SC'}",Atlético-MG,Ceará SC,0,0,3,5,0,0
-"{'home': 'Fluminense', 'away': 'América-MG'}",Fluminense,América-MG,0,2,1,3,0,0
-"{'home': 'Atlético-GO', 'away': 'Palmeiras'}",Atlético-GO,Palmeiras,1,1,4,2,0,0
-"{'home': 'Santos', 'away': 'Juventude'}",Santos,Juventude,4,1,2,0,0,0
-"{'home': 'Flamengo', 'away': 'Atlético-MG'}",Flamengo,Atlético-MG,1,0,4,0,0,0
-"{'home': 'América-MG', 'away': 'Fortaleza'}",América-MG,Fortaleza,1,2,1,3,0,1
-"{'home': 'Ceará SC', 'away': 'Cuiabá'}",Ceará SC,Cuiabá,1,1,4,5,0,1
-"{'home': 'Palmeiras', 'away': 'São Paulo'}",Palmeiras,São Paulo,0,0,3,3,0,2
-"{'home': 'Juventude', 'away': 'Atlético-GO'}",Juventude,Atlético-GO,1,1,2,1,0,0
-"{'home': 'Botafogo', 'away': 'Internacional'}",Botafogo,Internacional,0,1,3,5,0,0
-"{'home': 'Avaí', 'away': 'Fluminense'}",Avaí,Fluminense,0,3,2,0,0,0
-"{'home': 'Athletico-PR', 'away': 'Coritiba'}",Athletico-PR,Coritiba,1,0,3,2,0,0
-"{'home': 'Bragantino', 'away': 'Santos'}",Bragantino,Santos,0,2,3,4,1,0
-"{'home': 'Goiás', 'away': 'Corinthians'}",Goiás,Corinthians,0,0,2,3,0,0
-"{'home': 'Bragantino', 'away': 'Athletico-PR'}",Bragantino,Athletico-PR,4,2,0,3,0,0
-"{'home': 'América-MG', 'away': 'Flamengo'}",América-MG,Flamengo,1,2,1,1,0,0
-"{'home': 'Santos', 'away': 'Corinthians'}",Santos,Corinthians,0,1,2,4,1,1
-"{'home': 'Palmeiras', 'away': 'Avaí'}",Palmeiras,Avaí,3,0,2,2,0,0
-"{'home': 'Fluminense', 'away': 'Botafogo'}",Fluminense,Botafogo,2,2,3,2,0,0
-"{'home': 'Juventude', 'away': 'São Paulo'}",Juventude,São Paulo,1,2,2,2,0,0
-"{'home': 'Coritiba', 'away': 'Internacional'}",Coritiba,Internacional,1,1,3,1,0,0
-"{'home': 'Atlético-GO', 'away': 'Ceará SC'}",Atlético-GO,Ceará SC,1,0,3,2,0,0
-"{'home': 'Cuiabá', 'away': 'Goiás'}",Cuiabá,Goiás,1,2,3,4,0,0
-"{'home': 'Fortaleza', 'away': 'Atlético-MG'}",Fortaleza,Atlético-MG,0,0,4,1,0,0
-"{'home': 'Flamengo', 'away': 'Santos'}",Flamengo,Santos,3,2,3,4,0,0
-"{'home': 'Athletico-PR', 'away': 'Palmeiras'}",Athletico-PR,Palmeiras,1,3,3,5,1,0
-"{'home': 'Botafogo', 'away': 'Bragantino'}",Botafogo,Bragantino,2,1,1,4,0,0
-"{'home': 'Corinthians', 'away': 'Fluminense'}",Corinthians,Fluminense,0,2,2,3,0,0
-"{'home': 'Internacional', 'away': 'Ceará SC'}",Internacional,Ceará SC,2,1,0,2,0,0
-"{'home': 'Goiás', 'away': 'América-MG'}",Goiás,América-MG,2,2,2,3,0,0
-"{'home': 'Fortaleza', 'away': 'Coritiba'}",Fortaleza,Coritiba,3,1,1,1,0,1
-"{'home': 'São Paulo', 'away': 'Atlético-GO'}",São Paulo,Atlético-GO,2,1,2,4,0,1
-"{'home': 'Atlético-MG', 'away': 'Juventude'}",Atlético-MG,Juventude,1,0,2,1,0,0
-"{'home': 'Cuiabá', 'away': 'Avaí'}",Cuiabá,Avaí,1,0,1,1,0,0
-"{'home': 'Ceará SC', 'away': 'Fluminense'}",Ceará SC,Fluminense,0,1,2,2,1,0
-"{'home': 'Botafogo', 'away': 'Cuiabá'}",Botafogo,Cuiabá,0,2,1,1,0,0
-"{'home': 'São Paulo', 'away': 'Atlético-MG'}",São Paulo,Atlético-MG,2,2,3,5,0,0
-"{'home': 'Athletico-PR', 'away': 'Goiás'}",Athletico-PR,Goiás,3,2,2,1,0,0
-"{'home': 'América-MG', 'away': 'Internacional'}",América-MG,Internacional,1,0,0,0,0,0
-"{'home': 'Juventude', 'away': 'Coritiba'}",Juventude,Coritiba,0,1,3,4,0,0
-"{'home': 'Avaí', 'away': 'Bragantino'}",Avaí,Bragantino,1,2,2,1,0,0
-"{'home': 'Atlético-GO', 'away': 'Santos'}",Atlético-GO,Santos,2,3,3,2,0,0
-"{'home': 'Palmeiras', 'away': 'Fortaleza'}",Palmeiras,Fortaleza,4,0,3,1,0,0
-"{'home': 'Flamengo', 'away': 'Corinthians'}",Flamengo,Corinthians,1,2,0,1,0,0
-"{'home': 'Santos', 'away': 'Avaí'}",Santos,Avaí,1,1,3,0,0,0
-"{'home': 'Fluminense', 'away': 'São Paulo'}",Fluminense,São Paulo,3,1,1,1,0,1
-"{'home': 'Bragantino', 'away': 'América-MG'}",Bragantino,América-MG,1,4,6,2,0,0
-"{'home': 'Goiás', 'away': 'Juventude'}",Goiás,Juventude,1,0,4,6,0,0
-"{'home': 'Corinthians', 'away': 'Ceará SC'}",Corinthians,Ceará SC,1,0,4,4,0,0
-"{'home': 'Internacional', 'away': 'Athletico-PR'}",Internacional,Athletico-PR,2,0,0,1,0,1
-"{'home': 'Fortaleza', 'away': 'Atlético-GO'}",Fortaleza,Atlético-GO,1,1,2,5,0,1
-"{'home': 'Coritiba', 'away': 'Flamengo'}",Coritiba,Flamengo,1,0,5,3,0,0
-"{'home': 'Cuiabá', 'away': 'Palmeiras'}",Cuiabá,Palmeiras,1,1,2,0,0,0
-"{'home': 'Atlético-MG', 'away': 'Botafogo'}",Atlético-MG,Botafogo,0,2,2,5,0,0
-"{'home': 'São Paulo', 'away': 'Internacional'}",São Paulo,Internacional,0,1,4,5,0,0
-"{'home': 'Coritiba', 'away': 'Corinthians'}",Coritiba,Corinthians,2,2,4,5,0,1
-"{'home': 'Fluminense', 'away': 'Goiás'}",Fluminense,Goiás,3,0,3,2,0,2
-"{'home': 'Avaí', 'away': 'Ceará SC'}",Avaí,Ceará SC,2,0,4,5,0,0
-"{'home': 'Fortaleza', 'away': 'Bragantino'}",Fortaleza,Bragantino,6,0,1,4,0,0
-"{'home': 'Juventude', 'away': 'Flamengo'}",Juventude,Flamengo,2,2,7,3,0,0
-"{'home': 'Palmeiras', 'away': 'América-MG'}",Palmeiras,América-MG,2,1,4,2,0,0
-"{'home': 'Atlético-GO', 'away': 'Athletico-PR'}",Atlético-GO,Athletico-PR,1,1,1,0,0,0
-"{'home': 'Botafogo', 'away': 'Santos'}",Botafogo,Santos,3,0,2,4,0,1
-"{'home': 'Atlético-MG', 'away': 'Cuiabá'}",Atlético-MG,Cuiabá,3,0,1,4,0,0
-"{'home': 'Flamengo', 'away': 'Avaí'}",Flamengo,Avaí,1,2,0,1,0,0
-"{'home': 'Athletico-PR', 'away': 'Botafogo'}",Athletico-PR,Botafogo,3,0,1,1,0,0
-"{'home': 'Ceará SC', 'away': 'Juventude'}",Ceará SC,Juventude,4,1,4,4,0,0
-"{'home': 'América-MG', 'away': 'Atlético-GO'}",América-MG,Atlético-GO,1,1,3,2,0,1
-"{'home': 'Santos', 'away': 'Fortaleza'}",Santos,Fortaleza,0,2,1,3,0,0
-"{'home': 'Cuiabá', 'away': 'Coritiba'}",Cuiabá,Coritiba,2,1,1,4,0,1
-"{'home': 'Bragantino', 'away': 'Fluminense'}",Bragantino,Fluminense,0,1,3,2,0,0
-"{'home': 'Corinthians', 'away': 'Atlético-MG'}",Corinthians,Atlético-MG,0,1,3,6,0,0
-"{'home': 'Internacional', 'away': 'Palmeiras'}",Internacional,Palmeiras,3,0,2,3,0,0
-"{'home': 'Goiás', 'away': 'São Paulo'}",Goiás,São Paulo,0,4,2,1,0,0
+1,Fluminense,Santos,0,0,1,0,0,0
+1,Atlético-GO,Flamengo,1,1,3,2,0,0
+1,Palmeiras,Ceará SC,2,3,4,9,0,1
+1,Coritiba,Goiás,3,0,2,4,0,0
+1,Botafogo,Corinthians,1,3,1,4,0,0
+1,Atlético-MG,Internacional,2,0,2,4,0,0
+1,Fortaleza,Cuiabá,0,1,2,3,0,0
+1,Avaí,América-MG,1,0,3,3,0,2
+1,São Paulo,Athletico-PR,4,0,1,3,0,0
+1,Juventude,Bragantino,2,2,4,5,0,0
+2,Goiás,Palmeiras,1,1,4,0,0,0
+2,América-MG,Juventude,4,1,3,0,0,1
+2,Corinthians,Avaí,3,0,1,1,0,0
+2,Cuiabá,Fluminense,0,1,2,1,0,0
+2,Santos,Coritiba,2,1,2,4,0,0
+2,Flamengo,São Paulo,3,1,2,6,0,0
+2,Athletico-PR,Atlético-MG,0,1,2,3,0,0
+2,Internacional,Fortaleza,2,1,5,5,0,0
+2,Bragantino,Atlético-GO,4,0,1,4,0,0
+2,Ceará SC,Botafogo,1,3,1,4,1,0
+4,Flamengo,Palmeiras,0,0,3,4,0,0
+4,Ceará SC,Bragantino,0,1,1,5,0,1
+4,América-MG,Athletico-PR,1,0,1,0,0,0
+4,Goiás,Atlético-MG,2,2,5,4,0,0
+4,Cuiabá,Atlético-GO,1,1,2,0,0,0
+4,Botafogo,Juventude,1,1,2,5,0,0
+4,Corinthians,Fortaleza,1,0,1,3,0,0
+4,Coritiba,Fluminense,3,2,0,3,0,1
+4,Internacional,Avaí,0,0,2,4,0,0
+4,São Paulo,Santos,2,1,2,4,0,0
+3,Bragantino,São Paulo,1,1,5,2,0,0
+3,Athletico-PR,Flamengo,1,0,4,2,0,0
+3,Palmeiras,Corinthians,3,0,1,2,0,0
+3,Fluminense,Internacional,0,1,5,3,0,0
+3,Atlético-MG,Coritiba,2,2,2,1,0,0
+3,Santos,América-MG,3,0,2,0,0,0
+3,Juventude,Cuiabá,0,1,2,4,1,0
+3,Atlético-GO,Botafogo,1,1,2,1,0,0
+3,Avaí,Goiás,3,2,5,5,1,0
+3,Fortaleza,Ceará SC,0,1,5,4,1,0
+5,Atlético-MG,América-MG,1,2,4,4,0,1
+5,Athletico-PR,Ceará SC,1,0,5,4,0,0
+5,Flamengo,Botafogo,0,1,1,3,0,0
+5,Palmeiras,Fluminense,1,1,1,2,0,0
+5,Atlético-GO,Goiás,0,1,4,3,0,1
+5,Bragantino,Corinthians,0,1,1,2,0,0
+5,Santos,Cuiabá,4,1,1,2,0,0
+5,Juventude,Internacional,1,1,5,5,0,0
+5,Fortaleza,São Paulo,1,1,2,3,0,0
+5,Avaí,Coritiba,2,1,3,3,0,0
+7,Bragantino,Atlético-MG,1,1,3,2,1,0
+7,Atlético-GO,Coritiba,2,0,4,1,0,2
+7,Flamengo,Goiás,1,0,1,3,0,0
+7,Santos,Ceará SC,0,0,1,5,0,1
+7,Juventude,Palmeiras,0,3,3,0,0,0
+7,Cuiabá,Internacional,1,1,2,7,2,0
+7,América-MG,Botafogo,1,1,2,1,0,0
+7,Corinthians,São Paulo,1,1,2,3,0,0
+7,Fortaleza,Fluminense,0,1,1,1,0,0
+7,Athletico-PR,Avaí,2,1,2,6,0,0
+6,Palmeiras,Bragantino,2,0,2,2,0,0
+6,Ceará SC,Flamengo,2,2,5,5,0,0
+6,Internacional,Corinthians,2,2,2,2,0,0
+6,Atlético-MG,Atlético-GO,2,0,1,2,0,0
+6,Fluminense,Athletico-PR,2,1,3,2,0,0
+6,São Paulo,Cuiabá,2,1,2,1,0,1
+6,Coritiba,América-MG,1,0,1,5,0,1
+6,Botafogo,Fortaleza,3,1,3,1,0,1
+6,Avaí,Juventude,1,2,2,5,0,2
+6,Goiás,Santos,1,0,0,0,0,0
+8,Goiás,Bragantino,1,1,2,3,0,1
+8,São Paulo,Ceará SC,2,2,3,5,1,0
+8,Fortaleza,Juventude,1,1,2,3,0,0
+8,Coritiba,Botafogo,1,0,5,3,0,0
+8,Santos,Palmeiras,0,1,5,1,0,0
+8,Cuiabá,Athletico-PR,0,1,5,0,0,0
+8,Corinthians,América-MG,1,1,2,1,0,0
+8,Fluminense,Flamengo,1,2,3,5,1,1
+8,Atlético-MG,Avaí,2,1,3,2,0,1
+8,Internacional,Atlético-GO,1,1,1,2,0,0
+9,América-MG,Cuiabá,2,1,0,1,0,0
+9,Athletico-PR,Santos,2,2,5,3,0,0
+9,Ceará SC,Coritiba,1,1,1,4,0,0
+9,Avaí,São Paulo,1,1,2,2,0,0
+9,Atlético-GO,Corinthians,0,1,3,3,0,0
+9,Juventude,Fluminense,1,0,3,4,0,1
+9,Flamengo,Fortaleza,1,2,3,4,0,0
+9,Palmeiras,Atlético-MG,0,0,1,3,0,0
+9,Bragantino,Internacional,0,2,3,3,0,0
+9,Botafogo,Goiás,1,2,2,2,0,0
+10,Cuiabá,Corinthians,1,0,1,2,1,0
+10,América-MG,Ceará SC,0,2,2,3,0,0
+10,Juventude,Athletico-PR,1,3,2,4,0,0
+10,Atlético-GO,Avaí,2,1,1,4,0,1
+10,Bragantino,Flamengo,1,0,1,4,1,0
+10,Fluminense,Atlético-MG,5,3,3,3,0,0
+10,Santos,Internacional,1,1,2,1,0,0
+10,Palmeiras,Botafogo,4,0,1,1,0,0
+10,Coritiba,São Paulo,1,1,3,3,0,0
+10,Fortaleza,Goiás,1,1,1,2,0,0
+11,Corinthians,Juventude,2,0,1,4,0,0
+11,Atlético-MG,Santos,1,1,4,4,0,1
+11,Fluminense,Atlético-GO,0,2,3,2,1,0
+11,Cuiabá,Bragantino,1,1,1,3,0,0
+11,Internacional,Flamengo,3,1,3,3,0,0
+11,Goiás,Ceará SC,1,1,6,2,0,1
+11,São Paulo,América-MG,1,0,2,2,0,0
+11,Coritiba,Palmeiras,0,2,1,2,1,0
+11,Fortaleza,Athletico-PR,0,0,1,3,0,0
+11,Botafogo,Avaí,0,1,4,5,0,1
+12,Juventude,Santos,1,2,1,2,1,0
+12,Ceará SC,Atlético-MG,0,0,2,3,0,0
+12,Bragantino,Coritiba,4,2,2,1,0,0
+12,Goiás,Internacional,1,2,4,3,0,0
+12,Flamengo,Cuiabá,2,0,1,2,0,0
+12,Athletico-PR,Corinthians,1,1,2,2,1,1
+12,América-MG,Fluminense,0,0,3,1,1,0
+12,Botafogo,São Paulo,1,0,6,3,0,0
+12,Palmeiras,Atlético-GO,4,2,2,1,0,1
+12,Avaí,Fortaleza,3,2,1,3,0,0
+13,Cuiabá,Ceará SC,0,0,0,2,0,0
+13,Santos,Bragantino,2,2,4,3,0,0
+13,Atlético-MG,Flamengo,2,0,4,1,0,0
+13,Coritiba,Athletico-PR,0,1,5,6,2,0
+13,Corinthians,Goiás,1,0,1,4,0,0
+13,Internacional,Botafogo,2,3,5,6,2,2
+13,Fortaleza,América-MG,1,0,1,0,0,0
+13,Atlético-GO,Juventude,3,1,3,4,0,1
+13,Fluminense,Avaí,2,0,0,3,0,0
+13,São Paulo,Palmeiras,1,2,3,1,0,0
+14,Internacional,Coritiba,3,0,2,4,0,0
+14,Athletico-PR,Bragantino,4,2,4,1,0,0
+14,Flamengo,América-MG,3,0,1,2,0,0
+14,Corinthians,Santos,0,0,3,3,0,0
+14,Atlético-MG,Fortaleza,3,2,0,5,0,0
+14,Avaí,Palmeiras,2,2,4,1,0,0
+14,Botafogo,Fluminense,0,1,3,2,0,0
+14,Goiás,Cuiabá,1,0,3,4,0,1
+14,Ceará SC,Atlético-GO,1,1,2,2,0,0
+14,São Paulo,Juventude,0,0,3,4,0,0
+15,Juventude,Atlético-MG,1,2,2,1,0,0
+15,Fluminense,Corinthians,4,0,0,3,0,0
+15,Santos,Flamengo,1,2,4,2,0,0
+15,Ceará SC,Internacional,1,1,4,3,0,1
+15,Palmeiras,Athletico-PR,0,2,1,2,1,0
+15,Avaí,Cuiabá,1,2,0,0,0,0
+15,Atlético-GO,São Paulo,1,2,5,7,0,0
+15,América-MG,Goiás,1,0,2,2,0,0
+15,Coritiba,Fortaleza,2,1,2,3,1,0
+15,Bragantino,Botafogo,0,1,1,4,1,0
+16,Bragantino,Avaí,4,0,1,3,0,0
+16,Fluminense,Ceará SC,2,1,2,3,0,0
+16,Goiás,Athletico-PR,2,1,2,1,0,0
+16,Coritiba,Juventude,2,2,1,2,0,0
+16,Corinthians,Flamengo,1,0,2,4,0,0
+16,Santos,Atlético-GO,1,0,5,4,0,0
+16,Fortaleza,Palmeiras,0,0,0,1,0,0
+16,Atlético-MG,São Paulo,0,0,1,1,0,0
+16,Cuiabá,Botafogo,2,0,1,2,0,2
+16,Internacional,América-MG,1,0,0,5,0,0
+17,Athletico-PR,Internacional,0,0,1,2,0,0
+17,Flamengo,Coritiba,2,0,0,1,0,0
+17,Avaí,Santos,1,0,5,3,0,0
+17,Ceará SC,Corinthians,3,1,1,1,0,0
+17,Juventude,Goiás,0,0,2,3,0,0
+17,São Paulo,Fluminense,2,2,4,2,0,0
+17,Botafogo,Atlético-MG,0,1,4,3,0,0
+17,Atlético-GO,Fortaleza,0,1,1,0,0,0
+17,América-MG,Bragantino,0,3,3,1,0,0
+17,Palmeiras,Cuiabá,1,0,3,1,0,0
+18,Ceará SC,Avaí,1,0,0,2,0,0
+18,Bragantino,Fortaleza,2,1,4,3,0,0
+18,Goiás,Fluminense,2,3,2,0,0,0
+18,Athletico-PR,Atlético-GO,4,1,3,0,0,0
+18,Flamengo,Juventude,4,0,3,3,0,1
+18,Internacional,São Paulo,3,3,4,5,0,0
+18,Santos,Botafogo,2,0,2,2,0,0
+18,Corinthians,Coritiba,3,1,1,3,0,0
+18,Cuiabá,Atlético-MG,1,1,1,1,0,0
+18,América-MG,Palmeiras,0,1,5,3,0,0
+19,São Paulo,Goiás,3,3,2,5,0,0
+19,Botafogo,Athletico-PR,2,0,0,2,0,0
+19,Avaí,Flamengo,1,2,1,1,0,0
+19,Fluminense,Bragantino,2,1,5,2,1,0
+19,Palmeiras,Internacional,2,1,0,1,0,0
+19,Juventude,Ceará SC,1,0,1,3,0,0
+19,Atlético-MG,Corinthians,1,2,2,1,0,0
+19,Atlético-GO,América-MG,0,1,0,1,0,0
+19,Fortaleza,Santos,0,0,4,4,0,0
+19,Coritiba,Cuiabá,1,0,5,3,1,0
+20,Goiás,Coritiba,1,0,1,2,0,1
+20,Ceará SC,Palmeiras,1,2,3,3,1,0
+20,Corinthians,Botafogo,1,0,0,0,0,0
+20,Flamengo,Atlético-GO,4,1,0,7,0,1
+20,Athletico-PR,São Paulo,1,0,3,4,0,0
+20,Internacional,Atlético-MG,3,0,1,1,0,0
+20,Cuiabá,Fortaleza,0,1,2,4,0,0
+20,América-MG,Avaí,3,1,1,0,0,0
+20,Bragantino,Juventude,1,0,1,1,0,0
+20,Santos,Fluminense,2,2,2,5,0,0
+21,Juventude,América-MG,0,1,1,2,0,0
+21,Botafogo,Ceará SC,1,1,3,4,0,0
+21,Avaí,Corinthians,1,1,2,1,0,0
+21,Atlético-GO,Bragantino,2,1,2,1,0,0
+21,São Paulo,Flamengo,0,2,2,2,0,0
+21,Fluminense,Cuiabá,1,0,2,1,0,0
+21,Palmeiras,Goiás,3,0,2,3,0,0
+21,Fortaleza,Internacional,3,0,1,5,1,0
+21,Atlético-MG,Athletico-PR,2,3,1,2,0,0
+21,Coritiba,Santos,1,2,3,3,0,0
+22,Goiás,Avaí,1,1,1,2,1,0
+22,Corinthians,Palmeiras,0,1,2,2,0,0
+22,Cuiabá,Juventude,1,0,4,5,0,1
+22,Botafogo,Atlético-GO,0,0,1,3,1,0
+22,Coritiba,Atlético-MG,0,1,3,0,0,0
+22,Ceará SC,Fortaleza,0,1,3,4,0,0
+22,Flamengo,Athletico-PR,5,0,3,2,0,0
+22,São Paulo,Bragantino,3,0,1,0,0,0
+22,América-MG,Santos,1,0,1,0,0,0
+22,Internacional,Fluminense,3,0,1,1,0,0
+23,Atlético-MG,Goiás,0,1,0,0,0,0
+23,Fluminense,Coritiba,5,2,1,2,0,0
+23,Juventude,Botafogo,2,2,2,2,0,0
+23,Palmeiras,Flamengo,1,1,0,2,0,0
+23,Athletico-PR,América-MG,1,1,0,0,0,0
+23,Atlético-GO,Cuiabá,1,1,2,2,1,0
+23,Fortaleza,Corinthians,1,0,1,2,0,0
+23,Bragantino,Ceará SC,1,1,3,4,0,0
+23,Santos,São Paulo,1,0,4,2,0,0
+23,Avaí,Internacional,0,1,5,1,0,0
+24,Goiás,Atlético-GO,2,1,2,2,1,1
+24,Coritiba,Avaí,1,0,4,3,0,0
+24,Fluminense,Palmeiras,1,1,3,3,0,0
+24,Ceará SC,Athletico-PR,0,0,0,1,0,0
+24,São Paulo,Fortaleza,0,1,2,2,0,0
+24,América-MG,Atlético-MG,1,1,4,4,0,0
+24,Botafogo,Flamengo,0,1,3,2,0,0
+24,Cuiabá,Santos,0,0,0,0,0,0
+24,Internacional,Juventude,4,0,0,3,0,0
+24,Corinthians,Bragantino,1,0,1,1,0,0
+25,Juventude,Avaí,1,1,6,6,0,0
+25,Bragantino,Palmeiras,2,2,4,4,0,0
+25,Athletico-PR,Fluminense,1,0,2,0,0,0
+25,América-MG,Coritiba,2,0,2,3,0,0
+25,Flamengo,Ceará SC,1,1,4,6,1,1
+25,Corinthians,Internacional,2,2,2,2,0,0
+25,Fortaleza,Botafogo,1,3,1,2,0,0
+25,Atlético-GO,Atlético-MG,0,2,1,2,0,0
+25,Cuiabá,São Paulo,1,1,3,2,0,1
+25,Santos,Goiás,1,2,1,2,0,0
+26,Atlético-MG,Bragantino,1,1,1,2,0,0
+26,Internacional,Cuiabá,1,0,1,3,0,0
+26,Ceará SC,Santos,2,1,4,3,0,0
+26,Fluminense,Fortaleza,2,1,1,2,0,0
+26,Palmeiras,Juventude,2,1,0,3,0,0
+26,Avaí,Athletico-PR,1,1,3,4,0,1
+26,Botafogo,América-MG,0,0,1,5,0,0
+26,São Paulo,Corinthians,1,1,3,1,0,0
+26,Coritiba,Atlético-GO,2,0,6,3,0,1
+26,Goiás,Flamengo,1,1,3,1,0,0
+27,Avaí,Atlético-MG,1,0,4,3,0,0
+27,Botafogo,Coritiba,2,0,2,4,0,0
+27,Bragantino,Goiás,1,1,0,5,0,0
+27,Flamengo,Fluminense,1,2,1,5,2,3
+27,Ceará SC,São Paulo,0,2,5,2,2,0
+27,América-MG,Corinthians,1,0,1,3,0,0
+27,Juventude,Fortaleza,1,1,2,3,0,0
+27,Palmeiras,Santos,1,0,3,4,1,0
+27,Athletico-PR,Cuiabá,2,2,3,2,0,1
+27,Atlético-GO,Internacional,1,2,3,2,0,0
+28,São Paulo,Avaí,4,0,2,4,0,0
+28,Santos,Athletico-PR,2,0,3,3,0,0
+28,Coritiba,Ceará SC,1,0,2,4,0,0
+28,Corinthians,Atlético-GO,2,1,0,3,0,0
+28,Fluminense,Juventude,4,0,1,1,0,0
+28,Fortaleza,Flamengo,3,2,2,5,0,0
+28,Cuiabá,América-MG,2,1,1,6,0,0
+28,Internacional,Bragantino,0,0,1,2,0,0
+28,Atlético-MG,Palmeiras,0,1,3,3,0,0
+28,Goiás,Botafogo,0,1,4,4,0,0
+29,Atlético-MG,Fluminense,2,0,2,3,0,1
+29,Internacional,Santos,1,0,1,4,0,0
+29,Ceará SC,América-MG,1,2,3,4,0,0
+29,Avaí,Atlético-GO,1,2,2,4,0,0
+29,Athletico-PR,Juventude,2,0,3,5,0,0
+29,Flamengo,Bragantino,4,1,1,0,0,1
+29,Goiás,Fortaleza,0,1,3,2,0,0
+29,Corinthians,Cuiabá,2,0,1,0,0,0
+29,Botafogo,Palmeiras,1,3,4,2,0,1
+29,São Paulo,Coritiba,3,1,2,6,0,0
+30,Juventude,Corinthians,2,2,1,2,0,0
+30,Atlético-GO,Fluminense,3,2,4,0,0,0
+30,Ceará SC,Goiás,1,1,4,4,1,0
+30,Bragantino,Cuiabá,2,1,2,3,0,0
+30,Athletico-PR,Fortaleza,1,1,2,1,0,0
+30,Flamengo,Internacional,0,0,3,2,0,0
+30,Santos,Atlético-MG,1,2,2,4,1,0
+30,Palmeiras,Coritiba,4,0,1,2,0,0
+30,América-MG,São Paulo,1,2,2,4,0,0
+30,Avaí,Botafogo,1,2,2,4,0,0
+31,Cuiabá,Flamengo,1,2,2,2,0,0
+31,Corinthians,Athletico-PR,2,1,1,0,0,0
+31,Internacional,Goiás,4,2,1,7,0,0
+31,São Paulo,Botafogo,0,1,3,2,1,0
+31,Fortaleza,Avaí,2,0,1,1,0,0
+31,Coritiba,Bragantino,2,1,0,3,1,0
+31,Atlético-MG,Ceará SC,0,0,3,5,0,0
+31,Fluminense,América-MG,0,2,1,3,0,0
+31,Atlético-GO,Palmeiras,1,1,4,2,0,0
+31,Santos,Juventude,4,1,2,0,0,0
+32,Flamengo,Atlético-MG,1,0,4,0,0,0
+32,América-MG,Fortaleza,1,2,1,3,0,1
+32,Ceará SC,Cuiabá,1,1,4,5,0,1
+32,Palmeiras,São Paulo,0,0,3,3,0,2
+32,Juventude,Atlético-GO,1,1,2,1,0,0
+32,Botafogo,Internacional,0,1,3,5,0,0
+32,Avaí,Fluminense,0,3,2,0,0,0
+32,Athletico-PR,Coritiba,1,0,3,2,0,0
+32,Bragantino,Santos,0,2,3,4,1,0
+32,Goiás,Corinthians,0,0,2,3,0,0
+33,Bragantino,Athletico-PR,4,2,0,3,0,0
+33,América-MG,Flamengo,1,2,1,1,0,0
+33,Santos,Corinthians,0,1,2,4,1,1
+33,Palmeiras,Avaí,3,0,2,2,0,0
+33,Fluminense,Botafogo,2,2,3,2,0,0
+33,Juventude,São Paulo,1,2,2,2,0,0
+33,Coritiba,Internacional,1,1,3,1,0,0
+33,Atlético-GO,Ceará SC,1,0,3,2,0,0
+33,Cuiabá,Goiás,1,2,3,4,0,0
+33,Fortaleza,Atlético-MG,0,0,4,1,0,0
+34,Flamengo,Santos,3,2,3,4,0,0
+34,Athletico-PR,Palmeiras,1,3,3,5,1,0
+34,Botafogo,Bragantino,2,1,1,4,0,0
+34,Corinthians,Fluminense,0,2,2,3,0,0
+34,Internacional,Ceará SC,2,1,0,2,0,0
+34,Goiás,América-MG,2,2,2,3,0,0
+34,Fortaleza,Coritiba,3,1,1,1,0,1
+34,São Paulo,Atlético-GO,2,1,2,4,0,1
+34,Atlético-MG,Juventude,1,0,2,1,0,0
+34,Cuiabá,Avaí,1,0,1,1,0,0
+35,Ceará SC,Fluminense,0,1,2,2,1,0
+35,Botafogo,Cuiabá,0,2,1,1,0,0
+35,São Paulo,Atlético-MG,2,2,3,5,0,0
+35,Athletico-PR,Goiás,3,2,2,1,0,0
+35,América-MG,Internacional,1,0,0,0,0,0
+35,Juventude,Coritiba,0,1,3,4,0,0
+35,Avaí,Bragantino,1,2,2,1,0,0
+35,Atlético-GO,Santos,2,3,3,2,0,0
+35,Palmeiras,Fortaleza,4,0,3,1,0,0
+35,Flamengo,Corinthians,1,2,0,1,0,0
+36,Santos,Avaí,1,1,3,0,0,0
+36,Fluminense,São Paulo,3,1,1,1,0,1
+36,Bragantino,América-MG,1,4,6,2,0,0
+36,Goiás,Juventude,1,0,4,6,0,0
+36,Corinthians,Ceará SC,1,0,4,4,0,0
+36,Internacional,Athletico-PR,2,0,0,1,0,1
+36,Fortaleza,Atlético-GO,1,1,2,5,0,1
+36,Coritiba,Flamengo,1,0,5,3,0,0
+36,Cuiabá,Palmeiras,1,1,2,0,0,0
+36,Atlético-MG,Botafogo,0,2,2,5,0,0
+37,São Paulo,Internacional,0,1,4,5,0,0
+37,Coritiba,Corinthians,2,2,4,5,0,1
+37,Fluminense,Goiás,3,0,3,2,0,2
+37,Avaí,Ceará SC,2,0,4,5,0,0
+37,Fortaleza,Bragantino,6,0,1,4,0,0
+37,Juventude,Flamengo,2,2,7,3,0,0
+37,Palmeiras,América-MG,2,1,4,2,0,0
+37,Atlético-GO,Athletico-PR,1,1,1,0,0,0
+37,Botafogo,Santos,3,0,2,4,0,1
+37,Atlético-MG,Cuiabá,3,0,1,4,0,0
+38,Flamengo,Avaí,1,2,0,1,0,0
+38,Athletico-PR,Botafogo,3,0,1,1,0,0
+38,Ceará SC,Juventude,4,1,4,4,0,0
+38,América-MG,Atlético-GO,1,1,3,2,0,1
+38,Santos,Fortaleza,0,2,1,3,0,0
+38,Cuiabá,Coritiba,2,1,1,4,0,1
+38,Bragantino,Fluminense,0,1,3,2,0,0
+38,Corinthians,Atlético-MG,0,1,3,6,0,0
+38,Internacional,Palmeiras,3,0,2,3,0,0
+38,Goiás,São Paulo,0,4,2,1,0,0

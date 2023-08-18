@@ -3,8 +3,9 @@
 
 
 # *CARTOLA_DATA*
-# *cart_data_{ano}.csv*
-Compreende um  conjunto de DataSets com o dados analisados e corrigidos dos jogadores participantes do CartolaFC. O arquivo do tipo .csv está dividido por temporada e possui os seguintes campos:
+Compreende um  conjunto de DataSets com o dados analisados e corrigidos dos jogadores participantes do CartolaFC.
+Os arquivos possuem a seguinte padronização no nome: # *cart_data_{ano}.csv*, são do tipo .csv e estão divididos por temporada e possuem os seguintes campos:
+
 
 # *Campos de identificação* (inteiro  ou texto)
 
@@ -75,4 +76,8 @@ Compreende um  conjunto de DataSets com o dados analisados e corrigidos dos joga
 
 *clube_mand:* indicação se o clube do atleta foi mandante (1) ou visitante (0) na rodada
 
-
+#*CARTOLA_INFO*
+Compreende um  conjunto de DataSets com as informações referentes aos clubes, posições dos atletas e status dos atletas na rodada, sendo formado pelos seguintes arquivos:
+# *cartola_clubes.csv*
+# *cartola_posicoes.csv*
+# *cartola_status.csv*

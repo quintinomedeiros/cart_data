@@ -1,9 +1,9 @@
 # cart_data
 # Dados do Cartola FC
 
-Dataset com o dados analisados e corrigidos dos jogadores participantes do CartolaFC. 
 
-O arquivo do tipo .csv está dividido por temporada e possui os seguintes campos:
+# *Cartola_Data*
+Compreende um  conjunto de DataSets com o dados analisados e corrigidos dos jogadores participantes do CartolaFC. O arquivo do tipo .csv está dividido por temporada e possui os seguintes campos:
 
 # *Campos de identificação* (inteiro  ou texto)
 

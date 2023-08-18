@@ -77,6 +77,11 @@ Os arquivos possuem a seguinte padronização no nome: # *cart_data_{ano}.csv*, 
 # *CARTOLA_INFO*
 
 Compreende um conjunto de DataSets com as informações referentes aos clubes, posições dos atletas e status dos atletas na rodada, sendo formado pelos seguintes arquivos:
-# *cartola_clubes.csv*
-# *cartola_posicoes.csv*
-# *cartola_status.csv*
+*cartola_clubes.csv*
+*cartola_posicoes.csv*
+*cartola_status.csv*
+
+# *CARTOLA_PARTIDAS*
+
+Compreende um conjunto de DataSets com as informações referentes às partidas realizadas pelos clubes durante as temporadas de 2014 a 2022, sendo formado por arquivos que possuem o seguinte padrão:
+*partidas_cartola_{ano}.csv*

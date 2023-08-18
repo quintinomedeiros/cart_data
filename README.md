@@ -85,3 +85,9 @@ Compreende um conjunto de DataSets com as informações referentes aos clubes, p
 
 Compreende um conjunto de DataSets com as informações referentes às partidas realizadas pelos clubes durante as temporadas de 2014 a 2022, sendo formado por arquivos que possuem o seguinte padrão:
 *partidas_cartola_{ano}.csv*
+
+# *CARTOLA_ROD_ATUAL*
+
+Compreende um conjunto de DataSets com as informações referentes à situação dos atletas na rodada atual. É formado por um arquivo resumido com as informações e os scouts principais dos atletas na rodada atual e outro com essas informações mais métricas fornecidas pelo CartolaFC através do Gato-Mestre:
+*cartola_atletas.csv*
+*cartola_atletas_final.csv*

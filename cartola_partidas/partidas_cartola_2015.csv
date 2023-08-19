@@ -1,4 +1,4 @@
-﻿temporada_id;rodada_id;clube_mand_id;partida_id;clube_mand;clube_gol_pro;clube_gol_contra;clube_ca;clube_adv_ca;clube_cv;clube_adv_cv;clube_mand
+﻿temporada_id;rodada_id;clube_id;partida_id;clube_nome;clube_gol_pro;clube_gol_contra;clube_ca;clube_adv_ca;clube_cv;clube_adv_cv;clube_mand
 2015;1;315;2015_1_315;Chapecoense;2;1;2;2;0;0;1
 2015;1;275;2015_1_275;Palmeiras;2;2;2;4;0;0;1
 2015;1;266;2015_1_266;Fluminense;1;0;2;1;0;1;1

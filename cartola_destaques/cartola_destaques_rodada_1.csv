@@ -1,21 +1,21 @@
-posicao,posicao_abreviacao,clube,clube_nome,Atleta_nome,apelido,apelido_abreviado,atleta_id,preco_editorial,clube_id,escalacoes
-Atacante,ATA,GRE,Grêmio,Luis Alberto Suárez Díaz,Luis Suárez,L. Suárez,69318,23.0,284,270608
-Meia,MEI,FLU,Fluminense,Jhon Adolfo Arias Andrade,Arias,Arias,99815,14.0,266,228915
-Meia,MEI,GRE,Grêmio,Franco Cristaldo,Cristaldo,Cristaldo,89846,8.0,284,209645
-Atacante,ATA,SAO,São Paulo,Lucas Rodrigues Moura da Silva,Lucas Moura,L. Moura,70164,13.0,276,202153
-Zagueiro,ZAG,SAO,São Paulo,Lucas Lopes Beraldo,Lucas Beraldo,L. Beraldo,112136,4.0,276,199664
-Atacante,ATA,SAO,São Paulo,Jonathan Calleri,Calleri,Calleri,89840,15.0,276,184420
-Meia,MEI,GRE,Grêmio,João Paulo de Souza Mares,Bitello,Bitello,112140,10.0,284,166086
-Atacante,ATA,FLU,Fluminense,Germán Ezequiel Cano,Cano,Cano,79631,22.0,266,162238
-Técnico,TEC,SAO,São Paulo,Dorival Silvestre Júnior,Dorival Júnior,D. Júnior,40990,9.4,276,157028
-Meia,MEI,PAL,Palmeiras,Raphael Cavalcante Veiga,Raphael Veiga,R. Veiga,94509,21.0,275,152956
-Lateral,LAT,CRU,Cruzeiro,Marlon Rodrigues Xavier,Marlon,Marlon,91706,4.0,283,151671
-Goleiro,GOL,SAO,São Paulo,Rafael Pires Monteiro,Rafael,Rafael,68928,8.0,276,135887
-Meia,MEI,GRE,Grêmio,Mathías Adalberto Villasanti Rolón,Villasanti,Villasanti,97145,4.0,284,121647
-Zagueiro,ZAG,PAL,Palmeiras,Gustavo Raúl Gómez Portillo,Gustavo Gómez,G. Gómez,71684,18.0,275,114039
-Atacante,ATA,CAP,Athlético-PR,Vitor Hugo Roque Ferreira,Vitor Roque,V. Roque,114802,9.0,293,109968
-Zagueiro,ZAG,FLU,Fluminense,Marcílio Florêncio Mota Filho,Nino,Nino,91708,11.0,266,99426
-Lateral,LAT,BAH,Bahia,Gilberto Moraes Júnior,Gilberto,Gilberto,80313,7.0,265,90813
-Zagueiro,ZAG,BOT,Botafogo,Adryelson Shawann Lima Silva,Adryelson,Adryelson,91664,7.0,263,88199
-Lateral,LAT,GRE,Grêmio,Reinaldo Manoel da Silva,Reinaldo,Reinaldo,78850,9.0,284,83142
-Lateral,LAT,FLU,Fluminense,Samuel Xavier Brito,Samuel Xavier,S. Xavier,73384,7.0,266,73462
+atleta_id,apelido,clube_id,preco_editorial,escalacoes
+69318,Luis Suárez,284,23.0,270608
+99815,Arias,266,14.0,228915
+89846,Cristaldo,284,8.0,209645
+70164,Lucas Moura,276,13.0,202153
+112136,Lucas Beraldo,276,4.0,199664
+89840,Calleri,276,15.0,184420
+112140,Bitello,284,10.0,166086
+79631,Cano,266,22.0,162238
+40990,Dorival Júnior,276,9.4,157028
+94509,Raphael Veiga,275,21.0,152956
+91706,Marlon,283,4.0,151671
+68928,Rafael,276,8.0,135887
+97145,Villasanti,284,4.0,121647
+71684,Gustavo Gómez,275,18.0,114039
+114802,Vitor Roque,293,9.0,109968
+91708,Nino,266,11.0,99426
+80313,Gilberto,265,7.0,90813
+91664,Adryelson,263,7.0,88199
+78850,Reinaldo,284,9.0,83142
+73384,Samuel Xavier,266,7.0,73462

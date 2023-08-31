@@ -1,21 +1,35 @@
-clube_id,clube_nome,clube_abr
-1371,Cuiabá,CUI
-262,Flamengo,FLA
-263,Botafogo,BOT
-264,Corinthians,COR
-265,Bahia,BAH
-266,Fluminense,FLU
-267,Vasco,VAS
-275,Palmeiras,PAL
-276,São Paulo,SAO
-277,Santos,SAN
-280,Bragantino,BGT
-282,Atlético-MG,CAM
-283,Cruzeiro,CRU
-284,Grêmio,GRE
-285,Internacional,INT
-290,Goiás,GOI
-293,Athlético-PR,CAP
-294,Coritiba,CFC
-327,América-MG,AME
-356,Fortaleza,FOR
+clube_id;clube_nome_cartola;clube_nome;clube_slug;clube_id
+327;América-M;América-M;AME;327
+293;Athletico-PR;Athletico-PR;CAP;293
+373;Atlético-G;Atlético-G;ATG;373
+282;Atlético-M;Atlético-M;CAM;282
+314;Ava�;Ava�;AVA;314
+265;Bahia;Bahia;BAH;265
+263;Botafogo;Botafogo;BOT;263
+280;Bragantino;Bragantino;BGT;280
+366;Ceará S;Cear�;CEA;366
+315;Chapecoense;Chapecoense;CHA;315
+264;Corinthians;Corinthians;COR;264
+294;Coritiba;Coritiba;CFC;294
+288;Criciúm;Criciúm;CRI;288
+283;Cruzeiro;Cruzeiro;CRU;283
+341;CSA;CSA;CSA;341
+1371;Cuiab�;Cuiab�;CUI;1371
+316;Figueirense;Figueirense;FIG;316
+262;Flamengo;Flamengo;FLA;262
+266;Fluminense;Fluminense;FLU;266
+356;Fortaleza;Fortaleza;FOR;356
+290;Goiá;Goiá;GOI;290
+284;Grêmi;Grêmi;GRE;284
+285;Internacional;Internacional;INT;285
+317;Joinville;Joinville;JEC;317
+286;Juventude;Juventude;JUV;286
+275;Palmeiras;Palmeiras;PAL;275
+383;Paran�;Paran�;PAR;383
+303;Ponte Preta;Ponte Preta;PON;303
+344;Santa Cruz;Santa Cruz;SCZ;344
+277;Santos;Santos;SAN;277
+276;São Paul;São Paul;SAO;276
+292;Sport Recife;Sport;SPO;292
+267;Vasco;Vasco;VAS;267
+287;Vitóri;Vitóri;VIT;287

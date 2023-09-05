@@ -1,0 +1,767 @@
+atleta_id;clube_id;posicao_id;atleta_apelido
+37656;266;1;Fábio
+37865;277;5;Bruno Mezenga
+38144;276;2;Rafinha
+38229;264;2;Fábio Santos
+38279;327;5;Wellington Paulista
+38394;293;3;Thiago Heleno
+38398;264;4;Renato Augusto
+38402;266;2;Marcelo
+38545;266;4;Felipe Melo
+38750;262;2;Filipe Luís
+38877;282;2;Mariano
+39148;282;5;Hulk
+39656;282;4;Alan Franco
+40990;276;6;Dorival Júnior
+41327;264;6;Vanderlei Luxemburgo
+41929;284;6;Renato Gaúcho
+42116;293;5;Willian
+42234;264;1;Cássio
+42500;264;2;Fagner
+43618;282;6;Luiz Felipe Scolari
+49675;276;5;Alexandre Pato
+50317;266;3;David Braz
+50347;282;5;Alan Kardec
+50353;356;3;Titi
+50856;294;3;Henrique
+51042;290;2;Apodi
+51413;1371;1;Walter
+51548;264;4;Giuliano
+51772;262;4;Everton Ribeiro
+52253;282;3;Réver
+52827;262;3;David Luiz
+60793;267;4;Alex Teixeira
+60825;327;5;Felipe Azevedo
+60852;1371;2;Uendel
+61106;265;2;Cicinho
+61188;283;5;Gilberto
+62969;266;5;Alan
+62977;266;4;Ganso
+63013;275;2;Marcos Rocha
+63024;294;4;Fransérgio
+63058;294;4;Willian Farias
+63289;282;4;Edenílson
+63354;285;3;Rodrigo Moledo
+68685;285;4;Alan Patrick
+68708;263;4;Eduardo
+68727;277;2;Dodô
+68770;277;4;Camacho
+68872;275;1;Marcelo Lomba
+68895;1371;5;Wellington Silva
+68917;290;5;Vinicius
+68920;275;5;Dudu
+68923;264;3;Gil
+68928;276;1;Rafael
+68940;283;1;Rafael Cabral
+68942;283;3;Luciano Castán
+68952;356;5;Marinho
+68991;356;4;Lucas Sasha
+69010;1371;1;João Carlos
+69012;262;1;Santos
+69014;266;3;Manoel
+69022;293;5;Marcelo Cirino
+69034;264;4;Paulinho
+69040;277;1;Vladimir
+69051;265;1;Danilo Fernandes
+69063;276;4;James Rodríguez
+69102;282;5;Vargas
+69138;293;5;Pablo
+69165;262;3;Pablo
+69189;290;3;Sidimar
+69318;284;5;Luis Suárez
+69325;285;4;Aránguiz
+69355;267;4;Medel
+69375;293;4;Vidal
+69686;284;5;João Pedro Galvão
+69705;283;4;Nikão
+70164;276;5;Lucas Moura
+70171;263;2;Rafael
+70172;284;2;Fábio
+70221;284;3;Bruno Uvini
+70316;263;5;Diego Costa
+70360;280;5;Eduardo Sasha
+70449;294;1;Gabriel
+70666;1371;3;Marllon
+70788;285;5;Enner Valencia
+70800;262;6;Jorge Sampaoli
+70916;266;2;Diogo Barbosa
+70944;285;4;Bruno Henrique
+70984;267;4;Payet
+70986;265;4;Léo Cittadini
+71227;267;3;Maicon
+71571;356;1;Fernando Miguel
+71631;275;1;Weverton
+71684;275;3;Gustavo Gómez
+71844;356;5;Thiago Galhardo
+71898;263;4;Gabriel Pires
+72134;284;5;Iturbe
+72142;327;3;Danilo Avelar
+72294;282;1;Everson
+72372;276;1;Felipe Alves
+72391;266;6;Fernando Diniz
+72497;285;4;Gustavo Campanharo
+72532;290;2;Maguinho
+72580;327;1;Matheus Cavichioli
+72583;285;5;Pedro Henrique
+72595;356;1;Maurício Kozlinski
+72605;265;3;Vitor Hugo
+72762;1371;4;Ceppelini
+72772;285;5;Luiz Adriano
+72775;293;4;Fernandinho
+72951;285;3;Mercado
+73318;327;2;Daniel Borges
+73384;266;2;Samuel Xavier
+73479;285;5;Jean Dias
+73620;284;3;Bruno Alves
+73766;277;6;Diego Aguirre
+73781;290;5;Guilherme Marques
+73800;262;3;Rodrigo Caio
+73850;327;5;Aloísio
+73974;277;4;Alison
+74061;263;1;Gatito Fernández
+74187;277;4;Rincón
+78077;293;2;Madson
+78117;265;5;Everaldo
+78445;285;2;Renê
+78580;1371;5;Jonathan Cafu
+78605;285;4;Gabriel
+78715;283;4;Ramiro
+78850;284;2;Reinaldo
+78855;266;4;Thiago Santos
+79113;263;3;Víctor Cuesta
+79188;356;5;Silvio Romero
+79268;1371;4;Filipe Augusto
+79334;327;3;Ricardo Silva
+79631;266;5;Cano
+79701;283;4;Lucas Silva
+80196;356;4;Yago Pikachu
+80287;276;5;Luciano
+80313;265;2;Gilberto
+80538;266;3;Marlon
+80583;277;4;Lucas Lima
+80692;275;3;Luan
+80853;284;3;Pedro Geromel
+81091;267;4;Jair
+81121;265;4;Lucas Mugni
+81150;275;2;Mayke
+81551;285;2;Mallo
+81798;267;5;Rossi
+81845;276;4;Alisson
+81881;356;1;João Ricardo
+81952;290;4;Willian Oliveira
+81966;290;4;Raphael Guzzo
+82381;327;4;Juninho
+82453;290;1;Tadeu
+82455;275;4;Zé Rafael
+82463;282;4;Otávio
+82627;262;5;Luiz Araújo
+82628;356;2;Tinga
+82730;290;1;Marcelo Rangel
+82766;276;4;Wellington Rato
+83257;262;5;Gabriel
+83276;277;5;Julio Furch
+83433;282;4;Patrick
+83528;262;3;Léo Pereira
+83786;283;3;Neris
+83817;1371;5;Clayson
+84042;263;5;Tiquinho Soares
+84263;282;3;Jemerson
+84339;290;3;Bruno Melo
+84428;1371;4;Fernando Sobral
+84523;356;5;Romarinho
+84674;280;4;Lucas Evangelista
+84816;262;2;Varela
+84817;294;5;Robson
+84918;265;5;Rafael Ratão
+85004;265;1;Marcos Felipe
+85083;275;1;Vinicius Silvestre
+85315;264;4;Cantillo
+85425;277;1;João Paulo
+85465;293;4;Alex Santana
+85626;267;3;Léo
+85931;282;4;Hyoran
+86143;327;3;Wanderson
+86388;327;4;Alê
+86391;290;2;Sander
+86410;294;2;Victor Luis
+86485;266;5;Keno
+86508;276;1;Jandrei
+86686;263;4;Tchê Tchê
+86757;262;5;Everton
+86759;284;4;Luan
+86777;263;4;Danilo Barbosa
+86799;294;5;Rodrigo Pinho
+86841;294;4;Boschilia
+86859;356;4;José Welison
+86864;327;2;Marlon
+87008;267;1;Léo Jardim
+87009;284;4;Nathan
+87225;293;3;Pedro Henrique
+87228;282;2;Guilherme Arana
+87242;285;4;Carlos de Pena
+87258;277;5;Soteldo
+87342;284;3;Kannemann
+87391;290;5;Allano
+87402;277;3;Messias
+87470;265;4;Thaciano
+87552;293;4;Vitor Bueno
+87603;327;1;Mateus Pasinato
+87747;265;4;Yago Felipe
+87808;263;3;Philipe Sampaio
+87853;282;3;Mauricio Lemos
+87863;262;4;Arrascaeta
+88033;1371;3;Alan Empereur
+88065;266;2;Jorge
+88136;267;1;Ivan
+88323;264;5;Ángel Romero
+88368;267;2;Gabriel Dias
+88393;262;2;Ayrton Lucas
+88423;280;2;Aderlan
+88597;356;4;Lucas Crispim
+88857;294;4;Marcelino Moreno
+88916;294;1;Luan Polli
+89226;327;3;Iago Maidana
+89256;262;4;Gerson
+89273;284;2;João Pedro
+89275;283;2;William
+89493;282;3;Igor Rabello
+89637;262;4;Thiago Maia
+89840;276;5;Calleri
+89846;284;4;Cristaldo
+89883;277;4;Dodi
+89918;284;5;Everton Galdino
+90031;277;5;Mendoza
+90061;356;2;Bruno Pacheco
+90120;294;5;Edu
+90232;276;2;Raí Ramos
+90285;262;5;Bruno Henrique
+90290;275;4;Jailson
+90302;356;5;Pedro Rocha
+90309;276;5;David
+90449;265;4;Rezende
+90540;290;5;Diego Gonçalves
+90590;265;1;Mateus Claus
+90634;1371;4;Lucas Mineiro
+90768;262;3;Fabrício Bruno
+91151;327;5;Everaldo
+91190;1371;2;PK
+91203;327;3;Éder
+91254;284;4;Carballo
+91260;263;1;Lucas Perri
+91473;262;4;Erick Pulgar
+91573;276;3;Arboleda
+91607;275;5;Rony
+91664;263;3;Adryelson
+91689;283;4;Matheus Jussa
+91706;283;2;Marlon
+91708;266;3;Nino
+91712;290;1;Matheus Alves
+91772;265;3;David Duarte
+91866;293;3;Zé Ivaldo
+91908;282;5;Pavón
+91971;293;6;Wesley Carvalho
+92075;267;6;Ramón Díaz
+92207;284;1;Caíque
+92237;284;3;Rodrigo Ely
+92291;294;3;Bruno Viana
+92496;280;4;Raul
+92696;327;5;Renato Kayzer
+92708;1371;5;Deyverson
+92811;283;5;Bruno Rodrigues
+92855;283;2;Palacios
+93108;283;4;Mateus Vital
+93236;264;2;Rafael Ramos
+93368;264;3;Lucas Veríssimo
+93372;277;3;João Basso
+93478;285;5;Wanderson
+93550;327;4;Benítez
+93702;277;2;Gabriel Inocêncio
+93716;267;2;Paulo Henrique
+93787;294;4;Andrey
+93790;263;4;Marlon Freitas
+93791;266;4;Daniel
+93797;327;2;Marcinho
+93834;285;1;Keiller
+93882;280;1;Cleiton
+93886;327;4;Matheusinho
+93988;275;5;Breno Lopes
+94007;264;4;Matías Rojas
+94044;285;1;John Victor
+94067;280;4;Matheus Fernandes
+94154;264;4;Maycon
+94207;356;5;Guilherme
+94263;327;4;Dadá Belmonte
+94444;290;5;Matheus Babi
+94509;275;4;Raphael Veiga
+94514;283;3;Oliveira
+94583;262;5;Pedro
+94786;276;4;Jhegson Méndez
+94836;327;3;Burgos
+94845;282;4;Battaglia
+94853;285;6;Eduardo Coudet
+94931;263;4;Lucas Fernandes
+94968;280;2;Juninho Capixaba
+95127;327;2;Nicolas
+95220;267;2;Jefferson
+95466;276;2;Igor Vinícius
+95556;1371;4;Raniele
+95638;356;3;Marcelo Benevenuto
+95662;327;4;Lucas Kal
+95799;275;5;Artur
+95878;356;3;Tobias Figueiredo
+96089;283;4;Machado
+96340;266;4;Lima
+96610;283;4;Matheus Pereira
+96652;262;4;Allan
+96678;285;2;Bustos
+96725;282;2;Saravia
+96754;275;4;Atuesta
+96966;283;5;Arthur Gomes
+97080;266;5;Yony González
+97133;356;2;Dudu
+97145;284;4;Villasanti
+97321;290;5;Alesson
+97450;264;5;Gustavo Mosquito
+97453;327;1;Jori
+97468;263;2;Marçal
+97653;275;3;Murilo
+97768;294;3;Reynaldo
+97867;280;3;Léo Ortiz
+97899;265;2;Matheus Bahia
+97900;285;3;Vitão
+97908;290;4;Luís Oyama
+97993;284;4;Jhonata Varela
+98022;293;4;Erick
+98433;267;5;Sebastián Ferreira
+98484;265;3;Kanu
+98496;1371;1;Vinícius Barreta
+98517;277;4;Jean Lucas
+98605;263;2;Di Placido
+98619;294;3;Kuscevic
+98706;282;4;Pedrinho
+98723;267;4;Carabajal
+98909;293;5;Cuello
+98976;276;4;Gabriel
+99119;277;5;Lucas Braga
+99198;267;5;Vegetti
+99213;267;2;Puma Rodríguez
+99214;277;4;Rodrigo Fernández
+99267;356;4;Pochettino
+99412;290;4;Morelli
+99552;262;1;Rossi
+99588;283;5;Paulo Vitor
+99815;266;4;Arias
+99818;282;5;Paulinho
+99889;276;3;Alan Franco
+100034;294;3;Maurício Antônio
+100079;282;4;Zaracho
+100084;282;4;Igor Gomes
+100085;356;4;Pedro Augusto
+100103;327;5;Pedrinho
+100333;327;5;Paulinho Bóia
+100453;263;3;Luis Segovia
+100652;264;5;Yuri Alberto
+100761;294;4;Liziero
+100848;280;2;Luan Cândido
+100969;1371;4;Ronald Lopes
+100987;277;4;Nonato
+101002;263;5;Júnior Santos
+101027;290;4;Diego
+101201;265;5;Vitor Jacaré
+101290;284;5;Ferreira
+101314;265;5;Ademir
+101319;266;2;Guga
+101405;283;4;Wallisson
+101573;284;4;Pepê
+101579;267;3;Robson Bambu
+101594;293;4;Hugo Moura
+101600;277;3;Alex
+101684;290;5;Philippe Costa
+101708;277;2;Felipe Jonatan
+101715;280;5;Alerrandro
+101720;267;3;Miranda
+101727;262;2;Matheuzinho
+101728;276;3;Diego Costa
+101960;280;5;Vitinho
+101995;356;3;Brítez
+102096;290;5;Anderson Oliveira
+102130;275;2;Piquerez
+102137;266;1;Vitor Eudes
+102253;290;3;Lucas Halter
+102290;283;1;Gabriel Mesquita
+102299;327;5;Mikael
+102302;283;5;Rafael Elias
+102310;293;3;Matheus Felipe
+102318;276;2;Caio Paulista
+102340;293;3;Cacá
+102561;327;5;Mastriani
+102598;280;5;Helinho
+102906;283;1;Anderson
+102907;265;1;Matheus Teixeira
+102909;276;4;Luan
+102911;290;4;Zé Ricardo
+102928;293;5;Canobbio
+102975;356;2;Escobar
+103014;280;5;Laquintana
+103295;280;4;Eric Ramires
+103347;1371;2;Matheus Alexandre
+103388;327;4;Emmanuel Martínez
+103575;264;3;Caetano
+103576;283;5;Rafael Bilu
+103645;276;5;Marcos Paulo
+103684;293;3;Kaíque Rocha
+103695;280;4;Jadsom Silva
+103700;264;3;Bruno Méndez
+103767;275;4;Gabriel Menino
+103987;290;4;Higor Meritão
+104017;280;1;Maycon
+104079;263;1;João Fernando
+104084;264;1;Carlos Miguel
+104085;282;3;Bruno Fuchs
+104153;264;4;Ruan
+104257;277;2;João Lucas
+104360;280;3;Lucas Rafael
+104383;282;1;Matheus Mendes
+104385;285;3;Igor Gomes
+104401;266;3;Vitor Mendes
+104420;293;5;Reinaldo
+104424;284;1;Felipe Scheibig
+104502;293;4;Christian
+104504;263;3;Henrique Vermudt
+104521;356;4;Vinícius Zanocelo
+104580;277;4;Sandry
+104588;280;1;Fabrício
+104640;294;4;Matheus Bianqui
+104754;356;6;Juan Vojvoda
+104783;265;4;Acevedo
+104811;294;4;Sebastián Gómez
+104991;263;1;Igo Gabriel
+105047;283;3;João Marcelo
+105049;263;5;Luis Henrique
+105175;293;2;Khellven
+105208;293;1;Bento
+105294;267;4;De Lucca
+105300;276;3;Ferraresi
+105373;265;3;Gabriel Xavier
+105531;264;2;Matheus Bidu
+105547;1371;5;Rikelme
+105566;267;2;Riquelme
+105568;356;5;Lucero
+105584;267;2;Lucas Piton
+105585;264;4;Roni
+105631;263;6;Bruno Lage
+105647;285;4;Maurício
+105672;285;3;Nicolás Hernández
+105811;283;5;Wesley
+105842;290;3;Edu
+105845;264;4;Matheus Araújo
+105902;267;4;Zé Gabriel
+105909;265;5;Vinicius Mingotti
+105911;285;4;Rômulo
+105914;277;2;Cadu Silva
+105949;285;1;Rochet
+105998;267;5;Vinícius
+106000;285;4;Lucas Ramos
+106002;285;4;Johnny
+106160;280;1;Lucão
+106199;267;5;Gabriel Pec
+106201;267;4;Figueiredo
+106202;294;4;Bruno Gomes
+106219;293;4;Kawan
+106299;280;3;Realpe
+106323;356;4;Caio Alexandre
+106327;283;2;Wesley Gasolina
+106371;284;4;Jhonata Robert
+106434;280;3;Eduardo Santos
+106682;267;1;Halls
+106704;263;5;Carlos Alberto
+106822;276;4;Rodrigo Nestor
+106824;276;2;Welington
+106829;276;2;Patryck
+106830;276;4;Talles Costa
+106831;276;5;Juan
+106832;276;4;Pedro Vilhena
+106835;280;3;Luan Patrick
+106950;293;2;Fernando
+106977;356;3;Bernardo Schappo
+107039;1371;4;Ricardo Cerqueira
+107052;283;5;Stênio
+107111;275;4;Richard Ríos
+107172;263;4;Patrick de Paula
+107173;276;4;Michel Araújo
+107179;264;1;Matheus Donelli
+107183;293;1;Léo Linck
+107186;293;2;Vinicius Kauê
+107191;293;2;Leonardo Ataíde
+107197;293;5;Rômulo
+107225;275;2;Gustavo Garcia
+107232;265;4;Miqueias
+107236;275;2;Vanderlan
+107375;290;4;Dodô
+107416;277;4;Luan Dias
+107498;266;4;André
+107554;294;2;Natanael
+107645;327;6;Fabián Bustos
+107740;285;1;Emerson Júnior
+107744;267;4;Praxedes
+107748;265;1;Adriel
+107796;265;4;Diego Rosa
+107800;283;4;Fernando Henrique
+107801;284;3;Natã
+107809;285;4;Matheus Dias
+107908;290;2;Hugo
+107950;264;4;Fausto Vera
+108131;294;5;Garcez
+108133;1371;5;Isidro Pitta
+108163;327;4;Javier Méndez
+108201;284;4;Gustavinho
+108211;290;5;Breno
+108352;285;5;Gabriel Barros
+108422;276;5;Erison
+108528;267;4;Galarza
+108624;293;5;Arriagada
+108715;290;5;João Magno
+108946;263;5;Victor Sá
+109102;293;4;Daniel Martins
+109114;263;5;Matheus Nascimento
+109199;263;2;DG
+109246;280;5;Kawê
+109347;356;1;Kennedy
+109389;265;3;Raul Gustavo
+109404;293;5;Thiago Andrade
+109412;283;4;Ian Luccas
+109461;356;4;Calebe
+109497;277;5;Marcos Leonardo
+109563;277;3;Joaquim
+109573;266;4;Martinelli
+109639;290;5;Gabriel Novaes
+109668;263;2;Hugo
+110055;263;4;Matías Segovia
+110251;293;1;Gabriel Pereira
+110506;275;6;Abel Ferreira
+110512;284;5;Lucas Besozzi
+110602;277;1;Paulo Mazoti
+110624;275;1;Mateus
+110632;290;5;Luiz Filipe
+110667;356;5;Machuca
+110668;293;2;Esquivel
+110698;293;1;Mycael
+110708;266;1;Pedro Rangel
+110715;280;2;Andrés Hurtado
+110727;282;2;Rubens
+110759;266;5;John Kennedy
+110760;265;5;Biel
+110775;294;1;Marcão
+110776;267;4;Orellano
+110818;265;6;Renato Paiva
+110909;280;2;Guilherme Lopes
+110928;290;5;Lucão
+110947;266;4;Gustavo Apis
+110962;263;4;Kayque
+111017;266;4;Leo Fernández
+111172;327;1;Robson
+111309;284;3;Gustavo Martins
+111333;280;5;Sorriso
+111408;264;5;Felipe Augusto
+111428;265;2;Camilo Cándido
+111578;1371;6;António Oliveira
+111638;277;3;Robson
+111652;327;5;Rodrigo Varanda
+111682;264;4;Adson
+111689;356;1;Bruno Guimarães
+111690;262;1;Matheus Cunha
+111694;262;5;Mateusão
+111713;263;3;Lucas Mezenga
+111760;275;4;Fabinho
+111761;267;1;Cadu
+111763;263;4;JP Galvão
+111769;267;4;Marlon Gomes
+111819;284;2;Thomas Luciano
+111829;265;5;Kayky
+111839;266;3;Felipe Andrade
+111841;266;4;Arthur
+111891;264;4;Guilherme Biro
+111945;263;4;Diego Hernández
+111949;1371;5;Quagliata
+111996;290;4;Julián Palacios
+112136;276;3;Lucas Beraldo
+112140;284;4;Bitello
+112367;294;3;Thalisson Gabriel
+112370;1371;5;Emerson Ramon
+112616;284;1;Gabriel Grando
+112709;283;2;Kaiki
+112886;294;4;Lucas Barbosa
+112913;267;3;Capasso
+112984;262;5;Werton
+113103;275;5;Flaco López
+113154;282;2;Kauan
+113157;276;2;Nathan Mendes
+113159;275;3;Michel
+113295;327;3;Júlio
+113359;276;4;Pablo Maia
+113384;294;2;Diogo Batista
+113558;280;4;Bruninho
+113663;275;5;Kevin
+113667;262;5;Ryan Luka
+114174;262;5;André Luiz
+114497;1371;2;Juan Tavares
+114790;262;3;Cleiton
+114802;293;5;Vitor Roque
+114888;280;4;Luciano
+114893;1371;1;Peruchi
+115025;277;4;Miguelito
+115061;285;2;Thauan Lara
+115227;276;5;Caio
+115239;262;2;Wesley
+115246;275;3;Naves
+115247;275;1;Kaique
+115248;275;4;Jhon Jhon
+115268;282;3;Rômulo
+115273;293;5;Emersonn
+115537;265;3;Marcos Victor
+115563;327;4;Rodriguinho
+115671;284;4;Mila
+115674;282;1;Gabriel Delfim
+115733;267;3;Zé Vitor
+115734;267;3;Pimentel
+115870;280;2;Jonathan
+115915;266;5;Lelê
+115959;275;5;Endrick
+115986;1371;4;Denilson
+115997;327;4;Mateus Henrique
+115998;327;5;Adyson
+116000;263;2;Wallison
+116012;280;4;Matheus Gonçalves
+116013;262;4;Igor Jesus
+116034;262;4;Victor Hugo
+116046;282;4;Vitor Graziani
+116048;263;4;Raí
+116065;284;2;Cuiabano
+116137;276;2;João Moreira
+116282;294;4;Gabriel Silva
+116432;283;4;Daniel Junior
+116447;356;4;Hércules
+116450;265;2;André
+116461;294;2;Jamerson
+116825;280;2;Jhonny
+116835;290;5;Reginaldo
+117314;280;5;Thiago Borbas
+117336;280;3;Cipriano
+117403;327;5;Renato Marques
+117459;264;2;Léo Maná
+117579;276;4;Galoppo
+117711;280;6;Pedro Caixinha
+117818;276;1;Young
+117849;264;5;Giovane
+117870;285;4;Estevão
+117909;264;5;Wesley
+117934;263;5;Adamo
+118175;280;4;Nathan Camargo
+118238;284;4;Ronald
+118304;290;5;Pedrinho
+118501;262;2;Zé Welinton
+118563;276;4;Rodriguinho
+118676;277;5;Weslley Patati
+118701;277;2;Kevyson
+118709;1371;4;Calebe
+118747;277;4;Ed Carlos
+118752;267;4;Mateus Carvalho
+118770;265;4;Patrick Verhon
+118774;266;2;Alexsander
+118843;263;4;Jacob Montes
+118844;294;5;Kaio César
+120419;293;3;João Vitor
+121184;267;5;Erick Marcus
+121235;290;4;Simioni
+121237;356;4;Kauan
+121238;290;5;Wendell
+121242;290;4;Alan
+121263;1371;5;Gabryel Freitas
+121752;1371;5;Pablo
+121766;267;2;Paulinho Silva
+121779;1371;3;Vitão
+121792;284;5;André
+121796;294;3;Jean Pedroso
+121821;264;3;Murillo
+121830;263;5;Janderson
+121984;277;2;Pedrinho Scaramussa
+121985;266;4;Giovanni Manson
+122233;284;5;Ronald Barcellos
+122293;294;3;Thiago Dombroski
+122300;265;2;Ryan
+122301;265;5;Kennedy
+122321;262;4;Lorran
+122378;267;3;Lyncon
+122393;280;5;Talisson
+122394;280;4;Gustavinho
+122396;264;4;Ryan
+122398;264;4;Adryan
+122419;285;3;Felipe
+122420;285;5;Lucca
+122439;266;4;Isaac
+122441;266;3;Kayky Almeida
+122485;267;4;Barros
+122486;267;5;Rayan
+122598;356;4;Amorim
+122602;276;3;Matheus Belém
+122668;290;2;Bruno Santos
+122755;280;3;Lucas Cunha
+122991;327;4;Breno
+123022;264;5;Pedro
+123054;265;1;Tiago Gomes
+123153;284;5;Zinho
+123359;282;5;Cadu
+123360;265;4;Cauly
+123610;275;4;Pedro Lima
+123648;294;5;Lucas Ronier
+123713;275;4;Luis Guilherme
+123717;284;2;Zé Guilherme
+123725;293;3;Arthur Zanella
+123907;283;6;Pepa
+124158;280;5;Everton
+124239;280;5;Henry Mosquera
+124247;282;5;Isaac
+124249;282;2;Léo Santos
+124250;282;5;Pedro Ataíde
+124251;277;5;Deivid Washington
+124267;285;2;Rangel
+124313;275;2;Ian
+124340;1371;3;Allyson
+124358;294;2;João Vitor
+124481;263;2;Mateo Ponte
+124674;276;4;Felipe Negrucci
+124690;282;4;Paulo Vitor
+124698;290;3;Nolasco
+124699;283;5;Arielson
+124701;276;1;Leandro
+124728;266;2;João Henrique
+124757;284;5;Nathan Fernandes
+124758;280;3;Gustavo Henrique
+124821;266;5;Kauã Elias
+124830;284;5;Lian
+124834;294;4;Ruan Assis
+124917;327;4;Rafa Barcelos
+124918;264;3;Renato
+125000;284;2;Wesley Costa
+125050;283;5;Robert
+125081;290;6;Armando Evangelista
+125467;284;3;Viery
+125469;282;5;Alisson
+125470;294;6;Thiago Kosloski
+125471;267;5;Serginho
+125487;264;4;Gabriel Moscardo
+125551;294;4;Jean Gabriel
+125746;293;4;Dudu
+125803;294;1;Pedro Morisco
+125804;266;2;Rafael Monteiro
+125926;293;4;Zapelli
+125992;294;5;Diogo Oliveira
+126010;280;4;Yani Quintero
+126013;276;3;Ythallo
+126095;263;1;Gabriel Toebe
+126116;284;5;Freddy
+126117;284;5;Gustavo Gomes
+126120;280;5;Marcelinho
+126182;267;4;Paulinho
+126216;1371;5;Derik Lacerda
+126387;266;3;Justen

@@ -1,767 +1,767 @@
-atleta_id;clube_id;posicao_id;atleta_apelido
-37656;266;1;F·bio
-37865;277;5;Bruno Mezenga
-38144;276;2;Rafinha
-38229;264;2;F·bio Santos
-38279;327;5;Wellington Paulista
-38394;293;3;Thiago Heleno
-38398;264;4;Renato Augusto
-38402;266;2;Marcelo
-38545;266;4;Felipe Melo
-38750;262;2;Filipe LuÌs
-38877;282;2;Mariano
-39148;282;5;Hulk
-39656;282;4;Alan Franco
-40990;276;6;Dorival J˙nior
-41327;264;6;Vanderlei Luxemburgo
-41929;284;6;Renato Ga˙cho
-42116;293;5;Willian
-42234;264;1;C·ssio
-42500;264;2;Fagner
-43618;282;6;Luiz Felipe Scolari
-49675;276;5;Alexandre Pato
-50317;266;3;David Braz
-50347;282;5;Alan Kardec
-50353;356;3;Titi
-50856;294;3;Henrique
-51042;290;2;Apodi
-51413;1371;1;Walter
-51548;264;4;Giuliano
-51772;262;4;Everton Ribeiro
-52253;282;3;RÈver
-52827;262;3;David Luiz
-60793;267;4;Alex Teixeira
-60825;327;5;Felipe Azevedo
-60852;1371;2;Uendel
-61106;265;2;Cicinho
-61188;283;5;Gilberto
-62969;266;5;Alan
-62977;266;4;Ganso
-63013;275;2;Marcos Rocha
-63024;294;4;FransÈrgio
-63058;294;4;Willian Farias
-63289;282;4;EdenÌlson
-63354;285;3;Rodrigo Moledo
-68685;285;4;Alan Patrick
-68708;263;4;Eduardo
-68727;277;2;DodÙ
-68770;277;4;Camacho
-68872;275;1;Marcelo Lomba
-68895;1371;5;Wellington Silva
-68917;290;5;Vinicius
-68920;275;5;Dudu
-68923;264;3;Gil
-68928;276;1;Rafael
-68940;283;1;Rafael Cabral
-68942;283;3;Luciano Cast·n
-68952;356;5;Marinho
-68991;356;4;Lucas Sasha
-69010;1371;1;Jo„o Carlos
-69012;262;1;Santos
-69014;266;3;Manoel
-69022;293;5;Marcelo Cirino
-69034;264;4;Paulinho
-69040;277;1;Vladimir
-69051;265;1;Danilo Fernandes
-69063;276;4;James RodrÌguez
-69102;282;5;Vargas
-69138;293;5;Pablo
-69165;262;3;Pablo
-69189;290;3;Sidimar
-69318;284;5;Luis Su·rez
-69325;285;4;Ar·nguiz
-69355;267;4;Medel
-69375;293;4;Vidal
-69686;284;5;Jo„o Pedro Galv„o
-69705;283;4;Nik„o
-70164;276;5;Lucas Moura
-70171;263;2;Rafael
-70172;284;2;F·bio
-70221;284;3;Bruno Uvini
-70316;263;5;Diego Costa
-70360;280;5;Eduardo Sasha
-70449;294;1;Gabriel
-70666;1371;3;Marllon
-70788;285;5;Enner Valencia
-70800;262;6;Jorge Sampaoli
-70916;266;2;Diogo Barbosa
-70944;285;4;Bruno Henrique
-70984;267;4;Payet
-70986;265;4;LÈo Cittadini
-71227;267;3;Maicon
-71571;356;1;Fernando Miguel
-71631;275;1;Weverton
-71684;275;3;Gustavo GÛmez
-71844;356;5;Thiago Galhardo
-71898;263;4;Gabriel Pires
-72134;284;5;Iturbe
-72142;327;3;Danilo Avelar
-72294;282;1;Everson
-72372;276;1;Felipe Alves
-72391;266;6;Fernando Diniz
-72497;285;4;Gustavo Campanharo
-72532;290;2;Maguinho
-72580;327;1;Matheus Cavichioli
-72583;285;5;Pedro Henrique
-72595;356;1;MaurÌcio Kozlinski
-72605;265;3;Vitor Hugo
-72762;1371;4;Ceppelini
-72772;285;5;Luiz Adriano
-72775;293;4;Fernandinho
-72951;285;3;Mercado
-73318;327;2;Daniel Borges
-73384;266;2;Samuel Xavier
-73479;285;5;Jean Dias
-73620;284;3;Bruno Alves
-73766;277;6;Diego Aguirre
-73781;290;5;Guilherme Marques
-73800;262;3;Rodrigo Caio
-73850;327;5;AloÌsio
-73974;277;4;Alison
-74061;263;1;Gatito Fern·ndez
-74187;277;4;RincÛn
-78077;293;2;Madson
-78117;265;5;Everaldo
-78445;285;2;RenÍ
-78580;1371;5;Jonathan Cafu
-78605;285;4;Gabriel
-78715;283;4;Ramiro
-78850;284;2;Reinaldo
-78855;266;4;Thiago Santos
-79113;263;3;VÌctor Cuesta
-79188;356;5;Silvio Romero
-79268;1371;4;Filipe Augusto
-79334;327;3;Ricardo Silva
-79631;266;5;Cano
-79701;283;4;Lucas Silva
-80196;356;4;Yago Pikachu
-80287;276;5;Luciano
-80313;265;2;Gilberto
-80538;266;3;Marlon
-80583;277;4;Lucas Lima
-80692;275;3;Luan
-80853;284;3;Pedro Geromel
-81091;267;4;Jair
-81121;265;4;Lucas Mugni
-81150;275;2;Mayke
-81551;285;2;Mallo
-81798;267;5;Rossi
-81845;276;4;Alisson
-81881;356;1;Jo„o Ricardo
-81952;290;4;Willian Oliveira
-81966;290;4;Raphael Guzzo
-82381;327;4;Juninho
-82453;290;1;Tadeu
-82455;275;4;ZÈ Rafael
-82463;282;4;Ot·vio
-82627;262;5;Luiz Ara˙jo
-82628;356;2;Tinga
-82730;290;1;Marcelo Rangel
-82766;276;4;Wellington Rato
-83257;262;5;Gabriel
-83276;277;5;Julio Furch
-83433;282;4;Patrick
-83528;262;3;LÈo Pereira
-83786;283;3;Neris
-83817;1371;5;Clayson
-84042;263;5;Tiquinho Soares
-84263;282;3;Jemerson
-84339;290;3;Bruno Melo
-84428;1371;4;Fernando Sobral
-84523;356;5;Romarinho
-84674;280;4;Lucas Evangelista
-84816;262;2;Varela
-84817;294;5;Robson
-84918;265;5;Rafael Rat„o
-85004;265;1;Marcos Felipe
-85083;275;1;Vinicius Silvestre
-85315;264;4;Cantillo
-85425;277;1;Jo„o Paulo
-85465;293;4;Alex Santana
-85626;267;3;LÈo
-85931;282;4;Hyoran
-86143;327;3;Wanderson
-86388;327;4;AlÍ
-86391;290;2;Sander
-86410;294;2;Victor Luis
-86485;266;5;Keno
-86508;276;1;Jandrei
-86686;263;4;TchÍ TchÍ
-86757;262;5;Everton
-86759;284;4;Luan
-86777;263;4;Danilo Barbosa
-86799;294;5;Rodrigo Pinho
-86841;294;4;Boschilia
-86859;356;4;JosÈ Welison
-86864;327;2;Marlon
-87008;267;1;LÈo Jardim
-87009;284;4;Nathan
-87225;293;3;Pedro Henrique
-87228;282;2;Guilherme Arana
-87242;285;4;Carlos de Pena
-87258;277;5;Soteldo
-87342;284;3;Kannemann
-87391;290;5;Allano
-87402;277;3;Messias
-87470;265;4;Thaciano
-87552;293;4;Vitor Bueno
-87603;327;1;Mateus Pasinato
-87747;265;4;Yago Felipe
-87808;263;3;Philipe Sampaio
-87853;282;3;Mauricio Lemos
-87863;262;4;Arrascaeta
-88033;1371;3;Alan Empereur
-88065;266;2;Jorge
-88136;267;1;Ivan
-88323;264;5;¡ngel Romero
-88368;267;2;Gabriel Dias
-88393;262;2;Ayrton Lucas
-88423;280;2;Aderlan
-88597;356;4;Lucas Crispim
-88857;294;4;Marcelino Moreno
-88916;294;1;Luan Polli
-89226;327;3;Iago Maidana
-89256;262;4;Gerson
-89273;284;2;Jo„o Pedro
-89275;283;2;William
-89493;282;3;Igor Rabello
-89637;262;4;Thiago Maia
-89840;276;5;Calleri
-89846;284;4;Cristaldo
-89883;277;4;Dodi
-89918;284;5;Everton Galdino
-90031;277;5;Mendoza
-90061;356;2;Bruno Pacheco
-90120;294;5;Edu
-90232;276;2;RaÌ Ramos
-90285;262;5;Bruno Henrique
-90290;275;4;Jailson
-90302;356;5;Pedro Rocha
-90309;276;5;David
-90449;265;4;Rezende
-90540;290;5;Diego GonÁalves
-90590;265;1;Mateus Claus
-90634;1371;4;Lucas Mineiro
-90768;262;3;FabrÌcio Bruno
-91151;327;5;Everaldo
-91190;1371;2;PK
-91203;327;3;…der
-91254;284;4;Carballo
-91260;263;1;Lucas Perri
-91473;262;4;Erick Pulgar
-91573;276;3;Arboleda
-91607;275;5;Rony
-91664;263;3;Adryelson
-91689;283;4;Matheus Jussa
-91706;283;2;Marlon
-91708;266;3;Nino
-91712;290;1;Matheus Alves
-91772;265;3;David Duarte
-91866;293;3;ZÈ Ivaldo
-91908;282;5;PavÛn
-91971;293;6;Wesley Carvalho
-92075;267;6;RamÛn DÌaz
-92207;284;1;CaÌque
-92237;284;3;Rodrigo Ely
-92291;294;3;Bruno Viana
-92496;280;4;Raul
-92696;327;5;Renato Kayzer
-92708;1371;5;Deyverson
-92811;283;5;Bruno Rodrigues
-92855;283;2;Palacios
-93108;283;4;Mateus Vital
-93236;264;2;Rafael Ramos
-93368;264;3;Lucas VerÌssimo
-93372;277;3;Jo„o Basso
-93478;285;5;Wanderson
-93550;327;4;BenÌtez
-93702;277;2;Gabriel InocÍncio
-93716;267;2;Paulo Henrique
-93787;294;4;Andrey
-93790;263;4;Marlon Freitas
-93791;266;4;Daniel
-93797;327;2;Marcinho
-93834;285;1;Keiller
-93882;280;1;Cleiton
-93886;327;4;Matheusinho
-93988;275;5;Breno Lopes
-94007;264;4;MatÌas Rojas
-94044;285;1;John Victor
-94067;280;4;Matheus Fernandes
-94154;264;4;Maycon
-94207;356;5;Guilherme
-94263;327;4;Dad· Belmonte
-94444;290;5;Matheus Babi
-94509;275;4;Raphael Veiga
-94514;283;3;Oliveira
-94583;262;5;Pedro
-94786;276;4;Jhegson MÈndez
-94836;327;3;Burgos
-94845;282;4;Battaglia
-94853;285;6;Eduardo Coudet
-94931;263;4;Lucas Fernandes
-94968;280;2;Juninho Capixaba
-95127;327;2;Nicolas
-95220;267;2;Jefferson
-95466;276;2;Igor VinÌcius
-95556;1371;4;Raniele
-95638;356;3;Marcelo Benevenuto
-95662;327;4;Lucas Kal
-95799;275;5;Artur
-95878;356;3;Tobias Figueiredo
-96089;283;4;Machado
-96340;266;4;Lima
-96610;283;4;Matheus Pereira
-96652;262;4;Allan
-96678;285;2;Bustos
-96725;282;2;Saravia
-96754;275;4;Atuesta
-96966;283;5;Arthur Gomes
-97080;266;5;Yony Gonz·lez
-97133;356;2;Dudu
-97145;284;4;Villasanti
-97321;290;5;Alesson
-97450;264;5;Gustavo Mosquito
-97453;327;1;Jori
-97468;263;2;MarÁal
-97653;275;3;Murilo
-97768;294;3;Reynaldo
-97867;280;3;LÈo Ortiz
-97899;265;2;Matheus Bahia
-97900;285;3;Vit„o
-97908;290;4;LuÌs Oyama
-97993;284;4;Jhonata Varela
-98022;293;4;Erick
-98433;267;5;Sebasti·n Ferreira
-98484;265;3;Kanu
-98496;1371;1;VinÌcius Barreta
-98517;277;4;Jean Lucas
-98605;263;2;Di Placido
-98619;294;3;Kuscevic
-98706;282;4;Pedrinho
-98723;267;4;Carabajal
-98909;293;5;Cuello
-98976;276;4;Gabriel
-99119;277;5;Lucas Braga
-99198;267;5;Vegetti
-99213;267;2;Puma RodrÌguez
-99214;277;4;Rodrigo Fern·ndez
-99267;356;4;Pochettino
-99412;290;4;Morelli
-99552;262;1;Rossi
-99588;283;5;Paulo Vitor
-99815;266;4;Arias
-99818;282;5;Paulinho
-99889;276;3;Alan Franco
-100034;294;3;MaurÌcio AntÙnio
-100079;282;4;Zaracho
-100084;282;4;Igor Gomes
-100085;356;4;Pedro Augusto
-100103;327;5;Pedrinho
-100333;327;5;Paulinho BÛia
-100453;263;3;Luis Segovia
-100652;264;5;Yuri Alberto
-100761;294;4;Liziero
-100848;280;2;Luan C‚ndido
-100969;1371;4;Ronald Lopes
-100987;277;4;Nonato
-101002;263;5;J˙nior Santos
-101027;290;4;Diego
-101201;265;5;Vitor JacarÈ
-101290;284;5;Ferreira
-101314;265;5;Ademir
-101319;266;2;Guga
-101405;283;4;Wallisson
-101573;284;4;PepÍ
-101579;267;3;Robson Bambu
-101594;293;4;Hugo Moura
-101600;277;3;Alex
-101684;290;5;Philippe Costa
-101708;277;2;Felipe Jonatan
-101715;280;5;Alerrandro
-101720;267;3;Miranda
-101727;262;2;Matheuzinho
-101728;276;3;Diego Costa
-101960;280;5;Vitinho
-101995;356;3;BrÌtez
-102096;290;5;Anderson Oliveira
-102130;275;2;Piquerez
-102137;266;1;Vitor Eudes
-102253;290;3;Lucas Halter
-102290;283;1;Gabriel Mesquita
-102299;327;5;Mikael
-102302;283;5;Rafael Elias
-102310;293;3;Matheus Felipe
-102318;276;2;Caio Paulista
-102340;293;3;Cac·
-102561;327;5;Mastriani
-102598;280;5;Helinho
-102906;283;1;Anderson
-102907;265;1;Matheus Teixeira
-102909;276;4;Luan
-102911;290;4;ZÈ Ricardo
-102928;293;5;Canobbio
-102975;356;2;Escobar
-103014;280;5;Laquintana
-103295;280;4;Eric Ramires
-103347;1371;2;Matheus Alexandre
-103388;327;4;Emmanuel MartÌnez
-103575;264;3;Caetano
-103576;283;5;Rafael Bilu
-103645;276;5;Marcos Paulo
-103684;293;3;KaÌque Rocha
-103695;280;4;Jadsom Silva
-103700;264;3;Bruno MÈndez
-103767;275;4;Gabriel Menino
-103987;290;4;Higor Merit„o
-104017;280;1;Maycon
-104079;263;1;Jo„o Fernando
-104084;264;1;Carlos Miguel
-104085;282;3;Bruno Fuchs
-104153;264;4;Ruan
-104257;277;2;Jo„o Lucas
-104360;280;3;Lucas Rafael
-104383;282;1;Matheus Mendes
-104385;285;3;Igor Gomes
-104401;266;3;Vitor Mendes
-104420;293;5;Reinaldo
-104424;284;1;Felipe Scheibig
-104502;293;4;Christian
-104504;263;3;Henrique Vermudt
-104521;356;4;VinÌcius Zanocelo
-104580;277;4;Sandry
-104588;280;1;FabrÌcio
-104640;294;4;Matheus Bianqui
-104754;356;6;Juan Vojvoda
-104783;265;4;Acevedo
-104811;294;4;Sebasti·n GÛmez
-104991;263;1;Igo Gabriel
-105047;283;3;Jo„o Marcelo
-105049;263;5;Luis Henrique
-105175;293;2;Khellven
-105208;293;1;Bento
-105294;267;4;De Lucca
-105300;276;3;Ferraresi
-105373;265;3;Gabriel Xavier
-105531;264;2;Matheus Bidu
-105547;1371;5;Rikelme
-105566;267;2;Riquelme
-105568;356;5;Lucero
-105584;267;2;Lucas Piton
-105585;264;4;Roni
-105631;263;6;Bruno Lage
-105647;285;4;MaurÌcio
-105672;285;3;Nicol·s Hern·ndez
-105811;283;5;Wesley
-105842;290;3;Edu
-105845;264;4;Matheus Ara˙jo
-105902;267;4;ZÈ Gabriel
-105909;265;5;Vinicius Mingotti
-105911;285;4;RÙmulo
-105914;277;2;Cadu Silva
-105949;285;1;Rochet
-105998;267;5;VinÌcius
-106000;285;4;Lucas Ramos
-106002;285;4;Johnny
-106160;280;1;Luc„o
-106199;267;5;Gabriel Pec
-106201;267;4;Figueiredo
-106202;294;4;Bruno Gomes
-106219;293;4;Kawan
-106299;280;3;Realpe
-106323;356;4;Caio Alexandre
-106327;283;2;Wesley Gasolina
-106371;284;4;Jhonata Robert
-106434;280;3;Eduardo Santos
-106682;267;1;Halls
-106704;263;5;Carlos Alberto
-106822;276;4;Rodrigo Nestor
-106824;276;2;Welington
-106829;276;2;Patryck
-106830;276;4;Talles Costa
-106831;276;5;Juan
-106832;276;4;Pedro Vilhena
-106835;280;3;Luan Patrick
-106950;293;2;Fernando
-106977;356;3;Bernardo Schappo
-107039;1371;4;Ricardo Cerqueira
-107052;283;5;StÍnio
-107111;275;4;Richard RÌos
-107172;263;4;Patrick de Paula
-107173;276;4;Michel Ara˙jo
-107179;264;1;Matheus Donelli
-107183;293;1;LÈo Linck
-107186;293;2;Vinicius KauÍ
-107191;293;2;Leonardo AtaÌde
-107197;293;5;RÙmulo
-107225;275;2;Gustavo Garcia
-107232;265;4;Miqueias
-107236;275;2;Vanderlan
-107375;290;4;DodÙ
-107416;277;4;Luan Dias
-107498;266;4;AndrÈ
-107554;294;2;Natanael
-107645;327;6;Fabi·n Bustos
-107740;285;1;Emerson J˙nior
-107744;267;4;Praxedes
-107748;265;1;Adriel
-107796;265;4;Diego Rosa
-107800;283;4;Fernando Henrique
-107801;284;3;Nat„
-107809;285;4;Matheus Dias
-107908;290;2;Hugo
-107950;264;4;Fausto Vera
-108131;294;5;Garcez
-108133;1371;5;Isidro Pitta
-108163;327;4;Javier MÈndez
-108201;284;4;Gustavinho
-108211;290;5;Breno
-108352;285;5;Gabriel Barros
-108422;276;5;Erison
-108528;267;4;Galarza
-108624;293;5;Arriagada
-108715;290;5;Jo„o Magno
-108946;263;5;Victor S·
-109102;293;4;Daniel Martins
-109114;263;5;Matheus Nascimento
-109199;263;2;DG
-109246;280;5;KawÍ
-109347;356;1;Kennedy
-109389;265;3;Raul Gustavo
-109404;293;5;Thiago Andrade
-109412;283;4;Ian Luccas
-109461;356;4;Calebe
-109497;277;5;Marcos Leonardo
-109563;277;3;Joaquim
-109573;266;4;Martinelli
-109639;290;5;Gabriel Novaes
-109668;263;2;Hugo
-110055;263;4;MatÌas Segovia
-110251;293;1;Gabriel Pereira
-110506;275;6;Abel Ferreira
-110512;284;5;Lucas Besozzi
-110602;277;1;Paulo Mazoti
-110624;275;1;Mateus
-110632;290;5;Luiz Filipe
-110667;356;5;Machuca
-110668;293;2;Esquivel
-110698;293;1;Mycael
-110708;266;1;Pedro Rangel
-110715;280;2;AndrÈs Hurtado
-110727;282;2;Rubens
-110759;266;5;John Kennedy
-110760;265;5;Biel
-110775;294;1;Marc„o
-110776;267;4;Orellano
-110818;265;6;Renato Paiva
-110909;280;2;Guilherme Lopes
-110928;290;5;Luc„o
-110947;266;4;Gustavo Apis
-110962;263;4;Kayque
-111017;266;4;Leo Fern·ndez
-111172;327;1;Robson
-111309;284;3;Gustavo Martins
-111333;280;5;Sorriso
-111408;264;5;Felipe Augusto
-111428;265;2;Camilo C·ndido
-111578;1371;6;AntÛnio Oliveira
-111638;277;3;Robson
-111652;327;5;Rodrigo Varanda
-111682;264;4;Adson
-111689;356;1;Bruno Guimar„es
-111690;262;1;Matheus Cunha
-111694;262;5;Mateus„o
-111713;263;3;Lucas Mezenga
-111760;275;4;Fabinho
-111761;267;1;Cadu
-111763;263;4;JP Galv„o
-111769;267;4;Marlon Gomes
-111819;284;2;Thomas Luciano
-111829;265;5;Kayky
-111839;266;3;Felipe Andrade
-111841;266;4;Arthur
-111891;264;4;Guilherme Biro
-111945;263;4;Diego Hern·ndez
-111949;1371;5;Quagliata
-111996;290;4;Juli·n Palacios
-112136;276;3;Lucas Beraldo
-112140;284;4;Bitello
-112367;294;3;Thalisson Gabriel
-112370;1371;5;Emerson Ramon
-112616;284;1;Gabriel Grando
-112709;283;2;Kaiki
-112886;294;4;Lucas Barbosa
-112913;267;3;Capasso
-112984;262;5;Werton
-113103;275;5;Flaco LÛpez
-113154;282;2;Kauan
-113157;276;2;Nathan Mendes
-113159;275;3;Michel
-113295;327;3;J˙lio
-113359;276;4;Pablo Maia
-113384;294;2;Diogo Batista
-113558;280;4;Bruninho
-113663;275;5;Kevin
-113667;262;5;Ryan Luka
-114174;262;5;AndrÈ Luiz
-114497;1371;2;Juan Tavares
-114790;262;3;Cleiton
-114802;293;5;Vitor Roque
-114888;280;4;Luciano
-114893;1371;1;Peruchi
-115025;277;4;Miguelito
-115061;285;2;Thauan Lara
-115227;276;5;Caio
-115239;262;2;Wesley
-115246;275;3;Naves
-115247;275;1;Kaique
-115248;275;4;Jhon Jhon
-115268;282;3;RÙmulo
-115273;293;5;Emersonn
-115537;265;3;Marcos Victor
-115563;327;4;Rodriguinho
-115671;284;4;Mila
-115674;282;1;Gabriel Delfim
-115733;267;3;ZÈ Vitor
-115734;267;3;Pimentel
-115870;280;2;Jonathan
-115915;266;5;LelÍ
-115959;275;5;Endrick
-115986;1371;4;Denilson
-115997;327;4;Mateus Henrique
-115998;327;5;Adyson
-116000;263;2;Wallison
-116012;280;4;Matheus GonÁalves
-116013;262;4;Igor Jesus
-116034;262;4;Victor Hugo
-116046;282;4;Vitor Graziani
-116048;263;4;RaÌ
-116065;284;2;Cuiabano
-116137;276;2;Jo„o Moreira
-116282;294;4;Gabriel Silva
-116432;283;4;Daniel Junior
-116447;356;4;HÈrcules
-116450;265;2;AndrÈ
-116461;294;2;Jamerson
-116825;280;2;Jhonny
-116835;290;5;Reginaldo
-117314;280;5;Thiago Borbas
-117336;280;3;Cipriano
-117403;327;5;Renato Marques
-117459;264;2;LÈo Man·
-117579;276;4;Galoppo
-117711;280;6;Pedro Caixinha
-117818;276;1;Young
-117849;264;5;Giovane
-117870;285;4;Estev„o
-117909;264;5;Wesley
-117934;263;5;Adamo
-118175;280;4;Nathan Camargo
-118238;284;4;Ronald
-118304;290;5;Pedrinho
-118501;262;2;ZÈ Welinton
-118563;276;4;Rodriguinho
-118676;277;5;Weslley Patati
-118701;277;2;Kevyson
-118709;1371;4;Calebe
-118747;277;4;Ed Carlos
-118752;267;4;Mateus Carvalho
-118770;265;4;Patrick Verhon
-118774;266;2;Alexsander
-118843;263;4;Jacob Montes
-118844;294;5;Kaio CÈsar
-120419;293;3;Jo„o Vitor
-121184;267;5;Erick Marcus
-121235;290;4;Simioni
-121237;356;4;Kauan
-121238;290;5;Wendell
-121242;290;4;Alan
-121263;1371;5;Gabryel Freitas
-121752;1371;5;Pablo
-121766;267;2;Paulinho Silva
-121779;1371;3;Vit„o
-121792;284;5;AndrÈ
-121796;294;3;Jean Pedroso
-121821;264;3;Murillo
-121830;263;5;Janderson
-121984;277;2;Pedrinho Scaramussa
-121985;266;4;Giovanni Manson
-122233;284;5;Ronald Barcellos
-122293;294;3;Thiago Dombroski
-122300;265;2;Ryan
-122301;265;5;Kennedy
-122321;262;4;Lorran
-122378;267;3;Lyncon
-122393;280;5;Talisson
-122394;280;4;Gustavinho
-122396;264;4;Ryan
-122398;264;4;Adryan
-122419;285;3;Felipe
-122420;285;5;Lucca
-122439;266;4;Isaac
-122441;266;3;Kayky Almeida
-122485;267;4;Barros
-122486;267;5;Rayan
-122598;356;4;Amorim
-122602;276;3;Matheus BelÈm
-122668;290;2;Bruno Santos
-122755;280;3;Lucas Cunha
-122991;327;4;Breno
-123022;264;5;Pedro
-123054;265;1;Tiago Gomes
-123153;284;5;Zinho
-123359;282;5;Cadu
-123360;265;4;Cauly
-123610;275;4;Pedro Lima
-123648;294;5;Lucas Ronier
-123713;275;4;Luis Guilherme
-123717;284;2;ZÈ Guilherme
-123725;293;3;Arthur Zanella
-123907;283;6;Pepa
-124158;280;5;Everton
-124239;280;5;Henry Mosquera
-124247;282;5;Isaac
-124249;282;2;LÈo Santos
-124250;282;5;Pedro AtaÌde
-124251;277;5;Deivid Washington
-124267;285;2;Rangel
-124313;275;2;Ian
-124340;1371;3;Allyson
-124358;294;2;Jo„o Vitor
-124481;263;2;Mateo Ponte
-124674;276;4;Felipe Negrucci
-124690;282;4;Paulo Vitor
-124698;290;3;Nolasco
-124699;283;5;Arielson
-124701;276;1;Leandro
-124728;266;2;Jo„o Henrique
-124757;284;5;Nathan Fernandes
-124758;280;3;Gustavo Henrique
-124821;266;5;Kau„ Elias
-124830;284;5;Lian
-124834;294;4;Ruan Assis
-124917;327;4;Rafa Barcelos
-124918;264;3;Renato
-125000;284;2;Wesley Costa
-125050;283;5;Robert
-125081;290;6;Armando Evangelista
-125467;284;3;Viery
-125469;282;5;Alisson
-125470;294;6;Thiago Kosloski
-125471;267;5;Serginho
-125487;264;4;Gabriel Moscardo
-125551;294;4;Jean Gabriel
-125746;293;4;Dudu
-125803;294;1;Pedro Morisco
-125804;266;2;Rafael Monteiro
-125926;293;4;Zapelli
-125992;294;5;Diogo Oliveira
-126010;280;4;Yani Quintero
-126013;276;3;Ythallo
-126095;263;1;Gabriel Toebe
-126116;284;5;Freddy
-126117;284;5;Gustavo Gomes
-126120;280;5;Marcelinho
-126182;267;4;Paulinho
-126216;1371;5;Derik Lacerda
-126387;266;3;Justen
+atleta_id;atleta_apelido;posicao_id;clube_id;clube_nome
+37656;F√°bi;1;266;Fluminense
+37865;Bruno Mezenga;5;277;Santos
+38144;Rafinha;2;276;S√£o Paul
+38229;F√°bio Santo;2;264;Corinthians
+38279;Wellington Paulista;5;327;Am√©rica-M
+38394;Thiago Heleno;3;293;Athletico-PR
+38398;Renato Augusto;4;264;Corinthians
+38402;Marcelo;2;266;Fluminense
+38545;Felipe Melo;4;266;Fluminense
+38750;Filipe Lu√≠;2;262;Flamengo
+38877;Mariano;2;282;Atl√©tico-M
+39148;Hulk;5;282;Atl√©tico-M
+39656;Alan Franco;4;282;Atl√©tico-M
+40990;Dorival J√∫nio;6;276;S√£o Paul
+41327;Vanderlei Luxemburgo;6;264;Corinthians
+41929;Renato Ga√∫ch;6;284;Gr√™mi
+42116;Willian;5;293;Athletico-PR
+42234;C√°ssi;1;264;Corinthians
+42500;Fagner;2;264;Corinthians
+43618;Luiz Felipe Scolari;6;282;Atl√©tico-M
+49675;Alexandre Pato;5;276;S√£o Paul
+50317;David Braz;3;266;Fluminense
+50347;Alan Kardec;5;282;Atl√©tico-M
+50353;Titi;3;356;Fortaleza
+50856;Henrique;3;294;Coritiba
+51042;Apodi;2;290;Goi√°
+51413;Walter;1;1371;Cuiab√
+51548;Giuliano;4;264;Corinthians
+51772;Everton Ribeiro;4;262;Flamengo
+52253;R√©ve;3;282;Atl√©tico-M
+52827;David Luiz;3;262;Flamengo
+60793;Alex Teixeira;4;267;Vasco
+60825;Felipe Azevedo;5;327;Am√©rica-M
+60852;Uendel;2;1371;Cuiab√
+61106;Cicinho;2;265;Bahia
+61188;Gilberto;5;283;Cruzeiro
+62969;Alan;5;266;Fluminense
+62977;Ganso;4;266;Fluminense
+63013;Marcos Rocha;2;275;Palmeiras
+63024;Frans√©rgi;4;294;Coritiba
+63058;Willian Farias;4;294;Coritiba
+63289;Eden√≠lso;4;282;Atl√©tico-M
+63354;Rodrigo Moledo;3;285;Internacional
+68685;Alan Patrick;4;285;Internacional
+68708;Eduardo;4;263;Botafogo
+68727;Dod√;2;277;Santos
+68770;Camacho;4;277;Santos
+68872;Marcelo Lomba;1;275;Palmeiras
+68895;Wellington Silva;5;1371;Cuiab√
+68917;Vinicius;5;290;Goi√°
+68920;Dudu;5;275;Palmeiras
+68923;Gil;3;264;Corinthians
+68928;Rafael;1;276;S√£o Paul
+68940;Rafael Cabral;1;283;Cruzeiro
+68942;Luciano Cast√°;3;283;Cruzeiro
+68952;Marinho;5;356;Fortaleza
+68991;Lucas Sasha;4;356;Fortaleza
+69010;Jo√£o Carlo;1;1371;Cuiab√
+69012;Santos;1;262;Flamengo
+69014;Manoel;3;266;Fluminense
+69022;Marcelo Cirino;5;293;Athletico-PR
+69034;Paulinho;4;264;Corinthians
+69040;Vladimir;1;277;Santos
+69051;Danilo Fernandes;1;265;Bahia
+69063;James Rodr√≠gue;4;276;S√£o Paul
+69102;Vargas;5;282;Atl√©tico-M
+69138;Pablo;5;293;Athletico-PR
+69165;Pablo;3;262;Flamengo
+69189;Sidimar;3;290;Goi√°
+69318;Luis Su√°re;5;284;Gr√™mi
+69325;Ar√°ngui;4;285;Internacional
+69355;Medel;4;267;Vasco
+69375;Vidal;4;293;Athletico-PR
+69686;Jo√£o Pedro Galv√;5;284;Gr√™mi
+69705;Nik√£;4;283;Cruzeiro
+70164;Lucas Moura;5;276;S√£o Paul
+70171;Rafael;2;263;Botafogo
+70172;F√°bi;2;284;Gr√™mi
+70221;Bruno Uvini;3;284;Gr√™mi
+70316;Diego Costa;5;263;Botafogo
+70360;Eduardo Sasha;5;280;Bragantino
+70449;Gabriel;1;294;Coritiba
+70666;Marllon;3;1371;Cuiab√
+70788;Enner Valencia;5;285;Internacional
+70800;Jorge Sampaoli;6;262;Flamengo
+70916;Diogo Barbosa;2;266;Fluminense
+70944;Bruno Henrique;4;285;Internacional
+70984;Payet;4;267;Vasco
+70986;L√©o Cittadin;4;265;Bahia
+71227;Maicon;3;267;Vasco
+71571;Fernando Miguel;1;356;Fortaleza
+71631;Weverton;1;275;Palmeiras
+71684;Gustavo G√≥me;3;275;Palmeiras
+71844;Thiago Galhardo;5;356;Fortaleza
+71898;Gabriel Pires;4;263;Botafogo
+72134;Iturbe;5;284;Gr√™mi
+72142;Danilo Avelar;3;327;Am√©rica-M
+72294;Everson;1;282;Atl√©tico-M
+72372;Felipe Alves;1;276;S√£o Paul
+72391;Fernando Diniz;6;266;Fluminense
+72497;Gustavo Campanharo;4;285;Internacional
+72532;Maguinho;2;290;Goi√°
+72580;Matheus Cavichioli;1;327;Am√©rica-M
+72583;Pedro Henrique;5;285;Internacional
+72595;Maur√≠cio Kozlinsk;1;356;Fortaleza
+72605;Vitor Hugo;3;265;Bahia
+72762;Ceppelini;4;1371;Cuiab√
+72772;Luiz Adriano;5;285;Internacional
+72775;Fernandinho;4;293;Athletico-PR
+72951;Mercado;3;285;Internacional
+73318;Daniel Borges;2;327;Am√©rica-M
+73384;Samuel Xavier;2;266;Fluminense
+73479;Jean Dias;5;285;Internacional
+73620;Bruno Alves;3;284;Gr√™mi
+73766;Diego Aguirre;6;277;Santos
+73781;Guilherme Marques;5;290;Goi√°
+73800;Rodrigo Caio;3;262;Flamengo
+73850;Alo√≠si;5;327;Am√©rica-M
+73974;Alison;4;277;Santos
+74061;Gatito Fern√°nde;1;263;Botafogo
+74187;Rinc√≥;4;277;Santos
+78077;Madson;2;293;Athletico-PR
+78117;Everaldo;5;265;Bahia
+78445;Ren√;2;285;Internacional
+78580;Jonathan Cafu;5;1371;Cuiab√
+78605;Gabriel;4;285;Internacional
+78715;Ramiro;4;283;Cruzeiro
+78850;Reinaldo;2;284;Gr√™mi
+78855;Thiago Santos;4;266;Fluminense
+79113;V√≠ctor Cuest;3;263;Botafogo
+79188;Silvio Romero;5;356;Fortaleza
+79268;Filipe Augusto;4;1371;Cuiab√
+79334;Ricardo Silva;3;327;Am√©rica-M
+79631;Cano;5;266;Fluminense
+79701;Lucas Silva;4;283;Cruzeiro
+80196;Yago Pikachu;4;356;Fortaleza
+80287;Luciano;5;276;S√£o Paul
+80313;Gilberto;2;265;Bahia
+80538;Marlon;3;266;Fluminense
+80583;Lucas Lima;4;277;Santos
+80692;Luan;3;275;Palmeiras
+80853;Pedro Geromel;3;284;Gr√™mi
+81091;Jair;4;267;Vasco
+81121;Lucas Mugni;4;265;Bahia
+81150;Mayke;2;275;Palmeiras
+81551;Mallo;2;285;Internacional
+81798;Rossi;5;267;Vasco
+81845;Alisson;4;276;S√£o Paul
+81881;Jo√£o Ricard;1;356;Fortaleza
+81952;Willian Oliveira;4;290;Goi√°
+81966;Raphael Guzzo;4;290;Goi√°
+82381;Juninho;4;327;Am√©rica-M
+82453;Tadeu;1;290;Goi√°
+82455;Z√© Rafae;4;275;Palmeiras
+82463;Ot√°vi;4;282;Atl√©tico-M
+82627;Luiz Ara√∫j;5;262;Flamengo
+82628;Tinga;2;356;Fortaleza
+82730;Marcelo Rangel;1;290;Goi√°
+82766;Wellington Rato;4;276;S√£o Paul
+83257;Gabriel;5;262;Flamengo
+83276;Julio Furch;5;277;Santos
+83433;Patrick;4;282;Atl√©tico-M
+83528;L√©o Pereir;3;262;Flamengo
+83786;Neris;3;283;Cruzeiro
+83817;Clayson;5;1371;Cuiab√
+84042;Tiquinho Soares;5;263;Botafogo
+84263;Jemerson;3;282;Atl√©tico-M
+84339;Bruno Melo;3;290;Goi√°
+84428;Fernando Sobral;4;1371;Cuiab√
+84523;Romarinho;5;356;Fortaleza
+84674;Lucas Evangelista;4;280;Bragantino
+84816;Varela;2;262;Flamengo
+84817;Robson;5;294;Coritiba
+84918;Rafael Rat√£;5;265;Bahia
+85004;Marcos Felipe;1;265;Bahia
+85083;Vinicius Silvestre;1;275;Palmeiras
+85315;Cantillo;4;264;Corinthians
+85425;Jo√£o Paul;1;277;Santos
+85465;Alex Santana;4;293;Athletico-PR
+85626;L√©;3;267;Vasco
+85931;Hyoran;4;282;Atl√©tico-M
+86143;Wanderson;3;327;Am√©rica-M
+86388;Al√;4;327;Am√©rica-M
+86391;Sander;2;290;Goi√°
+86410;Victor Luis;2;294;Coritiba
+86485;Keno;5;266;Fluminense
+86508;Jandrei;1;276;S√£o Paul
+86686;Tch√™ Tch;4;263;Botafogo
+86757;Everton;5;262;Flamengo
+86759;Luan;4;284;Gr√™mi
+86777;Danilo Barbosa;4;263;Botafogo
+86799;Rodrigo Pinho;5;294;Coritiba
+86841;Boschilia;4;294;Coritiba
+86859;Jos√© Weliso;4;356;Fortaleza
+86864;Marlon;2;327;Am√©rica-M
+87008;L√©o Jardi;1;267;Vasco
+87009;Nathan;4;284;Gr√™mi
+87225;Pedro Henrique;3;293;Athletico-PR
+87228;Guilherme Arana;2;282;Atl√©tico-M
+87242;Carlos de Pena;4;285;Internacional
+87258;Soteldo;5;277;Santos
+87342;Kannemann;3;284;Gr√™mi
+87391;Allano;5;290;Goi√°
+87402;Messias;3;277;Santos
+87470;Thaciano;4;265;Bahia
+87552;Vitor Bueno;4;293;Athletico-PR
+87603;Mateus Pasinato;1;327;Am√©rica-M
+87747;Yago Felipe;4;265;Bahia
+87808;Philipe Sampaio;3;263;Botafogo
+87853;Mauricio Lemos;3;282;Atl√©tico-M
+87863;Arrascaeta;4;262;Flamengo
+88033;Alan Empereur;3;1371;Cuiab√
+88065;Jorge;2;266;Fluminense
+88136;Ivan;1;267;Vasco
+88323;¡ngel Romero;5;264;Corinthians
+88368;Gabriel Dias;2;267;Vasco
+88393;Ayrton Lucas;2;262;Flamengo
+88423;Aderlan;2;280;Bragantino
+88597;Lucas Crispim;4;356;Fortaleza
+88857;Marcelino Moreno;4;294;Coritiba
+88916;Luan Polli;1;294;Coritiba
+89226;Iago Maidana;3;327;Am√©rica-M
+89256;Gerson;4;262;Flamengo
+89273;Jo√£o Pedr;2;284;Gr√™mi
+89275;William;2;283;Cruzeiro
+89493;Igor Rabello;3;282;Atl√©tico-M
+89637;Thiago Maia;4;262;Flamengo
+89840;Calleri;5;276;S√£o Paul
+89846;Cristaldo;4;284;Gr√™mi
+89883;Dodi;4;277;Santos
+89918;Everton Galdino;5;284;Gr√™mi
+90031;Mendoza;5;277;Santos
+90061;Bruno Pacheco;2;356;Fortaleza
+90120;Edu;5;294;Coritiba
+90232;Ra√≠ Ramo;2;276;S√£o Paul
+90285;Bruno Henrique;5;262;Flamengo
+90290;Jailson;4;275;Palmeiras
+90302;Pedro Rocha;5;356;Fortaleza
+90309;David;5;276;S√£o Paul
+90449;Rezende;4;265;Bahia
+90540;Diego Gon√ßalve;5;290;Goi√°
+90590;Mateus Claus;1;265;Bahia
+90634;Lucas Mineiro;4;1371;Cuiab√
+90768;Fabr√≠cio Brun;3;262;Flamengo
+91151;Everaldo;5;327;Am√©rica-M
+91190;PK;2;1371;Cuiab√
+91203;…der;3;327;Am√©rica-M
+91254;Carballo;4;284;Gr√™mi
+91260;Lucas Perri;1;263;Botafogo
+91473;Erick Pulgar;4;262;Flamengo
+91573;Arboleda;3;276;S√£o Paul
+91607;Rony;5;275;Palmeiras
+91664;Adryelson;3;263;Botafogo
+91689;Matheus Jussa;4;283;Cruzeiro
+91706;Marlon;2;283;Cruzeiro
+91708;Nino;3;266;Fluminense
+91712;Matheus Alves;1;290;Goi√°
+91772;David Duarte;3;265;Bahia
+91866;Z√© Ivald;3;293;Athletico-PR
+91908;Pav√≥;5;282;Atl√©tico-M
+91971;Wesley Carvalho;6;293;Athletico-PR
+92075;Ram√≥n D√≠;6;267;Vasco
+92207;Ca√≠qu;1;284;Gr√™mi
+92237;Rodrigo Ely;3;284;Gr√™mi
+92291;Bruno Viana;3;294;Coritiba
+92496;Raul;4;280;Bragantino
+92696;Renato Kayzer;5;327;Am√©rica-M
+92708;Deyverson;5;1371;Cuiab√
+92811;Bruno Rodrigues;5;283;Cruzeiro
+92855;Palacios;2;283;Cruzeiro
+93108;Mateus Vital;4;283;Cruzeiro
+93236;Rafael Ramos;2;264;Corinthians
+93368;Lucas Ver√≠ssim;3;264;Corinthians
+93372;Jo√£o Bass;3;277;Santos
+93478;Wanderson;5;285;Internacional
+93550;Ben√≠te;4;327;Am√©rica-M
+93702;Gabriel Inoc√™nci;2;277;Santos
+93716;Paulo Henrique;2;267;Vasco
+93787;Andrey;4;294;Coritiba
+93790;Marlon Freitas;4;263;Botafogo
+93791;Daniel;4;266;Fluminense
+93797;Marcinho;2;327;Am√©rica-M
+93834;Keiller;1;285;Internacional
+93882;Cleiton;1;280;Bragantino
+93886;Matheusinho;4;327;Am√©rica-M
+93988;Breno Lopes;5;275;Palmeiras
+94007;Mat√≠as Roja;4;264;Corinthians
+94044;John Victor;1;285;Internacional
+94067;Matheus Fernandes;4;280;Bragantino
+94154;Maycon;4;264;Corinthians
+94207;Guilherme;5;356;Fortaleza
+94263;Dad√° Belmont;4;327;Am√©rica-M
+94444;Matheus Babi;5;290;Goi√°
+94509;Raphael Veiga;4;275;Palmeiras
+94514;Oliveira;3;283;Cruzeiro
+94583;Pedro;5;262;Flamengo
+94786;Jhegson M√©nde;4;276;S√£o Paul
+94836;Burgos;3;327;Am√©rica-M
+94845;Battaglia;4;282;Atl√©tico-M
+94853;Eduardo Coudet;6;285;Internacional
+94931;Lucas Fernandes;4;263;Botafogo
+94968;Juninho Capixaba;2;280;Bragantino
+95127;Nicolas;2;327;Am√©rica-M
+95220;Jefferson;2;267;Vasco
+95466;Igor Vin√≠ciu;2;276;S√£o Paul
+95556;Raniele;4;1371;Cuiab√
+95638;Marcelo Benevenuto;3;356;Fortaleza
+95662;Lucas Kal;4;327;Am√©rica-M
+95799;Artur;5;275;Palmeiras
+95878;Tobias Figueiredo;3;356;Fortaleza
+96089;Machado;4;283;Cruzeiro
+96340;Lima;4;266;Fluminense
+96610;Matheus Pereira;4;283;Cruzeiro
+96652;Allan;4;262;Flamengo
+96678;Bustos;2;285;Internacional
+96725;Saravia;2;282;Atl√©tico-M
+96754;Atuesta;4;275;Palmeiras
+96966;Arthur Gomes;5;283;Cruzeiro
+97080;Yony Gonz√°le;5;266;Fluminense
+97133;Dudu;2;356;Fortaleza
+97145;Villasanti;4;284;Gr√™mi
+97321;Alesson;5;290;Goi√°
+97450;Gustavo Mosquito;5;264;Corinthians
+97453;Jori;1;327;Am√©rica-M
+97468;Mar√ßa;2;263;Botafogo
+97653;Murilo;3;275;Palmeiras
+97768;Reynaldo;3;294;Coritiba
+97867;L√©o Orti;3;280;Bragantino
+97899;Matheus Bahia;2;265;Bahia
+97900;Vit√£;3;285;Internacional
+97908;Lu√≠s Oyam;4;290;Goi√°
+97993;Jhonata Varela;4;284;Gr√™mi
+98022;Erick;4;293;Athletico-PR
+98433;Sebasti√°n Ferreir;5;267;Vasco
+98484;Kanu;3;265;Bahia
+98496;Vin√≠cius Barret;1;1371;Cuiab√
+98517;Jean Lucas;4;277;Santos
+98605;Di Placido;2;263;Botafogo
+98619;Kuscevic;3;294;Coritiba
+98706;Pedrinho;4;282;Atl√©tico-M
+98723;Carabajal;4;267;Vasco
+98909;Cuello;5;293;Athletico-PR
+98976;Gabriel;4;276;S√£o Paul
+99119;Lucas Braga;5;277;Santos
+99198;Vegetti;5;267;Vasco
+99213;Puma Rodr√≠gue;2;267;Vasco
+99214;Rodrigo Fern√°nde;4;277;Santos
+99267;Pochettino;4;356;Fortaleza
+99412;Morelli;4;290;Goi√°
+99552;Rossi;1;262;Flamengo
+99588;Paulo Vitor;5;283;Cruzeiro
+99815;Arias;4;266;Fluminense
+99818;Paulinho;5;282;Atl√©tico-M
+99889;Alan Franco;3;276;S√£o Paul
+100034;Maur√≠cio Ant√¥n;3;294;Coritiba
+100079;Zaracho;4;282;Atl√©tico-M
+100084;Igor Gomes;4;282;Atl√©tico-M
+100085;Pedro Augusto;4;356;Fortaleza
+100103;Pedrinho;5;327;Am√©rica-M
+100333;Paulinho B√≥i;5;327;Am√©rica-M
+100453;Luis Segovia;3;263;Botafogo
+100652;Yuri Alberto;5;264;Corinthians
+100761;Liziero;4;294;Coritiba
+100848;Luan C√¢ndid;2;280;Bragantino
+100969;Ronald Lopes;4;1371;Cuiab√
+100987;Nonato;4;277;Santos
+101002;J√∫nior Santo;5;263;Botafogo
+101027;Diego;4;290;Goi√°
+101201;Vitor Jacar√;5;265;Bahia
+101290;Ferreira;5;284;Gr√™mi
+101314;Ademir;5;265;Bahia
+101319;Guga;2;266;Fluminense
+101405;Wallisson;4;283;Cruzeiro
+101573;Pep√;4;284;Gr√™mi
+101579;Robson Bambu;3;267;Vasco
+101594;Hugo Moura;4;293;Athletico-PR
+101600;Alex;3;277;Santos
+101684;Philippe Costa;5;290;Goi√°
+101708;Felipe Jonatan;2;277;Santos
+101715;Alerrandro;5;280;Bragantino
+101720;Miranda;3;267;Vasco
+101727;Matheuzinho;2;262;Flamengo
+101728;Diego Costa;3;276;S√£o Paul
+101960;Vitinho;5;280;Bragantino
+101995;Br√≠te;3;356;Fortaleza
+102096;Anderson Oliveira;5;290;Goi√°
+102130;Piquerez;2;275;Palmeiras
+102137;Vitor Eudes;1;266;Fluminense
+102253;Lucas Halter;3;290;Goi√°
+102290;Gabriel Mesquita;1;283;Cruzeiro
+102299;Mikael;5;327;Am√©rica-M
+102302;Rafael Elias;5;283;Cruzeiro
+102310;Matheus Felipe;3;293;Athletico-PR
+102318;Caio Paulista;2;276;S√£o Paul
+102340;Cac√;3;293;Athletico-PR
+102561;Mastriani;5;327;Am√©rica-M
+102598;Helinho;5;280;Bragantino
+102906;Anderson;1;283;Cruzeiro
+102907;Matheus Teixeira;1;265;Bahia
+102909;Luan;4;276;S√£o Paul
+102911;Z√© Ricard;4;290;Goi√°
+102928;Canobbio;5;293;Athletico-PR
+102975;Escobar;2;356;Fortaleza
+103014;Laquintana;5;280;Bragantino
+103295;Eric Ramires;4;280;Bragantino
+103347;Matheus Alexandre;2;1371;Cuiab√
+103388;Emmanuel Mart√≠ne;4;327;Am√©rica-M
+103575;Caetano;3;264;Corinthians
+103576;Rafael Bilu;5;283;Cruzeiro
+103645;Marcos Paulo;5;276;S√£o Paul
+103684;Ka√≠que Roch;3;293;Athletico-PR
+103695;Jadsom Silva;4;280;Bragantino
+103700;Bruno M√©nde;3;264;Corinthians
+103767;Gabriel Menino;4;275;Palmeiras
+103987;Higor Merit√£;4;290;Goi√°
+104017;Maycon;1;280;Bragantino
+104079;Jo√£o Fernand;1;263;Botafogo
+104084;Carlos Miguel;1;264;Corinthians
+104085;Bruno Fuchs;3;282;Atl√©tico-M
+104153;Ruan;4;264;Corinthians
+104257;Jo√£o Luca;2;277;Santos
+104360;Lucas Rafael;3;280;Bragantino
+104383;Matheus Mendes;1;282;Atl√©tico-M
+104385;Igor Gomes;3;285;Internacional
+104401;Vitor Mendes;3;266;Fluminense
+104420;Reinaldo;5;293;Athletico-PR
+104424;Felipe Scheibig;1;284;Gr√™mi
+104502;Christian;4;293;Athletico-PR
+104504;Henrique Vermudt;3;263;Botafogo
+104521;Vin√≠cius Zanocel;4;356;Fortaleza
+104580;Sandry;4;277;Santos
+104588;Fabr√≠ci;1;280;Bragantino
+104640;Matheus Bianqui;4;294;Coritiba
+104754;Juan Vojvoda;6;356;Fortaleza
+104783;Acevedo;4;265;Bahia
+104811;Sebasti√°n G√≥m;4;294;Coritiba
+104991;Igo Gabriel;1;263;Botafogo
+105047;Jo√£o Marcel;3;283;Cruzeiro
+105049;Luis Henrique;5;263;Botafogo
+105175;Khellven;2;293;Athletico-PR
+105208;Bento;1;293;Athletico-PR
+105294;De Lucca;4;267;Vasco
+105300;Ferraresi;3;276;S√£o Paul
+105373;Gabriel Xavier;3;265;Bahia
+105531;Matheus Bidu;2;264;Corinthians
+105547;Rikelme;5;1371;Cuiab√
+105566;Riquelme;2;267;Vasco
+105568;Lucero;5;356;Fortaleza
+105584;Lucas Piton;2;267;Vasco
+105585;Roni;4;264;Corinthians
+105631;Bruno Lage;6;263;Botafogo
+105647;Maur√≠ci;4;285;Internacional
+105672;Nicol√°s Hern√°nd;3;285;Internacional
+105811;Wesley;5;283;Cruzeiro
+105842;Edu;3;290;Goi√°
+105845;Matheus Ara√∫j;4;264;Corinthians
+105902;Z√© Gabrie;4;267;Vasco
+105909;Vinicius Mingotti;5;265;Bahia
+105911;R√¥mul;4;285;Internacional
+105914;Cadu Silva;2;277;Santos
+105949;Rochet;1;285;Internacional
+105998;Vin√≠ciu;5;267;Vasco
+106000;Lucas Ramos;4;285;Internacional
+106002;Johnny;4;285;Internacional
+106160;Luc√£;1;280;Bragantino
+106199;Gabriel Pec;5;267;Vasco
+106201;Figueiredo;4;267;Vasco
+106202;Bruno Gomes;4;294;Coritiba
+106219;Kawan;4;293;Athletico-PR
+106299;Realpe;3;280;Bragantino
+106323;Caio Alexandre;4;356;Fortaleza
+106327;Wesley Gasolina;2;283;Cruzeiro
+106371;Jhonata Robert;4;284;Gr√™mi
+106434;Eduardo Santos;3;280;Bragantino
+106682;Halls;1;267;Vasco
+106704;Carlos Alberto;5;263;Botafogo
+106822;Rodrigo Nestor;4;276;S√£o Paul
+106824;Welington;2;276;S√£o Paul
+106829;Patryck;2;276;S√£o Paul
+106830;Talles Costa;4;276;S√£o Paul
+106831;Juan;5;276;S√£o Paul
+106832;Pedro Vilhena;4;276;S√£o Paul
+106835;Luan Patrick;3;280;Bragantino
+106950;Fernando;2;293;Athletico-PR
+106977;Bernardo Schappo;3;356;Fortaleza
+107039;Ricardo Cerqueira;4;1371;Cuiab√
+107052;St√™ni;5;283;Cruzeiro
+107111;Richard R√≠o;4;275;Palmeiras
+107172;Patrick de Paula;4;263;Botafogo
+107173;Michel Ara√∫j;4;276;S√£o Paul
+107179;Matheus Donelli;1;264;Corinthians
+107183;L√©o Linc;1;293;Athletico-PR
+107186;Vinicius Kau√;2;293;Athletico-PR
+107191;Leonardo Ata√≠d;2;293;Athletico-PR
+107197;R√¥mul;5;293;Athletico-PR
+107225;Gustavo Garcia;2;275;Palmeiras
+107232;Miqueias;4;265;Bahia
+107236;Vanderlan;2;275;Palmeiras
+107375;Dod√;4;290;Goi√°
+107416;Luan Dias;4;277;Santos
+107498;Andr√;4;266;Fluminense
+107554;Natanael;2;294;Coritiba
+107645;Fabi√°n Busto;6;327;Am√©rica-M
+107740;Emerson J√∫nio;1;285;Internacional
+107744;Praxedes;4;267;Vasco
+107748;Adriel;1;265;Bahia
+107796;Diego Rosa;4;265;Bahia
+107800;Fernando Henrique;4;283;Cruzeiro
+107801;Nat√;3;284;Gr√™mi
+107809;Matheus Dias;4;285;Internacional
+107908;Hugo;2;290;Goi√°
+107950;Fausto Vera;4;264;Corinthians
+108131;Garcez;5;294;Coritiba
+108133;Isidro Pitta;5;1371;Cuiab√
+108163;Javier M√©nde;4;327;Am√©rica-M
+108201;Gustavinho;4;284;Gr√™mi
+108211;Breno;5;290;Goi√°
+108352;Gabriel Barros;5;285;Internacional
+108422;Erison;5;276;S√£o Paul
+108528;Galarza;4;267;Vasco
+108624;Arriagada;5;293;Athletico-PR
+108715;Jo√£o Magn;5;290;Goi√°
+108946;Victor S√;5;263;Botafogo
+109102;Daniel Martins;4;293;Athletico-PR
+109114;Matheus Nascimento;5;263;Botafogo
+109199;DG;2;263;Botafogo
+109246;Kaw√;5;280;Bragantino
+109347;Kennedy;1;356;Fortaleza
+109389;Raul Gustavo;3;265;Bahia
+109404;Thiago Andrade;5;293;Athletico-PR
+109412;Ian Luccas;4;283;Cruzeiro
+109461;Calebe;4;356;Fortaleza
+109497;Marcos Leonardo;5;277;Santos
+109563;Joaquim;3;277;Santos
+109573;Martinelli;4;266;Fluminense
+109639;Gabriel Novaes;5;290;Goi√°
+109668;Hugo;2;263;Botafogo
+110055;Mat√≠as Segovi;4;263;Botafogo
+110251;Gabriel Pereira;1;293;Athletico-PR
+110506;Abel Ferreira;6;275;Palmeiras
+110512;Lucas Besozzi;5;284;Gr√™mi
+110602;Paulo Mazoti;1;277;Santos
+110624;Mateus;1;275;Palmeiras
+110632;Luiz Filipe;5;290;Goi√°
+110667;Machuca;5;356;Fortaleza
+110668;Esquivel;2;293;Athletico-PR
+110698;Mycael;1;293;Athletico-PR
+110708;Pedro Rangel;1;266;Fluminense
+110715;Andr√©s Hurtad;2;280;Bragantino
+110727;Rubens;2;282;Atl√©tico-M
+110759;John Kennedy;5;266;Fluminense
+110760;Biel;5;265;Bahia
+110775;Marc√£;1;294;Coritiba
+110776;Orellano;4;267;Vasco
+110818;Renato Paiva;6;265;Bahia
+110909;Guilherme Lopes;2;280;Bragantino
+110928;Luc√£;5;290;Goi√°
+110947;Gustavo Apis;4;266;Fluminense
+110962;Kayque;4;263;Botafogo
+111017;Leo Fern√°nde;4;266;Fluminense
+111172;Robson;1;327;Am√©rica-M
+111309;Gustavo Martins;3;284;Gr√™mi
+111333;Sorriso;5;280;Bragantino
+111408;Felipe Augusto;5;264;Corinthians
+111428;Camilo C√°ndid;2;265;Bahia
+111578;Ant√≥nio Oliveir;6;1371;Cuiab√
+111638;Robson;3;277;Santos
+111652;Rodrigo Varanda;5;327;Am√©rica-M
+111682;Adson;4;264;Corinthians
+111689;Bruno Guimar√£e;1;356;Fortaleza
+111690;Matheus Cunha;1;262;Flamengo
+111694;Mateus√£;5;262;Flamengo
+111713;Lucas Mezenga;3;263;Botafogo
+111760;Fabinho;4;275;Palmeiras
+111761;Cadu;1;267;Vasco
+111763;JP Galv√£;4;263;Botafogo
+111769;Marlon Gomes;4;267;Vasco
+111819;Thomas Luciano;2;284;Gr√™mi
+111829;Kayky;5;265;Bahia
+111839;Felipe Andrade;3;266;Fluminense
+111841;Arthur;4;266;Fluminense
+111891;Guilherme Biro;4;264;Corinthians
+111945;Diego Hern√°nde;4;263;Botafogo
+111949;Quagliata;5;1371;Cuiab√
+111996;Juli√°n Palacio;4;290;Goi√°
+112136;Lucas Beraldo;3;276;S√£o Paul
+112140;Bitello;4;284;Gr√™mi
+112367;Thalisson Gabriel;3;294;Coritiba
+112370;Emerson Ramon;5;1371;Cuiab√
+112616;Gabriel Grando;1;284;Gr√™mi
+112709;Kaiki;2;283;Cruzeiro
+112886;Lucas Barbosa;4;294;Coritiba
+112913;Capasso;3;267;Vasco
+112984;Werton;5;262;Flamengo
+113103;Flaco L√≥pe;5;275;Palmeiras
+113154;Kauan;2;282;Atl√©tico-M
+113157;Nathan Mendes;2;276;S√£o Paul
+113159;Michel;3;275;Palmeiras
+113295;J√∫li;3;327;Am√©rica-M
+113359;Pablo Maia;4;276;S√£o Paul
+113384;Diogo Batista;2;294;Coritiba
+113558;Bruninho;4;280;Bragantino
+113663;Kevin;5;275;Palmeiras
+113667;Ryan Luka;5;262;Flamengo
+114174;Andr√© Lui;5;262;Flamengo
+114497;Juan Tavares;2;1371;Cuiab√
+114790;Cleiton;3;262;Flamengo
+114802;Vitor Roque;5;293;Athletico-PR
+114888;Luciano;4;280;Bragantino
+114893;Peruchi;1;1371;Cuiab√
+115025;Miguelito;4;277;Santos
+115061;Thauan Lara;2;285;Internacional
+115227;Caio;5;276;S√£o Paul
+115239;Wesley;2;262;Flamengo
+115246;Naves;3;275;Palmeiras
+115247;Kaique;1;275;Palmeiras
+115248;Jhon Jhon;4;275;Palmeiras
+115268;R√¥mul;3;282;Atl√©tico-M
+115273;Emersonn;5;293;Athletico-PR
+115537;Marcos Victor;3;265;Bahia
+115563;Rodriguinho;4;327;Am√©rica-M
+115671;Mila;4;284;Gr√™mi
+115674;Gabriel Delfim;1;282;Atl√©tico-M
+115733;Z√© Vito;3;267;Vasco
+115734;Pimentel;3;267;Vasco
+115870;Jonathan;2;280;Bragantino
+115915;Lel√;5;266;Fluminense
+115959;Endrick;5;275;Palmeiras
+115986;Denilson;4;1371;Cuiab√
+115997;Mateus Henrique;4;327;Am√©rica-M
+115998;Adyson;5;327;Am√©rica-M
+116000;Wallison;2;263;Botafogo
+116012;Matheus Gon√ßalve;4;280;Bragantino
+116013;Igor Jesus;4;262;Flamengo
+116034;Victor Hugo;4;262;Flamengo
+116046;Vitor Graziani;4;282;Atl√©tico-M
+116048;Ra√;4;263;Botafogo
+116065;Cuiabano;2;284;Gr√™mi
+116137;Jo√£o Moreir;2;276;S√£o Paul
+116282;Gabriel Silva;4;294;Coritiba
+116432;Daniel Junior;4;283;Cruzeiro
+116447;H√©rcule;4;356;Fortaleza
+116450;Andr√;2;265;Bahia
+116461;Jamerson;2;294;Coritiba
+116825;Jhonny;2;280;Bragantino
+116835;Reginaldo;5;290;Goi√°
+117314;Thiago Borbas;5;280;Bragantino
+117336;Cipriano;3;280;Bragantino
+117403;Renato Marques;5;327;Am√©rica-M
+117459;L√©o Man;2;264;Corinthians
+117579;Galoppo;4;276;S√£o Paul
+117711;Pedro Caixinha;6;280;Bragantino
+117818;Young;1;276;S√£o Paul
+117849;Giovane;5;264;Corinthians
+117870;Estev√£;4;285;Internacional
+117909;Wesley;5;264;Corinthians
+117934;Adamo;5;263;Botafogo
+118175;Nathan Camargo;4;280;Bragantino
+118238;Ronald;4;284;Gr√™mi
+118304;Pedrinho;5;290;Goi√°
+118501;Z√© Welinto;2;262;Flamengo
+118563;Rodriguinho;4;276;S√£o Paul
+118676;Weslley Patati;5;277;Santos
+118701;Kevyson;2;277;Santos
+118709;Calebe;4;1371;Cuiab√
+118747;Ed Carlos;4;277;Santos
+118752;Mateus Carvalho;4;267;Vasco
+118770;Patrick Verhon;4;265;Bahia
+118774;Alexsander;2;266;Fluminense
+118843;Jacob Montes;4;263;Botafogo
+118844;Kaio C√©sa;5;294;Coritiba
+120419;Jo√£o Vito;3;293;Athletico-PR
+121184;Erick Marcus;5;267;Vasco
+121235;Simioni;4;290;Goi√°
+121237;Kauan;4;356;Fortaleza
+121238;Wendell;5;290;Goi√°
+121242;Alan;4;290;Goi√°
+121263;Gabryel Freitas;5;1371;Cuiab√
+121752;Pablo;5;1371;Cuiab√
+121766;Paulinho Silva;2;267;Vasco
+121779;Vit√£;3;1371;Cuiab√
+121792;Andr√;5;284;Gr√™mi
+121796;Jean Pedroso;3;294;Coritiba
+121821;Murillo;3;264;Corinthians
+121830;Janderson;5;263;Botafogo
+121984;Pedrinho Scaramussa;2;277;Santos
+121985;Giovanni Manson;4;266;Fluminense
+122233;Ronald Barcellos;5;284;Gr√™mi
+122293;Thiago Dombroski;3;294;Coritiba
+122300;Ryan;2;265;Bahia
+122301;Kennedy;5;265;Bahia
+122321;Lorran;4;262;Flamengo
+122378;Lyncon;3;267;Vasco
+122393;Talisson;5;280;Bragantino
+122394;Gustavinho;4;280;Bragantino
+122396;Ryan;4;264;Corinthians
+122398;Adryan;4;264;Corinthians
+122419;Felipe;3;285;Internacional
+122420;Lucca;5;285;Internacional
+122439;Isaac;4;266;Fluminense
+122441;Kayky Almeida;3;266;Fluminense
+122485;Barros;4;267;Vasco
+122486;Rayan;5;267;Vasco
+122598;Amorim;4;356;Fortaleza
+122602;Matheus Bel√©;3;276;S√£o Paul
+122668;Bruno Santos;2;290;Goi√°
+122755;Lucas Cunha;3;280;Bragantino
+122991;Breno;4;327;Am√©rica-M
+123022;Pedro;5;264;Corinthians
+123054;Tiago Gomes;1;265;Bahia
+123153;Zinho;5;284;Gr√™mi
+123359;Cadu;5;282;Atl√©tico-M
+123360;Cauly;4;265;Bahia
+123610;Pedro Lima;4;275;Palmeiras
+123648;Lucas Ronier;5;294;Coritiba
+123713;Luis Guilherme;4;275;Palmeiras
+123717;Z√© Guilherm;2;284;Gr√™mi
+123725;Arthur Zanella;3;293;Athletico-PR
+123907;Pepa;6;283;Cruzeiro
+124158;Everton;5;280;Bragantino
+124239;Henry Mosquera;5;280;Bragantino
+124247;Isaac;5;282;Atl√©tico-M
+124249;L√©o Santo;2;282;Atl√©tico-M
+124250;Pedro Ata√≠d;5;282;Atl√©tico-M
+124251;Deivid Washington;5;277;Santos
+124267;Rangel;2;285;Internacional
+124313;Ian;2;275;Palmeiras
+124340;Allyson;3;1371;Cuiab√
+124358;Jo√£o Vito;2;294;Coritiba
+124481;Mateo Ponte;2;263;Botafogo
+124674;Felipe Negrucci;4;276;S√£o Paul
+124690;Paulo Vitor;4;282;Atl√©tico-M
+124698;Nolasco;3;290;Goi√°
+124699;Arielson;5;283;Cruzeiro
+124701;Leandro;1;276;S√£o Paul
+124728;Jo√£o Henriqu;2;266;Fluminense
+124757;Nathan Fernandes;5;284;Gr√™mi
+124758;Gustavo Henrique;3;280;Bragantino
+124821;Kau√£ Elia;5;266;Fluminense
+124830;Lian;5;284;Gr√™mi
+124834;Ruan Assis;4;294;Coritiba
+124917;Rafa Barcelos;4;327;Am√©rica-M
+124918;Renato;3;264;Corinthians
+125000;Wesley Costa;2;284;Gr√™mi
+125050;Robert;5;283;Cruzeiro
+125081;Armando Evangelista;6;290;Goi√°
+125467;Viery;3;284;Gr√™mi
+125469;Alisson;5;282;Atl√©tico-M
+125470;Thiago Kosloski;6;294;Coritiba
+125471;Serginho;5;267;Vasco
+125487;Gabriel Moscardo;4;264;Corinthians
+125551;Jean Gabriel;4;294;Coritiba
+125746;Dudu;4;293;Athletico-PR
+125803;Pedro Morisco;1;294;Coritiba
+125804;Rafael Monteiro;2;266;Fluminense
+125926;Zapelli;4;293;Athletico-PR
+125992;Diogo Oliveira;5;294;Coritiba
+126010;Yani Quintero;4;280;Bragantino
+126013;Ythallo;3;276;S√£o Paul
+126095;Gabriel Toebe;1;263;Botafogo
+126116;Freddy;5;284;Gr√™mi
+126117;Gustavo Gomes;5;284;Gr√™mi
+126120;Marcelinho;5;280;Bragantino
+126182;Paulinho;4;267;Vasco
+126216;Derik Lacerda;5;1371;Cuiab√
+126387;Justen;3;266;Fluminense
